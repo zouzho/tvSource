@@ -3,15 +3,13 @@ CCTV1,http://111.162.204.145:8686/rtp/225.1.1.120:5002
 CCTV2,http://111.162.204.145:8686/rtp/225.1.1.133:5002
 CCTV3,http://111.162.204.145:8686/rtp/225.1.1.158:5002
 CCTV4,http://111.162.204.145:8686/rtp/225.1.1.150:5002
-CCTV5,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 CCTV5,http://111.162.204.145:8686/rtp/225.1.1.160:5002
 CCTV5+,http://111.162.204.145:8686/rtp/225.1.1.121:5002
 CCTV6,http://111.162.204.145:8686/rtp/225.1.1.195:5002
 CCTV7,http://111.162.204.145:8686/rtp/225.1.1.138:5002
 CCTV8,http://111.162.204.145:8686/rtp/225.1.1.196:5002
 CCTV9,http://111.162.204.145:8686/rtp/225.1.1.119:5002
-CCTV9,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
-CCTV9,https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=90b7dd0c1e8956cfe5ebd41a34e882d1
+CCTV9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5fffe4d5ef1d5d3c94e4ee61cd25fe24
 CCTV10,http://111.162.204.145:8686/rtp/225.1.1.140:5002
 CCTV11,http://111.162.204.145:8686/rtp/225.1.2.192:5002
 CCTV12,http://111.162.204.145:8686/rtp/225.1.1.142:5002
@@ -39,11 +37,11 @@ CETV早期教育,http://111.162.204.145:8686/rtp/225.1.2.207:5002
 湖南卫视,http://111.162.204.145:8686/rtp/225.1.1.114:5002
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://111.162.204.145:8686/rtp/225.1.1.112:5002
-东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 东方卫视,http://111.162.204.145:8686/rtp/225.1.2.31:5002
-北京卫视,http://139.ye23.vip/dl/btv2502.php?id=bjws4
-北京卫视,http://139.ye23.vip/dl/btv2502.php?id=bjws4
+东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 北京卫视,http://111.162.204.145:8686/rtp/225.1.1.113:5002
+北京卫视,http://139.ye23.vip/dl/btv2502.php?id=bjws4
+北京卫视,http://139.ye23.vip/dl/btv2502.php?id=bjws4
 江苏卫视,http://111.162.204.145:8686/rtp/225.1.1.126:5002
 安徽卫视,http://111.162.204.145:8686/rtp/225.1.1.127:5002
 重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
@@ -60,8 +58,8 @@ CETV早期教育,http://111.162.204.145:8686/rtp/225.1.2.207:5002
 贵州卫视,http://111.162.204.145:8686/rtp/225.1.2.28:5002
 河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 河北卫视,http://111.162.204.145:8686/rtp/225.1.2.27:5002
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://111.162.204.145:8686/rtp/225.1.2.61:5002
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 黑龙江卫视,http://111.162.204.145:8686/rtp/225.1.1.115:5002
 湖北卫视,http://111.162.204.145:8686/rtp/225.1.1.147:5002
 江西卫视,http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
@@ -106,8 +104,8 @@ SiTV 魅力足球,http://111.162.204.145:8686/rtp/225.1.1.137:5002
 安徽综艺.体育频道,http://112.27.235.94:8000/hls/25/index.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 ☘️北京市,#genre#
-北京卫视4K,http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
 北京卫视4K,http://139.ye23.vip/dl/btv2502.php?id=bjws4
+北京卫视4K,http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
 ☘️上海市,#genre#
 上海都市,http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 上海东方财经,http://111.162.204.145:8686/rtp/225.1.1.247:5002
@@ -177,7 +175,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN记录1,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CINEMAX,https://ushls.ballbar.net/cinemax_twn/playlist-25.m3u8a?t=1735544618&token=8ebac953537627ece599949d71f0c2a7
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -236,7 +234,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 咪咕7,https://msj.188766.xyz/play?id=3000000001000010129&token=a4a80d16a4a80d16a4a80d16a4a80d16&client=ys
 咪咕8,https://msj.188766.xyz/play?id=3000000001000010948&token=1df066dc1df066dc1df066dc1df066dc
 咪咕9,https://msj.188766.xyz/play?id=3000000001000028638&token=1e0215f31e0215f31e0215f31e0215f3
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=7a871eefcbc2486550825b31ddb1caa5&wsTime=1767564008
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=91da214584ae86a17d4852d90ccb6f99&wsTime=1767585628
 大港油田企业,http://111.162.204.145:8686/rtp/225.1.2.14:5002
 天津交通广播,http://111.162.204.145:8686/rtp/225.1.1.175:5002
 天津体育频道,http://111.162.204.145:8686/rtp/225.1.1.122:5002
@@ -260,7 +258,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 娱乐新闻(备用),http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
 广东体育(备用3),https://hk.188766.xyz/?migutoken=2336dbec9c2383aa6d9e769a2997dcb9&id=gd_gdty&type=sz
 无线新闻(备用),https://hk.188766.xyz/?migutoken=b3d34d894bb89de551e8f637ab7f466d&id=hk_wxxw&type=dy
-未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8#http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8#http://143.244.60.30/TBS/index.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8#http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8#http://143.244.60.30/TBS/index.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8#https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 河东频道,http://111.162.204.145:8686/rtp/225.1.2.2:5002
 河南文物宝库,http://111.162.204.145:8686/rtp/225.1.2.105:5002
 河南梨园频道,http://111.162.204.145:8686/rtp/225.1.2.104:5002
