@@ -3577,3 +3577,4 @@ live.metshop.top
 175.8.180.226
 123.145.28.95
 123.145.35.149
+bcovlive-a.akamaihd.net
