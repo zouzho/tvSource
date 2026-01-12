@@ -3606,3 +3606,4 @@ bcovlive-a.akamaihd.net
 106.59.3.177
 39.77.24.107
 101.66.198.138
+live1.jzjsnm.cn
