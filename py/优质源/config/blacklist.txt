@@ -3636,3 +3636,5 @@ v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com
 106.59.3.168
 58.46.29.143
 test1.live.sdetv.com.cn
+pull-hls-f1.douyincdn.com
+1.197.250.30
