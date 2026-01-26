@@ -3685,3 +3685,5 @@ tvpull.dxhmt.cn
 ali-xwl.cztv.com
 pull-hs-f5.flive.douyincdn.com
 111.162.204.250
+36.49.51.207
+36.46.98.57
