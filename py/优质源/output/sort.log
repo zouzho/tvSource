@@ -1,312 +1,1290 @@
-测速日志 2026-02-05 14:58:02
-[2026-02-05 14:58:05] ✅ 测速成功: http://69.30.246.194/live/cctv12.m3u8
-   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:05] ✅ 测速成功: http://69.30.246.194/live/cctv11.m3u8
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:05] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:05] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
+测速日志 2026-02-05 20:59:53
+[2026-02-05 20:59:56] ✅ 测速成功: http://69.30.246.194/live/cctv11.m3u8
    速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:05] ✅ 测速成功: http://23.237.228.134/live5/CCTV1.m3u8
-   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:05] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:05] ✅ 测速成功: http://23.237.228.134/live5/CCTV2.m3u8
-   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:05] ✅ 测速成功: http://23.237.228.134/live3/CCTV17.m3u8
-   速度: 1014.65KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:05] ✅ 测速成功: http://23.237.228.134/live5/CCTV3.m3u8
-   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.13s
-[2026-02-05 14:58:05] ✅ 测速成功: http://61.221.215.25:8800/hls/43/index.m3u8
-   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-02-05 14:58:05] ✅ 测速成功: http://27.41.245.32:801/hls/14/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-02-05 14:58:05] ✅ 测速成功: http://23.237.228.134/live5/CCTV7.m3u8
-   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.13s
-[2026-02-05 14:58:05] ✅ 测速成功: http://27.41.245.32:801/hls/10/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-02-05 14:58:05] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1000_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.54s
-[2026-02-05 14:58:05] ✅ 测速成功: http://27.41.245.32:801/hls/2/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-02-05 14:58:05] ✅ 测速成功: http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-02-05 14:58:05] ✅ 测速成功: http://27.41.245.32:801/hls/5/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-02-05 14:58:05] ✅ 测速成功: http://27.41.245.32:801/hls/6/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-02-05 14:58:05] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1005_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.56s
-[2026-02-05 14:58:05] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:06] ✅ 测速成功: http://23.237.228.134/live6/dongnan.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.14s
-[2026-02-05 14:58:06] ✅ 测速成功: http://27.41.245.32:801/hls/7/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-02-05 14:58:06] ✅ 测速成功: http://27.41.245.32:801/hls/8/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-02-05 14:58:06] ✅ 测速成功: http://27.41.245.32:801/hls/9/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-02-05 14:58:06] ✅ 测速成功: http://27.41.245.32:801/hls/906/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-02-05 14:58:06] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1007_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.59s
-[2026-02-05 14:58:06] ✅ 测速成功: http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.55s
-[2026-02-05 14:58:06] ✅ 测速成功: http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
-   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-02-05 14:58:06] ✅ 测速成功: http://23.237.228.134/live3/beijing.m3u8
-   速度: 1000.00KB/s | 数据量: 1.0KB | 总耗时: 0.20s
-[2026-02-05 14:58:06] ✅ 测速成功: http://74.91.26.218:82/live/tyjd.m3u8
-   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.14s
-[2026-02-05 14:58:06] ✅ 测速成功: http://23.237.228.134/live6/guangdong.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:06] ✅ 测速成功: http://61.221.215.25:8800/hls/40/index.m3u8
-   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.40s
-[2026-02-05 14:58:06] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1012_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.44s
-[2026-02-05 14:58:06] ✅ 测速成功: http://23.237.228.134/live6/guangxi.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:06] ✅ 测速成功: http://23.237.228.134/live6/guizhou.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.13s
-[2026-02-05 14:58:06] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:06] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.93s
-[2026-02-05 14:58:06] ✅ 测速成功: http://23.237.228.134/live8/jiangxi.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.13s
-[2026-02-05 14:58:06] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
-[2026-02-05 14:58:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
-[2026-02-05 14:58:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.93s
-[2026-02-05 14:58:07] ✅ 测速成功: http://23.237.228.134/live6/zhejiang.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:07] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0110_1.m3u8
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.56s
-[2026-02-05 14:58:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
-[2026-02-05 14:58:07] ✅ 测速成功: http://69.30.246.194/live/zjws.m3u8
+[2026-02-05 20:59:56] ✅ 测速成功: http://69.30.246.194/live/cctv12.m3u8
    速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.88s
-[2026-02-05 14:58:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
-[2026-02-05 14:58:07] ✅ 测速成功: http://69.30.246.194/live/hnws.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:07] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-02-05 14:58:07] ✅ 测速成功: http://23.237.228.134/live6/shenzhen.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:07] ✅ 测速成功: http://23.237.228.134/live6/hubei.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:07] ✅ 测速成功: http://23.237.228.134/live6/hunan.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:07] ✅ 测速成功: http://23.237.228.134/live6/hainan.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.13s
-[2026-02-05 14:58:07] ✅ 测速成功: http://23.237.228.134/live6/chongqing.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.88s
-[2026-02-05 14:58:07] ✅ 测速成功: http://23.237.228.134/live6/sichuan.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:07] ✅ 测速成功: http://23.237.228.134/live8/qinghai.m3u8
-   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
-[2026-02-05 14:58:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.88s
-[2026-02-05 14:58:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.86s
-[2026-02-05 14:58:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.90s
-[2026-02-05 14:58:08] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e2267aaa19fa34767ab559ce7ab739d0&wsTime=1770285602 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-02-05 14:58:08] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
+[2026-02-05 20:59:56] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
    速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.95s
-[2026-02-05 14:58:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.92s
-[2026-02-05 14:58:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.93s
-[2026-02-05 14:58:08] ✅ 测速成功: http://101.66.198.203:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2882.81KB/s | 数据量: 2.9KB | 总耗时: 1.06s
-[2026-02-05 14:58:08] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
+[2026-02-05 20:59:56] ✅ 测速成功: http://23.237.228.134/live5/CCTV1.m3u8
+   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:56] ✅ 测速成功: http://23.237.228.134/live5/CCTV10.m3u8
+   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:56] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
    速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:08] ✅ 测速成功: http://69.30.246.194/live/cctv11.m3u8
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:08] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:08] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.37s
-[2026-02-05 14:58:09] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-   速度: 416.02KB/s | 数据量: 0.4KB | 总耗时: 0.45s
-[2026-02-05 14:58:09] ✅ 测速成功: http://27.41.245.32:801/hls/5/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-02-05 14:58:09] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:09] ✅ 测速成功: http://101.66.198.180:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 3.32KB/s | 数据量: 2.9KB | 总耗时: 1.87s
-[2026-02-05 14:58:09] ✅ 测速成功: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-   速度: 225.59KB/s | 数据量: 0.2KB | 总耗时: 1.60s
-[2026-02-05 14:58:09] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 506.84KB/s | 数据量: 0.5KB | 总耗时: 1.49s
-[2026-02-05 14:58:09] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-02-05 14:58:09] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-   速度: 277.34KB/s | 数据量: 0.3KB | 总耗时: 1.26s
-[2026-02-05 14:58:09] ✅ 测速成功: http://61.221.215.25:8800/hls/47/index.m3u8
-   速度: 251.95KB/s | 数据量: 0.3KB | 总耗时: 0.40s
-[2026-02-05 14:58:09] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
+[2026-02-05 20:59:56] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
+   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 20:59:56] ✅ 测速成功: http://74.91.26.218:82/live/cctv16hd.m3u8
+   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-02-05 20:59:56] ✅ 测速成功: http://23.237.228.134/live5/CCTV2.m3u8
+   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:56] ✅ 测速成功: http://23.237.228.134/live3/CCTV17.m3u8
+   速度: 1014.65KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:56] ✅ 测速成功: http://23.237.228.134/live5/CCTV3.m3u8
+   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:56] ✅ 测速成功: http://23.237.228.134/live5/CCTV5.m3u8
+   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:56] ✅ 测速成功: http://61.221.215.25:8800/hls/43/index.m3u8
+   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.41s
+[2026-02-05 20:59:56] ✅ 测速成功: http://27.41.245.32:801/hls/10/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-02-05 20:59:56] ✅ 测速成功: http://27.41.245.32:801/hls/14/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-02-05 20:59:56] ✅ 测速成功: http://23.237.228.134/live5/CCTV7.m3u8
+   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:56] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1012_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.57s
+[2026-02-05 20:59:56] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1000_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.60s
+[2026-02-05 20:59:56] ✅ 测速成功: http://23.237.228.134/live5/CCTV9.m3u8
+   速度: 1017.58KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:56] ✅ 测速成功: http://27.41.245.32:801/hls/2/index.m3u8
    速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-02-05 14:58:09] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.07s
-[2026-02-05 14:58:09] ✅ 测速成功: https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
-   速度: 394.53KB/s | 数据量: 0.4KB | 总耗时: 1.66s
-[2026-02-05 14:58:10] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-02-05 14:58:10] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+[2026-02-05 20:59:56] ✅ 测速成功: http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-02-05 20:59:56] ✅ 测速成功: http://27.41.245.32:801/hls/5/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-02-05 20:59:57] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1004_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.55s
+[2026-02-05 20:59:57] ✅ 测速成功: http://23.237.228.134/live8/gansu.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.15s
+[2026-02-05 20:59:57] ✅ 测速成功: http://27.41.245.32:801/hls/6/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.55s
+[2026-02-05 20:59:57] ✅ 测速成功: http://23.237.228.134/live6/dongnan.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:57] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 20:59:57] ✅ 测速成功: http://27.41.245.32:801/hls/7/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.55s
+[2026-02-05 20:59:57] ✅ 测速成功: http://27.41.245.32:801/hls/9/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-02-05 20:59:57] ✅ 测速成功: http://23.237.228.134/live8/neimenggu.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.14s
+[2026-02-05 20:59:57] ✅ 测速成功: http://27.41.245.32:801/hls/906/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-02-05 20:59:57] ✅ 测速成功: http://23.237.228.134/live8/jilin.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:57] ✅ 测速成功: http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-02-05 20:59:57] ✅ 测速成功: http://23.237.228.134/live6/guangdong.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:57] ✅ 测速成功: http://23.237.228.134/live6/guizhou.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.14s
+[2026-02-05 20:59:57] ✅ 测速成功: http://23.237.228.134/live6/guangxi.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:57] ✅ 测速成功: http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
+   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.55s
+[2026-02-05 20:59:57] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-02-05 20:59:57] ✅ 测速成功: http://23.237.228.134/live8/jiangxi.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:57] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.91s
-[2026-02-05 14:58:10] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.53s
-[2026-02-05 14:58:10] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.23s
-[2026-02-05 14:58:10] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
-[2026-02-05 14:58:10] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 2.55s
-[2026-02-05 14:58:10] ✅ 测速成功: http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
-   速度: 376.95KB/s | 数据量: 0.4KB | 总耗时: 3.04s
-[2026-02-05 14:58:10] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.93s
-[2026-02-05 14:58:10] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.93s
-[2026-02-05 14:58:10] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0136_1.m3u8
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.55s
-[2026-02-05 14:58:10] ✅ 测速成功: http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 818.36KB/s | 数据量: 0.8KB | 总耗时: 0.51s
-[2026-02-05 14:58:11] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 506.84KB/s | 数据量: 0.5KB | 总耗时: 0.11s
-[2026-02-05 14:58:11] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0110_1.m3u8
+[2026-02-05 20:59:57] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1017_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-02-05 20:59:57] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0110_1.m3u8
    速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.56s
-[2026-02-05 14:58:11] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.96s
-[2026-02-05 14:58:11] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0110_1.m3u8?txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.58s
-[2026-02-05 14:58:11] ✅ 测速成功: http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.61s
-[2026-02-05 14:58:11] ✅ 测速成功: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-   速度: 29162.11KB/s | 数据量: 29.2KB | 总耗时: 0.26s
-[2026-02-05 14:58:11] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0136_1.m3u8?txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.15s
-[2026-02-05 14:58:11] ✅ 测速成功: https://0472.org/hls/cgtne.m3u8
-   速度: 182.62KB/s | 数据量: 0.2KB | 总耗时: 0.22s
-[2026-02-05 14:58:11] ✅ 测速成功: https://0472.org/hls/cgtnf.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.16s
-[2026-02-05 14:58:11] ✅ 测速成功: https://0472.org/hls/cgtnx.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.08s
-[2026-02-05 14:58:11] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-   速度: 231.45KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-02-05 14:58:11] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.91s
-[2026-02-05 14:58:11] ✅ 测速成功: https://0472.org/hls/cgtna.m3u8
-   速度: 182.62KB/s | 数据量: 0.2KB | 总耗时: 0.08s
-[2026-02-05 14:58:11] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.91s
-[2026-02-05 14:58:11] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
+[2026-02-05 20:59:57] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
    速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-02-05 14:58:11] ✅ 测速成功: https://ushls.ballbar.net/cinemax_twn/playlist-25.m3u8a?t=1735544618&token=8ebac953537627ece599949d71f0c2a7
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.19s
-[2026-02-05 14:58:11] ✅ 测速成功: https://ushls.ballbar.net/afc_twn/playlist-15.m3u8a?t=1735543553&token=da3fad8c85ab5849addf84cfca7ea03e
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.22s
-[2026-02-05 14:58:11] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-02-05 14:58:11] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-02-05 14:58:11] ✅ 测速成功: https://ushls.ballbar.net/foodplanet_twn/playlist-15.m3u8a?t=1735543690&token=cd34200ffec4741d57fb3f076601ec4e
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.18s
-[2026-02-05 14:58:11] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+[2026-02-05 20:59:57] ✅ 测速成功: http://27.41.245.32:801/hls/8/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 1.25s
+[2026-02-05 20:59:58] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
+[2026-02-05 20:59:58] ✅ 测速成功: http://23.237.228.134/live6/zhejiang.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:58] ✅ 测速成功: http://69.30.246.194/live/zjws.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 20:59:58] ✅ 测速成功: http://69.30.246.194/live/hnws.m3u8
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 20:59:58] ✅ 测速成功: http://23.237.228.134/live6/shenzhen.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:58] ✅ 测速成功: http://23.237.228.134/live6/hubei.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:58] ✅ 测速成功: http://23.237.228.134/live6/hunan.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:58] ✅ 测速成功: http://23.237.228.134/live6/hainan.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:58] ✅ 测速成功: http://23.237.228.134/live6/chongqing.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:58] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.90s
+[2026-02-05 20:59:58] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.91s
-[2026-02-05 14:58:12] ✅ 测速成功: https://ushls.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1735544032&token=ec3d3a4c5c1c8f401cbe3ee78829811f
+[2026-02-05 20:59:58] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1021_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.29s
+[2026-02-05 20:59:58] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.94s
+[2026-02-05 20:59:58] ✅ 测速成功: http://23.237.228.134/live6/sichuan.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:58] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-02-05 20:59:58] ✅ 测速成功: http://23.237.228.134/live8/qinghai.m3u8
+   速度: 1020.51KB/s | 数据量: 1.0KB | 总耗时: 0.12s
+[2026-02-05 20:59:58] ✅ 测速成功: http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-02-05 20:59:58] ✅ 测速成功: http://221.13.235.129:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-02-05 20:59:58] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.96s
+[2026-02-05 20:59:58] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.93s
+[2026-02-05 20:59:59] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0136_1.m3u8
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-02-05 20:59:59] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.95s
+[2026-02-05 20:59:59] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0136_1.m3u8?txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.57s
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.87:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.87:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.141:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.141:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ✅ 测速成功: http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
+   速度: 2382.81KB/s | 数据量: 2.4KB | 总耗时: 0.55s
+[2026-02-05 20:59:59] ✅ 测速成功: http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
+   速度: 2410.16KB/s | 数据量: 2.4KB | 总耗时: 0.53s
+[2026-02-05 20:59:59] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.93s
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.183:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.183:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ✅ 测速成功: http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
+   速度: 2382.81KB/s | 数据量: 2.4KB | 总耗时: 0.53s
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.169:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.169:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ✅ 测速成功: http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
+   速度: 2410.16KB/s | 数据量: 2.4KB | 总耗时: 0.53s
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.208:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.208:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.140:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.140:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.175:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.175:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.120:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.120:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.47:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.47:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.48:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.48:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 20:59:59] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.153:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.153:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.155:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.155:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.2:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.2:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.156:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.156:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.176:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.176:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.3:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.3:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.4:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.4:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.152:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.152:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.142:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.142:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:00] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.89:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.89:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:01] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.90:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.90:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:01] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.93:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.93:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:01] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.157:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.157:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:01] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.151:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.151:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:01] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.163:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.163:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:01] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.111:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.111:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.92:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.92:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.177:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.177:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f811055d7b0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.134:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.134:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f811055e140>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.45:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.45:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f811055e7a0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.154:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.154:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f811055d040>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.46:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.46:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f811055ead0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.15:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.15:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.165:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.165:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.233:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.233:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.159:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.159:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.49:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.49:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:02] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.113:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.113:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.186:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.186:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f810c0e8e20>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.167:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.167:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.37:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.37:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.168:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.168:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.164:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.164:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.88:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.88:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.14:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.14:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.158:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.158:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f810c0e97b0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:03] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.94:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.94:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:04] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.78:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.78:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:04] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.220:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.220:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:04] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.224:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.224:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:04] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.237:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.237:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:04] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.102:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.102:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:04] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.50:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.50:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:04] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.51:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.51:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:04] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.28:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.28:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.13:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.13:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.116:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.116:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.205:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.205:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.241:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.241:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.242:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.242:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.254:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.254:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.22:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.22:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f810c15d150>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.253:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.253:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.166:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.166:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f810c15d480>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:05] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.219:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.219:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.77:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.77:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.244:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.244:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.174:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.174:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.185:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.185:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.251:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.251:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.252:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.252:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.19:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.19:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f810c15e140>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.143:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.143:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f810c15e470>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.24:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.24:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:06] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.216:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.216:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f810c15ee00>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:07] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.232:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.232:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:07] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.230:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.230:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:07] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.204:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.204:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:07] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.76:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.76:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:07] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.106:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.106:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f810c15fdf0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:07] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.75:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.75:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:07] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.248:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.248:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:07] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.210:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.210:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:08] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.245:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.245:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:08] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.231:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.231:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:08] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.215:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.215:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:08] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.211:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.211:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:08] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.240:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.240:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:08] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.226:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.226:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:08] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.227:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.227:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fcf32140>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:08] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.182:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.182:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.247:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.247:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fcf327a0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.84:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.84:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.193:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.193:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.243:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.243:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.214:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.214:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.228:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.228:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.239:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.239:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.187:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.187:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.133:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.133:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:09] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.70:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.70:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.221:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.221:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fcfa1150>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.71:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.71:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.27:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.27:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.12:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.12:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.209:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.209:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.21:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.21:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.66:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.66:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.65:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.65:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:10] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.64:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.64:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.63:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.63:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.225:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.225:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fcfa27a0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.149:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.149:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.117:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.117:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.144:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.144:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.23:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.23:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.74:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.74:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.114:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.114:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.109:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.109:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:11] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.83:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.83:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.170:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.170:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.18:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.18:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.72:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.72:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.238:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.238:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fce19150>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.73:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.73:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.7:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.7:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.69:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.69:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fce197b0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.29:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.29:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:12] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.30:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.30:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.172:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.172:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.31:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.31:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.68:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.68:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fce1ae00>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.171:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.171:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.20:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.20:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.32:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.32:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.34:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.34:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.81:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.81:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:13] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.250:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.250:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:14] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.35:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.35:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:14] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.33:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.33:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:14] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.139:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.139:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fce90af0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:14] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.229:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.229:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:14] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.98:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.98:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:14] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.115:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.115:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:14] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.82:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.82:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:14] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.28:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.28:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:15] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.181:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.181:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:15] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.80:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.80:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:15] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.11:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.11:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:15] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.217:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.217:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:15] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.103:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.103:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:15] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.107:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.107:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:16] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.105:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.105:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:16] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.118:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.118:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:16] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.2.10:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.2.10:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:16] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.246:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.246:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fcd04490>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:16] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.218:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.218:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fcd05150>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:16] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.119:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.119:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:17] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.79:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.79:5002 (Caused by ConnectTimeoutError(<HTTPConnection(host='144.255.32.148', port=8288) at 0x7f80fcd057b0>, 'Connection to 144.255.32.148 timed out. (connect timeout=3.05)')) | 域名: 144.255.32.148
+[2026-02-05 21:00:17] ❌ 测速失败: http://144.255.32.148:8288/udp/239.21.1.180:5002
+   错误: HTTPConnectionPool(host='144.255.32.148', port=8288): Max retries exceeded with url: /udp/239.21.1.180:5002 (Caused by NewConnectionError("HTTPConnection(host='144.255.32.148', port=8288): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 144.255.32.148
+[2026-02-05 21:00:21] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.82:8000
+   速度: 770.59KB/s | 数据量: 4096.0KB | 总耗时: 5.76s
+[2026-02-05 21:00:22] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.22:8002
+   速度: 721.42KB/s | 数据量: 4096.0KB | 总耗时: 6.12s
+[2026-02-05 21:00:22] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.105:8002
+   速度: 715.58KB/s | 数据量: 4096.0KB | 总耗时: 6.22s
+[2026-02-05 21:00:22] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.21:8002
+   速度: 664.03KB/s | 数据量: 4096.0KB | 总耗时: 6.65s
+[2026-02-05 21:00:22] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.83:8000
+   速度: 760.88KB/s | 数据量: 4096.0KB | 总耗时: 5.82s
+[2026-02-05 21:00:22] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.106:8002
+   速度: 736.43KB/s | 数据量: 4096.0KB | 总耗时: 6.66s
+[2026-02-05 21:00:22] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.108:8002
+   速度: 733.41KB/s | 数据量: 4096.0KB | 总耗时: 6.06s
+[2026-02-05 21:00:23] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.131:8002
+   速度: 732.68KB/s | 数据量: 4096.0KB | 总耗时: 6.03s
+[2026-02-05 21:00:24] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.35:8000
+   速度: 684.29KB/s | 数据量: 4096.0KB | 总耗时: 7.15s
+[2026-02-05 21:00:25] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.23:8002
+   速度: 491.07KB/s | 数据量: 3072.0KB | 总耗时: 8.82s
+[2026-02-05 21:00:28] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.128:8002
+   速度: 916.98KB/s | 数据量: 5120.0KB | 总耗时: 6.03s
+[2026-02-05 21:00:28] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.120:8002
+   速度: 834.73KB/s | 数据量: 5120.0KB | 总耗时: 6.58s
+[2026-02-05 21:00:29] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.4:8092
+   速度: 721.54KB/s | 数据量: 4096.0KB | 总耗时: 6.12s
+[2026-02-05 21:00:29] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.20:8004
+   速度: 698.37KB/s | 数据量: 4096.0KB | 总耗时: 6.32s
+[2026-02-05 21:00:29] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.1:8008
+   速度: 663.16KB/s | 数据量: 4096.0KB | 总耗时: 7.39s
+[2026-02-05 21:00:29] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.88:8000
+   速度: 633.46KB/s | 数据量: 4096.0KB | 总耗时: 6.97s
+[2026-02-05 21:00:30] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.2:8084
+   速度: 157.92KB/s | 数据量: 1024.0KB | 总耗时: 7.71s
+[2026-02-05 21:00:30] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.84:8000
+   速度: 790.89KB/s | 数据量: 4096.0KB | 总耗时: 6.36s
+[2026-02-05 21:00:31] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.7:8104
+   速度: 761.93KB/s | 数据量: 4096.0KB | 总耗时: 5.82s
+[2026-02-05 21:00:34] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.9:8112
+   速度: 706.61KB/s | 数据量: 4096.0KB | 总耗时: 6.28s
+[2026-02-05 21:00:34] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.10:8116
+   速度: 750.82KB/s | 数据量: 4096.0KB | 总耗时: 5.93s
+[2026-02-05 21:00:35] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.85:8000
+   速度: 742.63KB/s | 数据量: 4096.0KB | 总耗时: 7.05s
+[2026-02-05 21:00:35] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.14:8132
+   速度: 799.73KB/s | 数据量: 4096.0KB | 总耗时: 5.57s
+[2026-02-05 21:00:35] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.168:8130
+   速度: 720.49KB/s | 数据量: 4096.0KB | 总耗时: 6.13s
+[2026-02-05 21:00:36] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.73:8120
+   速度: 783.01KB/s | 数据量: 4096.0KB | 总耗时: 6.69s
+[2026-02-05 21:00:36] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.74:8136
+   速度: 726.85KB/s | 数据量: 4096.0KB | 总耗时: 6.12s
+[2026-02-05 21:00:36] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.12:8124
+   速度: 612.32KB/s | 数据量: 4096.0KB | 总耗时: 7.13s
+[2026-02-05 21:00:37] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.17:8144
+   速度: 565.70KB/s | 数据量: 3072.0KB | 总耗时: 5.87s
+[2026-02-05 21:00:39] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.89:8000
+   速度: 68.29KB/s | 数据量: 1024.0KB | 总耗时: 16.13s
+[2026-02-05 21:00:40] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.36:8002
+   速度: 792.68KB/s | 数据量: 4096.0KB | 总耗时: 5.65s
+[2026-02-05 21:00:41] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.38:8002
+   速度: 748.41KB/s | 数据量: 4096.0KB | 总耗时: 5.95s
+[2026-02-05 21:00:41] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.37:8002
+   速度: 708.67KB/s | 数据量: 4096.0KB | 总耗时: 6.26s
+[2026-02-05 21:00:42] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.63:8002
+   速度: 814.26KB/s | 数据量: 4096.0KB | 总耗时: 6.11s
+[2026-02-05 21:00:42] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.68:8002
+   速度: 720.30KB/s | 数据量: 4096.0KB | 总耗时: 6.13s
+[2026-02-05 21:00:43] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.69:8002
+   速度: 699.90KB/s | 数据量: 4096.0KB | 总耗时: 6.33s
+[2026-02-05 21:00:43] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.211:8002
+   速度: 638.77KB/s | 数据量: 4096.0KB | 总耗时: 6.90s
+[2026-02-05 21:00:43] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.75:8002
+   速度: 204.11KB/s | 数据量: 1024.0KB | 总耗时: 6.49s
+[2026-02-05 21:00:43] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.61:8002
+   速度: 615.03KB/s | 数据量: 4096.0KB | 总耗时: 8.13s
+[2026-02-05 21:00:46] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.41:8012
+   速度: 586.93KB/s | 数据量: 3072.0KB | 总耗时: 7.39s
+[2026-02-05 21:00:46] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.43:8020
+   速度: 717.60KB/s | 数据量: 4096.0KB | 总耗时: 6.20s
+[2026-02-05 21:00:48] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.46:8036
+   速度: 606.00KB/s | 数据量: 3072.0KB | 总耗时: 6.19s
+[2026-02-05 21:00:48] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.44:8028
+   速度: 298.23KB/s | 数据量: 2048.0KB | 总耗时: 7.34s
+[2026-02-05 21:00:49] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.50:8052
+   速度: 591.64KB/s | 数据量: 3072.0KB | 总耗时: 5.65s
+[2026-02-05 21:00:49] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.49:8048
+   速度: 728.19KB/s | 数据量: 4096.0KB | 总耗时: 6.07s
+[2026-02-05 21:00:49] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.48:8044
+   速度: 668.05KB/s | 数据量: 4096.0KB | 总耗时: 6.57s
+[2026-02-05 21:00:49] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.47:8044
+   速度: 616.18KB/s | 数据量: 4096.0KB | 总耗时: 7.09s
+[2026-02-05 21:00:52] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.76:8002
+   速度: 810.39KB/s | 数据量: 4096.0KB | 总耗时: 5.51s
+[2026-02-05 21:00:53] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.51:8056
+   速度: 336.17KB/s | 数据量: 3072.0KB | 总耗时: 9.56s
+[2026-02-05 21:00:53] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.45:8032
+   速度: 175.46KB/s | 数据量: 2048.0KB | 总耗时: 12.17s
+[2026-02-05 21:00:54] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.172:8162
+   速度: 776.91KB/s | 数据量: 4096.0KB | 总耗时: 5.72s
+[2026-02-05 21:00:54] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.79:8148
+   速度: 838.22KB/s | 数据量: 5120.0KB | 总耗时: 6.55s
+[2026-02-05 21:00:55] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.1.9:8164
+   速度: 393.18KB/s | 数据量: 2048.0KB | 总耗时: 5.66s
+[2026-02-05 21:00:55] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.171:8166
+   速度: 719.19KB/s | 数据量: 4096.0KB | 总耗时: 6.18s
+[2026-02-05 21:00:56] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.42:8016
+   速度: 345.48KB/s | 数据量: 2048.0KB | 总耗时: 6.35s
+[2026-02-05 21:00:57] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.77:8076
+   速度: 148.45KB/s | 数据量: 1024.0KB | 总耗时: 9.14s
+[2026-02-05 21:00:58] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.139:8108
+   速度: 330.97KB/s | 数据量: 2048.0KB | 总耗时: 6.67s
+[2026-02-05 21:00:58] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.140:8128
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:00] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.142:8288
+   速度: 327.99KB/s | 数据量: 2048.0KB | 总耗时: 6.66s
+[2026-02-05 21:01:00] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.153:8200
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:01] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.152:8300
+   速度: 328.27KB/s | 数据量: 2048.0KB | 总耗时: 6.72s
+[2026-02-05 21:01:03] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.154:8140
+   速度: 329.18KB/s | 数据量: 2048.0KB | 总耗时: 7.70s
+[2026-02-05 21:01:03] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.156:8176
+   速度: 326.30KB/s | 数据量: 2048.0KB | 总耗时: 6.72s
+[2026-02-05 21:01:03] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.155:8172
+   速度: 330.98KB/s | 数据量: 2048.0KB | 总耗时: 8.31s
+[2026-02-05 21:01:04] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.157:8184
+   速度: 328.55KB/s | 数据量: 2048.0KB | 总耗时: 6.69s
+[2026-02-05 21:01:04] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.159:8124
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:05] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.158:8304
+   速度: 332.56KB/s | 数据量: 2048.0KB | 总耗时: 6.61s
+[2026-02-05 21:01:05] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.160:8164
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:05] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.161:8160
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:06] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.190:4120
+   速度: 319.45KB/s | 数据量: 610.4KB | 总耗时: 2.39s
+[2026-02-05 21:01:06] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.78:4120
+   速度: 320.84KB/s | 数据量: 499.9KB | 总耗时: 2.01s
+[2026-02-05 21:01:06] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.32:8152
+   速度: 638.63KB/s | 数据量: 884.2KB | 总耗时: 1.81s
+[2026-02-05 21:01:06] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.166:4120
+   速度: 326.42KB/s | 数据量: 835.4KB | 总耗时: 3.05s
+[2026-02-05 21:01:06] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.71:8002
+   速度: 21.67KB/s | 数据量: 1.3KB | 总耗时: 0.53s
+[2026-02-05 21:01:06] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.31:8156
+   速度: 133.61KB/s | 数据量: 96.4KB | 总耗时: 1.21s
+[2026-02-05 21:01:06] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.52:8064
+   速度: 55.10KB/s | 数据量: 1024.0KB | 总耗时: 20.10s
+[2026-02-05 21:01:07] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.162:8188
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:07] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.252:4120
+   速度: 247.45KB/s | 数据量: 185.1KB | 总耗时: 1.17s
+[2026-02-05 21:01:07] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.72:8002
+   速度: 441.99KB/s | 数据量: 477.3KB | 总耗时: 1.50s
+[2026-02-05 21:01:07] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.253:4120
+   速度: 223.65KB/s | 数据量: 173.5KB | 总耗时: 1.24s
+[2026-02-05 21:01:07] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.234:4120
+   速度: 116.61KB/s | 数据量: 34.7KB | 总耗时: 0.78s
+[2026-02-05 21:01:07] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.240:4120
+   速度: 183.80KB/s | 数据量: 159.4KB | 总耗时: 1.36s
+[2026-02-05 21:01:07] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.254:4120
+   速度: 90.98KB/s | 数据量: 43.7KB | 总耗时: 0.97s
+[2026-02-05 21:01:08] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.167:4120
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:08] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.227:4120
+   速度: 214.31KB/s | 数据量: 169.6KB | 总耗时: 1.22s
+[2026-02-05 21:01:08] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.204:9012
+   速度: 222.68KB/s | 数据量: 177.4KB | 总耗时: 1.25s
+[2026-02-05 21:01:08] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.202:9020
+   速度: 207.31KB/s | 数据量: 170.9KB | 总耗时: 1.30s
+[2026-02-05 21:01:08] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.228:4120
+   速度: 189.51KB/s | 数据量: 149.1KB | 总耗时: 1.23s
+[2026-02-05 21:01:08] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.229:4120
+   速度: 103.33KB/s | 数据量: 77.1KB | 总耗时: 1.17s
+[2026-02-05 21:01:09] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.80:2000
+   速度: 275.04KB/s | 数据量: 441.1KB | 总耗时: 2.07s
+[2026-02-05 21:01:09] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.244:4120
+   速度: 215.33KB/s | 数据量: 181.2KB | 总耗时: 1.28s
+[2026-02-05 21:01:09] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.201:8012
+   速度: 216.91KB/s | 数据量: 174.8KB | 总耗时: 1.24s
+[2026-02-05 21:01:09] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.250:4120
+   速度: 76.83KB/s | 数据量: 23.1KB | 总耗时: 1.48s
+[2026-02-05 21:01:09] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.248:4120
+   速度: 201.19KB/s | 数据量: 173.5KB | 总耗时: 1.37s
+[2026-02-05 21:01:10] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.39:8002
+   速度: 434.40KB/s | 数据量: 475.9KB | 总耗时: 1.54s
+[2026-02-05 21:01:10] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.232:4120
+   速度: 2.56KB/s | 数据量: 1.3KB | 总耗时: 0.95s
+[2026-02-05 21:01:10] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.203:9024
+   速度: 81.50KB/s | 数据量: 255.7KB | 总耗时: 3.58s
+[2026-02-05 21:01:11] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.231:4120
+   速度: 149.80KB/s | 数据量: 99.0KB | 总耗时: 2.47s
+[2026-02-05 21:01:11] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.236:4120
+   速度: 120.27KB/s | 数据量: 77.1KB | 总耗时: 1.10s
+[2026-02-05 21:01:12] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.235:4120
+   速度: 4.10KB/s | 数据量: 1.3KB | 总耗时: 1.81s
+[2026-02-05 21:01:12] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.249:4120
+   速度: 260.40KB/s | 数据量: 249.3KB | 总耗时: 2.07s
+[2026-02-05 21:01:12] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.241:4120
+   速度: 195.98KB/s | 数据量: 161.9KB | 总耗时: 2.30s
+[2026-02-05 21:01:12] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.237:4120
+   速度: 175.53KB/s | 数据量: 145.2KB | 总耗时: 2.36s
+[2026-02-05 21:01:12] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.230:4120
+   速度: 85.63KB/s | 数据量: 54.0KB | 总耗时: 1.06s
+[2026-02-05 21:01:12] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.233:4120
+   速度: 141.92KB/s | 数据量: 118.2KB | 总耗时: 2.37s
+[2026-02-05 21:01:13] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.238:4120
+   速度: 251.20KB/s | 数据量: 251.9KB | 总耗时: 2.47s
+[2026-02-05 21:01:13] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.243:4120
+   速度: 232.86KB/s | 数据量: 169.6KB | 总耗时: 1.17s
+[2026-02-05 21:01:13] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.242:4120
+   速度: 207.14KB/s | 数据量: 156.8KB | 总耗时: 1.18s
+[2026-02-05 21:01:13] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.239:4120
+   速度: 228.80KB/s | 数据量: 232.6KB | 总耗时: 2.16s
+[2026-02-05 21:01:13] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.193:4120
+   速度: 127.85KB/s | 数据量: 75.8KB | 总耗时: 1.05s
+[2026-02-05 21:01:13] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.247:4120
+   速度: 97.63KB/s | 数据量: 65.5KB | 总耗时: 1.16s
+[2026-02-05 21:01:13] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.246:4120
+   速度: 143.81KB/s | 数据量: 116.9KB | 总耗时: 1.27s
+[2026-02-05 21:01:13] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.207:9000
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:13] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.251:4120
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:14] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.163:9252
+   速度: 256.24KB/s | 数据量: 194.1KB | 总耗时: 1.20s
+[2026-02-05 21:01:14] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.81:8176
+   速度: 304.45KB/s | 数据量: 305.9KB | 总耗时: 1.46s
+[2026-02-05 21:01:15] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.33:8002
+   速度: 375.68KB/s | 数据量: 426.7KB | 总耗时: 1.60s
+[2026-02-05 21:01:15] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.245:4120
+   速度: 92.85KB/s | 数据量: 120.8KB | 总耗时: 2.81s
+[2026-02-05 21:01:15] ✅ 测速成功: http://115.171.216.64:4000/rtp/225.1.8.170:9268
+   速度: 222.89KB/s | 数据量: 186.3KB | 总耗时: 2.40s
+[2026-02-05 21:01:17] ✅ 测速成功: http://115.171.216.64:4000/udp/225.1.8.58:8002
+   速度: 123.75KB/s | 数据量: 452.4KB | 总耗时: 4.11s
+[2026-02-05 21:01:18] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.53:8060
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:18] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.126:8002
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:19] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.116:8056
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:19] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.195:4120
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:20] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.210:8068
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:20] ❌ 测速失败: http://115.171.216.64:4000/rtp/225.1.8.194:4120
+   错误: HTTPConnectionPool(host='115.171.216.64', port=4000): Read timed out. | 域名: 115.171.216.64
+[2026-02-05 21:01:21] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.111.205.28:5140
+   速度: 551.71KB/s | 数据量: 3072.0KB | 总耗时: 6.11s
+[2026-02-05 21:01:22] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.111.205.42:5140
+   速度: 524.39KB/s | 数据量: 3072.0KB | 总耗时: 6.34s
+[2026-02-05 21:01:24] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.41:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:24] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.111.205.35:5140
+   速度: 220.83KB/s | 数据量: 2048.0KB | 总耗时: 9.74s
+[2026-02-05 21:01:24] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.20:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:24] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.22:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:25] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.36:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:25] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.242:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:26] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.243:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:26] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.174:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:27] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.26:5140
+   速度: 125.15KB/s | 数据量: 1024.0KB | 总耗时: 8.68s
+[2026-02-05 21:01:28] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.175:5140
+   速度: 476.47KB/s | 数据量: 3072.0KB | 总耗时: 6.92s
+[2026-02-05 21:01:29] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.176:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:30] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.30:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:31] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.202:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:32] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.142:5140
+   速度: 302.48KB/s | 数据量: 2048.0KB | 总耗时: 7.28s
+[2026-02-05 21:01:32] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.221:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:33] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.222:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:33] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.111.205.13:5140
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.75s
+[2026-02-05 21:01:33] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.59:5140
+   速度: 389.12KB/s | 数据量: 3072.0KB | 总耗时: 9.02s
+[2026-02-05 21:01:34] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.78:5140
+   速度: 287.43KB/s | 数据量: 2048.0KB | 总耗时: 8.31s
+[2026-02-05 21:01:35] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.83:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:35] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.223:5140
+   速度: 170.70KB/s | 数据量: 1024.0KB | 总耗时: 6.48s
+[2026-02-05 21:01:35] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.224:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:37] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.86:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:37] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.213:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:38] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.88:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:38] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.91:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:39] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.85:5140
+   速度: 451.34KB/s | 数据量: 3072.0KB | 总耗时: 7.28s
+[2026-02-05 21:01:40] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.214:5140
+   速度: 320.13KB/s | 数据量: 2048.0KB | 总耗时: 6.89s
+[2026-02-05 21:01:41] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.62:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:41] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.211:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:43] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.63:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:43] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.64:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:43] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.61:5140
+   速度: 259.01KB/s | 数据量: 2048.0KB | 总耗时: 8.38s
+[2026-02-05 21:01:44] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.66:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:44] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.111.205.134:5140
+   速度: 104.00KB/s | 数据量: 1024.0KB | 总耗时: 10.37s
+[2026-02-05 21:01:44] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.65:5140
+   速度: 565.81KB/s | 数据量: 3072.0KB | 总耗时: 5.96s
+[2026-02-05 21:01:44] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.67:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:46] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.69:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:47] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.70:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:47] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.68:5140
+   速度: 169.52KB/s | 数据量: 1024.0KB | 总耗时: 6.49s
+[2026-02-05 21:01:48] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.72:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:50] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.180:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:50] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.179:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:51] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.16:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:51] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.184:5140
+   速度: 408.71KB/s | 数据量: 3072.0KB | 总耗时: 8.65s
+[2026-02-05 21:01:52] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.182:5140
+   速度: 283.37KB/s | 数据量: 2048.0KB | 总耗时: 7.75s
+[2026-02-05 21:01:52] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.183:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:53] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.73:5140
+   速度: 388.29KB/s | 数据量: 2048.0KB | 总耗时: 5.73s
+[2026-02-05 21:01:53] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.178:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:53] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.74:5140
+   速度: 115.06KB/s | 数据量: 1024.0KB | 总耗时: 9.41s
+[2026-02-05 21:01:54] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.200:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:55] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.58:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:55] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.46:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:57] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.50:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:58] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.48:5140
+   速度: 339.41KB/s | 数据量: 2048.0KB | 总耗时: 7.60s
+[2026-02-05 21:01:58] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.54:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:58] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.51:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:01:59] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.53:5140
+   速度: 335.99KB/s | 数据量: 2048.0KB | 总耗时: 6.56s
+[2026-02-05 21:01:59] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.56:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:00] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.55:5140
+   速度: 339.72KB/s | 数据量: 2048.0KB | 总耗时: 6.48s
+[2026-02-05 21:02:01] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.60:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:02] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.198:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:03] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.109.205.91:8664
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.49s
+[2026-02-05 21:02:04] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.185:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:05] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.138:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:05] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.135:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:05] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.136:5140
+   速度: 338.63KB/s | 数据量: 2048.0KB | 总耗时: 6.50s
+[2026-02-05 21:02:05] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.203:5140
+   速度: 486.03KB/s | 数据量: 3072.0KB | 总耗时: 6.81s
+[2026-02-05 21:02:06] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.33:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:07] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.111.205.32:5140
+   速度: 469.11KB/s | 数据量: 3072.0KB | 总耗时: 7.06s
+[2026-02-05 21:02:08] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.34:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:08] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.112.205.236:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:10] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.15:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:10] ❌ 测速失败: http://36.46.98.169:8025/rtp/239.111.205.31:5140
+   错误: HTTPConnectionPool(host='36.46.98.169', port=8025): Read timed out. | 域名: 36.46.98.169
+[2026-02-05 21:02:12] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.111.205.23:5140
+   速度: 674.55KB/s | 数据量: 4096.0KB | 总耗时: 6.55s
+[2026-02-05 21:02:12] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.109.205.48:8320
+   速度: 149.32KB/s | 数据量: 1024.0KB | 总耗时: 7.37s
+[2026-02-05 21:02:12] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.109.205.47:8312
+   速度: 129.37KB/s | 数据量: 1024.0KB | 总耗时: 8.42s
+[2026-02-05 21:02:12] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.174:5140
+   速度: 723.08KB/s | 数据量: 4096.0KB | 总耗时: 6.23s
+[2026-02-05 21:02:14] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.175:5140
+   速度: 730.69KB/s | 数据量: 4096.0KB | 总耗时: 7.14s
+[2026-02-05 21:02:14] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.177:5140
+   速度: 764.86KB/s | 数据量: 4096.0KB | 总耗时: 5.93s
+[2026-02-05 21:02:14] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.176:5140
+   速度: 711.03KB/s | 数据量: 4096.0KB | 总耗时: 6.33s
+[2026-02-05 21:02:16] ✅ 测速成功: http://36.46.98.169:8025/rtp/239.112.205.49:5140
+   速度: 42.33KB/s | 数据量: 1024.0KB | 总耗时: 24.66s
+[2026-02-05 21:02:16] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.178:5140
+   速度: 726.92KB/s | 数据量: 4096.0KB | 总耗时: 6.22s
+[2026-02-05 21:02:16] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.179:5140
+   速度: 736.13KB/s | 数据量: 4096.0KB | 总耗时: 6.13s
+[2026-02-05 21:02:18] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.183:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:19] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.184:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:20] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.1:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:21] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.185:5140
+   速度: 706.77KB/s | 数据量: 4096.0KB | 总耗时: 6.39s
+[2026-02-05 21:02:21] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.181:5140
+   速度: 691.93KB/s | 数据量: 4096.0KB | 总耗时: 8.58s
+[2026-02-05 21:02:23] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.20:5140
+   速度: 740.59KB/s | 数据量: 4096.0KB | 总耗时: 6.13s
+[2026-02-05 21:02:23] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.21:5140
+   速度: 701.29KB/s | 数据量: 4096.0KB | 总耗时: 6.43s
+[2026-02-05 21:02:23] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.96:5140
+   速度: 689.13KB/s | 数据量: 4096.0KB | 总耗时: 7.29s
+[2026-02-05 21:02:24] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.1.67:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:26] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.29:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:26] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.22:5140
+   速度: 682.60KB/s | 数据量: 4096.0KB | 总耗时: 6.60s
+[2026-02-05 21:02:26] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.23:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:26] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.24:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:28] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.25:5140
+   速度: 778.02KB/s | 数据量: 4096.0KB | 总耗时: 5.79s
+[2026-02-05 21:02:30] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.26:5140
+   速度: 512.92KB/s | 数据量: 3072.0KB | 总耗时: 7.35s
+[2026-02-05 21:02:30] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.212:5140
+   速度: 758.20KB/s | 数据量: 4096.0KB | 总耗时: 6.98s
+[2026-02-05 21:02:32] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.28:5140
+   速度: 757.99KB/s | 数据量: 4096.0KB | 总耗时: 5.97s
+[2026-02-05 21:02:32] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.84:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:32] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.31:5140
+   速度: 736.91KB/s | 数据量: 4096.0KB | 总耗时: 6.12s
+[2026-02-05 21:02:33] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.66:5140
+   速度: 161.22KB/s | 数据量: 1024.0KB | 总耗时: 6.91s
+[2026-02-05 21:02:35] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.34:5140
+   速度: 697.47KB/s | 数据量: 4096.0KB | 总耗时: 6.48s
+[2026-02-05 21:02:35] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.180:5140
+   速度: 44.59KB/s | 数据量: 1024.0KB | 总耗时: 23.56s
+[2026-02-05 21:02:36] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.27:5140
+   速度: 82.70KB/s | 数据量: 1024.0KB | 总耗时: 12.94s
+[2026-02-05 21:02:37] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.9:5140
+   速度: 735.14KB/s | 数据量: 4096.0KB | 总耗时: 6.15s
+[2026-02-05 21:02:37] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.3:5140
+   速度: 608.64KB/s | 数据量: 3072.0KB | 总耗时: 5.67s
+[2026-02-05 21:02:37] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.5:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:39] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.49:5140
+   速度: 708.60KB/s | 数据量: 4096.0KB | 总耗时: 6.37s
+[2026-02-05 21:02:39] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.121:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:39] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.74:5140
+   速度: 757.03KB/s | 数据量: 4096.0KB | 总耗时: 8.84s
+[2026-02-05 21:02:41] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.12:5140
+   速度: 704.41KB/s | 数据量: 4096.0KB | 总耗时: 6.39s
+[2026-02-05 21:02:41] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.105:5140
+   速度: 541.82KB/s | 数据量: 3072.0KB | 总耗时: 6.20s
+[2026-02-05 21:02:42] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.68:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:43] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.65:5140
+   速度: 489.34KB/s | 数据量: 3072.0KB | 总耗时: 6.82s
+[2026-02-05 21:02:43] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.171:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:43] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.64:5140
+   速度: 790.49KB/s | 数据量: 4096.0KB | 总耗时: 5.72s
+[2026-02-05 21:02:44] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.8:5140
+   速度: 768.24KB/s | 数据量: 4096.0KB | 总耗时: 5.89s
+[2026-02-05 21:02:45] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.10:5140
+   速度: 740.82KB/s | 数据量: 4096.0KB | 总耗时: 6.11s
+[2026-02-05 21:02:45] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.4:5140
+   速度: 711.64KB/s | 数据量: 4096.0KB | 总耗时: 6.32s
+[2026-02-05 21:02:46] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.11:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Max retries exceeded with url: /udp/238.125.5.11:5140 (Caused by ConnectTimeoutError(<HTTPConnection(host='202.107.163.213', port=5555) at 0x7f80fcccb790>, 'Connection to 202.107.163.213 timed out. (connect timeout=3.05)')) | 域名: 202.107.163.213
+[2026-02-05 21:02:47] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.103:5140
+   速度: 760.47KB/s | 数据量: 4096.0KB | 总耗时: 5.98s
+[2026-02-05 21:02:48] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.2:5140
+   速度: 592.70KB/s | 数据量: 1717.0KB | 总耗时: 3.43s
+[2026-02-05 21:02:48] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.6:5140
+   速度: 664.90KB/s | 数据量: 3903.0KB | 总耗时: 6.48s
+[2026-02-05 21:02:48] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.62:5140
+   速度: 432.95KB/s | 数据量: 673.4KB | 总耗时: 3.11s
+[2026-02-05 21:02:48] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.13:5140
+   速度: 493.54KB/s | 数据量: 947.2KB | 总耗时: 2.52s
+[2026-02-05 21:02:48] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.182:5140
+   速度: 16.18KB/s | 数据量: 568.0KB | 总耗时: 35.70s
+[2026-02-05 21:02:48] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.15:5140
+   速度: 408.41KB/s | 数据量: 1856.5KB | 总耗时: 5.15s
+[2026-02-05 21:02:48] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.106:5140
+   速度: 0.30KB/s | 数据量: 1.3KB | 总耗时: 5.88s
+[2026-02-05 21:02:49] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.114:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:52] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.32:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:53] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.7:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:53] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.238:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:53] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.14:5140
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.59s
+[2026-02-05 21:02:53] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.14:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:54] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.84:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:54] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.54:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:02:55] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.13:5140
+   速度: 483.24KB/s | 数据量: 3072.0KB | 总耗时: 6.92s
+[2026-02-05 21:02:55] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.12:5140
+   速度: 147.75KB/s | 数据量: 1024.0KB | 总耗时: 7.51s
+[2026-02-05 21:02:57] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.86:5140
+   速度: 281.27KB/s | 数据量: 2048.0KB | 总耗时: 8.90s
+[2026-02-05 21:02:57] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.4.242:5140
+   速度: 640.70KB/s | 数据量: 2046.0KB | 总耗时: 3.78s
+[2026-02-05 21:02:57] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.4.147:5140
+   速度: 705.69KB/s | 数据量: 2276.0KB | 总耗时: 3.75s
+[2026-02-05 21:02:57] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.4.148:5140
+   速度: 541.60KB/s | 数据量: 1138.6KB | 总耗时: 3.68s
+[2026-02-05 21:02:57] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.4.240:5140
+   速度: 659.50KB/s | 数据量: 2566.5KB | 总耗时: 4.46s
+[2026-02-05 21:02:57] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.150:5140
+   速度: 496.88KB/s | 数据量: 2525.3KB | 总耗时: 5.64s
+[2026-02-05 21:02:57] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.214:5140
+   速度: 320.66KB/s | 数据量: 452.2KB | 总耗时: 1.96s
+[2026-02-05 21:02:58] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.215:5140
+   速度: 6.33KB/s | 数据量: 1.3KB | 总耗时: 0.76s
+[2026-02-05 21:02:58] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.216:5140
+   速度: 5.61KB/s | 数据量: 1.3KB | 总耗时: 0.81s
+[2026-02-05 21:02:58] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.38:5140
+   速度: 6.63KB/s | 数据量: 1.3KB | 总耗时: 0.82s
+[2026-02-05 21:02:59] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.7:5140
+   速度: 5.81KB/s | 数据量: 1.3KB | 总耗时: 0.79s
+[2026-02-05 21:02:59] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.39:5140
+   速度: 111.23KB/s | 数据量: 105.4KB | 总耗时: 1.54s
+[2026-02-05 21:02:59] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.27:5140
+   速度: 131.23KB/s | 数据量: 9.0KB | 总耗时: 1.45s
+[2026-02-05 21:02:59] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.225:5140
+   速度: 13.35KB/s | 数据量: 1.3KB | 总耗时: 0.67s
+[2026-02-05 21:02:59] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.91:5140
+   速度: 94.12KB/s | 数据量: 59.1KB | 总耗时: 1.20s
+[2026-02-05 21:02:59] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.4.241:5140
+   速度: 0.30KB/s | 数据量: 1.3KB | 总耗时: 5.93s
+[2026-02-05 21:03:00] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.149:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:00] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.165:5140
+   速度: 17.67KB/s | 数据量: 1.3KB | 总耗时: 0.60s
+[2026-02-05 21:03:00] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.226:5140
+   速度: 2.37KB/s | 数据量: 1.3KB | 总耗时: 1.07s
+[2026-02-05 21:03:00] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.40:5140
+   速度: 273.84KB/s | 数据量: 316.1KB | 总耗时: 2.75s
+[2026-02-05 21:03:00] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.4.195:5140
+   速度: 26.03KB/s | 数据量: 1.3KB | 总耗时: 0.62s
+[2026-02-05 21:03:00] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.248:5140
+   速度: 14.55KB/s | 数据量: 1.3KB | 总耗时: 1.49s
+[2026-02-05 21:03:00] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.43:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Max retries exceeded with url: /udp/238.125.3.43:5140 (Caused by ConnectTimeoutError(<HTTPConnection(host='202.107.163.213', port=5555) at 0x7f80fcb497b0>, 'Connection to 202.107.163.213 timed out. (connect timeout=3.05)')) | 域名: 202.107.163.213
+[2026-02-05 21:03:01] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.4.194:5140
+   速度: 109.06KB/s | 数据量: 66.8KB | 总耗时: 1.17s
+[2026-02-05 21:03:01] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.114:5140
+   速度: 53.89KB/s | 数据量: 18.0KB | 总耗时: 2.64s
+[2026-02-05 21:03:01] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.3.250:5140
+   速度: 113.37KB/s | 数据量: 115.7KB | 总耗时: 1.62s
+[2026-02-05 21:03:01] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.150:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:01] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.71:5140
+   速度: 137.43KB/s | 数据量: 125.9KB | 总耗时: 1.49s
+[2026-02-05 21:03:02] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.5.61:5140
+   速度: 146.15KB/s | 数据量: 131.1KB | 总耗时: 1.46s
+[2026-02-05 21:03:03] ✅ 测速成功: http://202.107.163.213:5555/udp/238.125.0.195:5140
+   速度: 123.41KB/s | 数据量: 110.5KB | 总耗时: 3.49s
+[2026-02-05 21:03:06] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.104:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:06] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.33:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:06] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.60:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:06] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.116:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:07] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.36:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:07] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.113:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:08] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.103:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:08] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.115:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:08] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.101:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:10] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.54:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:11] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.106:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:12] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.107:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:12] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.70:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:12] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.106:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:12] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.104:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:13] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.103:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:13] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.51:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:14] ✅ 测速成功: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+   速度: 225.59KB/s | 数据量: 0.2KB | 总耗时: 0.74s
+[2026-02-05 21:03:14] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.69:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:14] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=a9e50247d1de1a120b78f28a7acdcf72&wsTime=1770307243 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-02-05 21:03:14] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.98:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:14] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 21:03:15] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.110:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Max retries exceeded with url: /udp/238.125.5.110:5140 (Caused by ConnectTimeoutError(<HTTPConnection(host='202.107.163.213', port=5555) at 0x7f80fcbadae0>, 'Connection to 202.107.163.213 timed out. (connect timeout=3.05)')) | 域名: 202.107.163.213
+[2026-02-05 21:03:16] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 502.93KB/s | 数据量: 0.5KB | 总耗时: 2.02s
+[2026-02-05 21:03:16] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.119:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:16] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 21:03:16] ✅ 测速成功: http://69.30.246.194/live/cctv11.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 21:03:17] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 21:03:17] ✅ 测速成功: https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+   速度: 394.53KB/s | 数据量: 0.4KB | 总耗时: 1.67s
+[2026-02-05 21:03:17] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+   速度: 278.32KB/s | 数据量: 0.3KB | 总耗时: 0.83s
+[2026-02-05 21:03:17] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.108:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:17] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
+   速度: 148.44KB/s | 数据量: 0.1KB | 总耗时: 0.07s
+[2026-02-05 21:03:17] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+   速度: 416.02KB/s | 数据量: 0.4KB | 总耗时: 0.45s
+[2026-02-05 21:03:17] ✅ 测速成功: http://27.41.245.32:801/hls/5/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-02-05 21:03:17] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-02-05 21:03:17] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 3.24s
+[2026-02-05 21:03:17] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.5.109:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:17] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-02-05 21:03:17] ✅ 测速成功: http://61.221.215.25:8800/hls/47/index.m3u8
+   速度: 251.95KB/s | 数据量: 0.3KB | 总耗时: 0.40s
+[2026-02-05 21:03:18] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-05 21:03:18] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-02-05 21:03:18] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.3.240:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:18] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.11s
+[2026-02-05 21:03:18] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.77s
+[2026-02-05 21:03:18] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
+[2026-02-05 21:03:18] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.81s
+[2026-02-05 21:03:18] ❌ 测速失败: http://202.107.163.213:5555/udp/238.125.4.144:5140
+   错误: HTTPConnectionPool(host='202.107.163.213', port=5555): Read timed out. | 域名: 202.107.163.213
+[2026-02-05 21:03:18] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0136_1.m3u8?txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.45s
+[2026-02-05 21:03:19] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s
+[2026-02-05 21:03:19] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 1.25s
+[2026-02-05 21:03:19] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s
+[2026-02-05 21:03:19] ✅ 测速成功: http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 818.36KB/s | 数据量: 0.8KB | 总耗时: 0.49s
+[2026-02-05 21:03:19] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0110_1.m3u8?txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-02-05 21:03:19] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0110_1.m3u8
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-02-05 21:03:19] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0136_1.m3u8
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.16s
+[2026-02-05 21:03:19] ✅ 测速成功: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+   速度: 24472.66KB/s | 数据量: 24.5KB | 总耗时: 0.21s
+[2026-02-05 21:03:19] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.79s
+[2026-02-05 21:03:19] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-02-05 21:03:20] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.81s
+[2026-02-05 21:03:20] ✅ 测速成功: http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.92s
+[2026-02-05 21:03:20] ✅ 测速成功: https://0472.org/hls/cgtne.m3u8
+   速度: 182.62KB/s | 数据量: 0.2KB | 总耗时: 0.29s
+[2026-02-05 21:03:20] ✅ 测速成功: https://0472.org/hls/cgtnx.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.10s
+[2026-02-05 21:03:20] ✅ 测速成功: https://0472.org/hls/cgtnf.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.20s
+[2026-02-05 21:03:20] ✅ 测速成功: https://0472.org/hls/cgtna.m3u8
+   速度: 182.62KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-02-05 21:03:20] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
+[2026-02-05 21:03:20] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
+[2026-02-05 21:03:20] ✅ 测速成功: https://ushls.ballbar.net/afc_twn/playlist-15.m3u8a?t=1735543553&token=da3fad8c85ab5849addf84cfca7ea03e
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.23s
+[2026-02-05 21:03:20] ✅ 测速成功: https://ushls.ballbar.net/cinemax_twn/playlist-25.m3u8a?t=1735544618&token=8ebac953537627ece599949d71f0c2a7
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.24s
-[2026-02-05 14:58:12] ✅ 测速成功: https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=1735545081&token=e0151267ec5c7a6ec494e2a587883c73
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.20s
-[2026-02-05 14:58:12] ✅ 测速成功: http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
-   速度: 7464.84KB/s | 数据量: 7.5KB | 总耗时: 0.17s
-[2026-02-05 14:58:12] ✅ 测速成功: https://ushls.ballbar.net/bbcnews_twn/playlist-25.m3u8a?t=1735544928&token=9d73f105dc7218e7e77059e221eb7841
+[2026-02-05 21:03:20] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 502.93KB/s | 数据量: 0.5KB | 总耗时: 1.11s
+[2026-02-05 21:03:20] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-02-05 21:03:20] ✅ 测速成功: https://ushls.ballbar.net/foodplanet_twn/playlist-15.m3u8a?t=1735543690&token=cd34200ffec4741d57fb3f076601ec4e
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.18s
+[2026-02-05 21:03:20] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-02-05 21:03:20] ✅ 测速成功: http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
+   速度: 376.95KB/s | 数据量: 0.4KB | 总耗时: 7.46s
+[2026-02-05 21:03:20] ✅ 测速成功: https://ushls.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1735544032&token=ec3d3a4c5c1c8f401cbe3ee78829811f
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.19s
+[2026-02-05 21:03:20] ✅ 测速成功: https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=1735545081&token=e0151267ec5c7a6ec494e2a587883c73
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.19s
+[2026-02-05 21:03:20] ✅ 测速成功: http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
+   速度: 7462.89KB/s | 数据量: 7.5KB | 总耗时: 0.15s
+[2026-02-05 21:03:20] ✅ 测速成功: https://ushls.ballbar.net/bbcnews_twn/playlist-25.m3u8a?t=1735544928&token=9d73f105dc7218e7e77059e221eb7841
    速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 0.21s
-[2026-02-05 14:58:12] ✅ 测速成功: https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-   速度: 102.54KB/s | 数据量: 0.1KB | 总耗时: 0.46s
-[2026-02-05 14:58:12] ✅ 测速成功: http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-   速度: 169.92KB/s | 数据量: 0.2KB | 总耗时: 0.98s
-[2026-02-05 14:58:12] ✅ 测速成功: https://srs.ssws.tv/video/sstv-10/index.m3u8
-   速度: 389.65KB/s | 数据量: 0.4KB | 总耗时: 2.57s
-[2026-02-05 14:58:12] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.33s
-[2026-02-05 14:58:12] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.69s
-[2026-02-05 14:58:13] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.49s
-[2026-02-05 14:58:13] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-   速度: 31803.87KB/s | 数据量: 464.2KB | 总耗时: 1.21s
-[2026-02-05 14:58:13] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.36s
-[2026-02-05 14:58:13] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
-   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.38s
-[2026-02-05 14:58:13] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+[2026-02-05 21:03:20] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+   速度: 33234.45KB/s | 数据量: 464.2KB | 总耗时: 0.54s
+[2026-02-05 21:03:21] ✅ 测速成功: http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+   速度: 169.92KB/s | 数据量: 0.2KB | 总耗时: 0.86s
+[2026-02-05 21:03:21] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.50s
-[2026-02-05 14:58:13] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.44s
-[2026-02-05 14:58:13] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+[2026-02-05 21:03:21] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.44s
+[2026-02-05 21:03:21] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.07s
+[2026-02-05 21:03:21] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
+   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.23s
+[2026-02-05 21:03:21] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2026-02-05 14:58:13] ✅ 测速成功: http://91.247.68.229:8000/play/Fashion/index.m3u8
+[2026-02-05 21:03:21] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.49s
+[2026-02-05 21:03:21] ✅ 测速成功: https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+   速度: 102.54KB/s | 数据量: 0.1KB | 总耗时: 0.88s
+[2026-02-05 21:03:21] ✅ 测速成功: http://91.247.68.229:8000/play/Fashion/index.m3u8
    速度: 115.23KB/s | 数据量: 0.1KB | 总耗时: 0.29s
-[2026-02-05 14:58:13] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 0.28s
-[2026-02-05 14:58:13] ✅ 测速成功: https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.43s
-[2026-02-05 14:58:13] ✅ 测速成功: https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-   速度: 1420.90KB/s | 数据量: 1.4KB | 总耗时: 0.49s
-[2026-02-05 14:58:13] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.17s
-[2026-02-05 14:58:13] ✅ 测速成功: https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.61s
-[2026-02-05 14:58:13] ✅ 测速成功: https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-   速度: 366.21KB/s | 数据量: 0.4KB | 总耗时: 0.44s
-[2026-02-05 14:58:13] ✅ 测速成功: https://hls.rt.com/hls/rtdru360.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.44s
-[2026-02-05 14:58:13] ✅ 测速成功: https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.72s
-[2026-02-05 14:58:13] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.19s
-[2026-02-05 14:58:13] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.24s
-[2026-02-05 14:58:13] ✅ 测速成功: https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.65s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2026-02-05 14:58:14] ✅ 测速成功: http://143.244.60.30/TBS/index.m3u8
+[2026-02-05 21:03:21] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 0.30s
+[2026-02-05 21:03:21] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.49s
+[2026-02-05 21:03:21] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.50s
+[2026-02-05 21:03:22] ✅ 测速成功: https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+   速度: 1421.88KB/s | 数据量: 1.4KB | 总耗时: 0.49s
+[2026-02-05 21:03:22] ✅ 测速成功: https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.50s
+[2026-02-05 21:03:22] ✅ 测速成功: http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150
+   速度: 302.58KB/s | 数据量: 2048.0KB | 总耗时: 7.61s
+[2026-02-05 21:03:22] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.12s
+[2026-02-05 21:03:22] ✅ 测速成功: https://srs.ssws.tv/video/sstv-10/index.m3u8
+   速度: 389.65KB/s | 数据量: 0.4KB | 总耗时: 3.78s
+[2026-02-05 21:03:22] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.06s
+[2026-02-05 21:03:22] ✅ 测速成功: https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.46s
+[2026-02-05 21:03:22] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.12s
+[2026-02-05 21:03:22] ✅ 测速成功: https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.52s
+[2026-02-05 21:03:22] ✅ 测速成功: https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.51s
+[2026-02-05 21:03:22] ✅ 测速成功: http://143.244.60.30/TBS/index.m3u8
    速度: 180.66KB/s | 数据量: 0.2KB | 总耗时: 0.30s
-[2026-02-05 14:58:14] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.29s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+[2026-02-05 21:03:22] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.22s
+[2026-02-05 21:03:22] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.51s
+[2026-02-05 21:03:22] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.50s
+[2026-02-05 21:03:22] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.48s
+[2026-02-05 21:03:22] ✅ 测速成功: https://hls.rt.com/hls/rtdru360.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.71s
+[2026-02-05 21:03:22] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.48s
+[2026-02-05 21:03:22] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.49s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+[2026-02-05 21:03:22] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+[2026-02-05 21:03:23] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.50s
+[2026-02-05 21:03:23] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.51s
+[2026-02-05 21:03:23] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+[2026-02-05 21:03:23] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.50s
+[2026-02-05 21:03:23] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.49s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.49s
-[2026-02-05 14:58:14] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2026-02-05 14:58:17] ✅ 测速成功: http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-   速度: 2836.91KB/s | 数据量: 2.8KB | 总耗时: 5.30s
-[2026-02-05 14:58:18] ✅ 测速成功: http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150
-   速度: 222.40KB/s | 数据量: 2048.0KB | 总耗时: 10.33s
+[2026-02-05 21:03:23] ✅ 测速成功: https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+   速度: 366.21KB/s | 数据量: 0.4KB | 总耗时: 1.24s
+[2026-02-05 21:03:29] ✅ 测速成功: http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+   速度: 2836.91KB/s | 数据量: 2.8KB | 总耗时: 8.86s
