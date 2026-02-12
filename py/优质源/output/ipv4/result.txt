@@ -6,8 +6,8 @@ CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV3,http://113.44.65.227:1234/624878271
 CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV4,http://113.44.65.227:1234/608807416
-CCTV4,http://113.44.65.227:1234/631780421
 CCTV4,http://113.44.65.227:1234/608807419
+CCTV4,http://113.44.65.227:1234/631780421
 CCTV4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV5,http://113.44.65.227:1234/641886683
@@ -65,8 +65,8 @@ CCTV发现之旅,http://113.44.65.227:1234/624878970
 深圳卫视,http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://113.44.65.227:1234/608831231
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
@@ -125,11 +125,8 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-TVB明珠台,http://hls.168.us.kg/u/84/master.m3u8
-TVB无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲美食,https://ushls.ballbar.net/afc_twn/playlist-15.m3u8a?t=1735543553&token=da3fad8c85ab5849addf84cfca7ea03e
 其他,#genre#
@@ -144,7 +141,7 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CINEMAX,https://ushls.ballbar.net/cinemax_twn/playlist-25.m3u8a?t=1735544618&token=8ebac953537627ece599949d71f0c2a7
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -159,10 +156,8 @@ RT Français,https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-VIU,http://hls.168.us.kg/u/99/master.m3u8
-ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=c7c9e48ebe00950c607d6989ba06e52f&wsTime=1770696006
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=89db14a2a18f0156ad2156d902ad7227&wsTime=1770876023
 大湾区卫视,http://113.44.65.227:1234/608917627
 娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 娱乐新闻(备用),http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
