@@ -6,8 +6,8 @@ CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
 CCTV3,http://113.44.65.227:1234/624878271
 CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV4,http://113.44.65.227:1234/631780421
 CCTV4,http://113.44.65.227:1234/608807416
+CCTV4,http://113.44.65.227:1234/631780421
 CCTV4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV4,http://36.32.174.67:60080/newlive/live/hls/4/live.m3u8
 CCTV5,http://113.44.65.227:1234/641886683
@@ -19,34 +19,28 @@ CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV11,http://69.30.246.194/live/cctv11.m3u8
 CCTV11,http://69.30.246.194/live/cctv11.m3u8
 CCTV12,http://69.30.246.194/live/cctv12.m3u8
-CCTV12,http://69.30.246.194/live/cctv12.m3u8
 CCTV14,http://69.30.246.194/live/cctv14.m3u8
 CCTV14,http://69.30.246.194/live/cctv14.m3u8
-CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
-CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
 CCTV17,http://113.44.65.227:1234/673168256
-CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=6
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=2
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=7
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=6
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV风云足球,http://27.41.245.32:801/hls/906/index.m3u8
 CCTV发现之旅,http://113.44.65.227:1234/624878970
 卫视频道,#genre#
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
-东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 北京卫视,http://113.44.65.227:1234/630287636
 江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
-江苏卫视,http://69.30.246.194/live/jsws.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 重庆卫视,http://113.44.65.227:1234/738910914
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
@@ -63,8 +57,8 @@ CCTV发现之旅,http://113.44.65.227:1234/624878970
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
-河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 河北卫视,http://113.44.65.227:1234/962042070
+河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 湖北卫视,http://113.44.65.227:1234/947472496
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
@@ -95,8 +89,6 @@ CCTV发现之旅,http://113.44.65.227:1234/624878970
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 数字频道,#genre#
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️上海市,#genre#
 上海都市,http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 ☘️福建省,#genre#
@@ -129,7 +121,7 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CINEMAX,https://ushls.ballbar.net/cinemax_twn/playlist-25.m3u8a?t=1735544618&token=8ebac953537627ece599949d71f0c2a7
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -145,12 +137,12 @@ RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=6511e1b091e73e80faaf6f8caedc7554&wsTime=1770962357
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=ff8871469d0d143f53f9a8aa527cacc8&wsTime=1770976787
 大湾区卫视,http://113.44.65.227:1234/608917627
 娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 娱乐新闻(备用),http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8#https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8#https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8#https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8#https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 湖南卫视4K,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来电影,https://ushls.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1735544032&token=ec3d3a4c5c1c8f401cbe3ee78829811f
