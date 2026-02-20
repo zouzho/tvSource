@@ -72,9 +72,9 @@ http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1 tvg-name="广东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://23.237.228.134/live6/guangdong.m3u8
 #EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://23.237.228.134/live6/guizhou.m3u8
-#EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://23.237.228.134/live6/guangxi.m3u8
+#EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://23.237.228.134/live6/guizhou.m3u8
 #EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
@@ -86,21 +86,19 @@ http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 tvg-name="湖北卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://23.237.228.134/live6/hubei.m3u8
 #EXTINF:-1 tvg-name="湖北卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-name="湖北卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-name="湖北卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
+#EXTINF:-1 tvg-name="湖北卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-name="江西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 tvg-name="江西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://118.72.48.240:888/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-name="内蒙古卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-name="内蒙古卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-name="内蒙古卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="宁夏卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -116,9 +114,9 @@ http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
 #EXTINF:-1 tvg-name="云南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-name="云南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-name="云南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
+#EXTINF:-1 tvg-name="云南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
+https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-name="云南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="西藏卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
@@ -148,8 +146,6 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 tvg-name="上海都市"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="☘️上海市",上海都市
 http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="新疆卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️新疆",新疆卫视
-http://118.72.48.240:888/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="新疆卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️新疆",新疆卫视
 http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 #EXTINF:-1 tvg-name="新疆卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️新疆",新疆卫视
 http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
@@ -165,8 +161,6 @@ http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-name="天映经典"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="☘️港·澳·台",天映经典
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU2jH_Pl6VqGBxHA1IcsitfbKBR673Nu6KG0a27h2exhgUv2dW7fXLtqFZUFX8lctnx2REX0_9N_OE-shnVLOGaoO-0m2O1w2pp5b8sE82sD6hkqtKyg0TkrETYUXvMKUXU9iNc9OW1bvzOvWqkjmjiDdB0XQq2Ci1iWw5fVRe7CRLJb6cHe9q13apio-Vp0OMIvhoPz6HTwp5r3Ay9JXAsQ.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="东森电影"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="☘️港·澳·台",东森电影
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
 #EXTINF:-1 tvg-name="亚洲新闻"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲新闻.png" group-title="☘️港·澳·台",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="其他",其他
@@ -202,9 +196,9 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" group-title="其他",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="其他",CNA
@@ -235,12 +229,10 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-name="Trace Sports" group-title="其他",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="东森洋片" group-title="其他",东森洋片
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715
 #EXTINF:-1 tvg-name="今日俄罗斯" group-title="其他",今日俄罗斯
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="国学频道" group-title="其他",国学频道
-rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=dd1c95cec418412a0c8c99ba7388d548&wsTime=1771581570
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=66db87d492504ef524364fad94d86b90&wsTime=1771603211
 #EXTINF:-1 tvg-name="娱乐新闻" group-title="其他",娱乐新闻
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻(备用)" group-title="其他",娱乐新闻(备用)
@@ -256,19 +248,19 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4K" group-title="其他",湖南卫视4K
 http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="纬来日本台" group-title="其他",纬来日本台
@@ -277,5 +269,3 @@ rtmp://f13h.mine.nu/sat/tv771
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LypZl51sr4vf3DGhZh3g1VUuuJLW7HVy471lEuDO-YH11Gl0MCkU9WPcq_d0755X83srub1-XHBE5VbZ_j0gx5SPYEI5SLQlIljrPPsTmql9SFpa6P4IOxG5COwYIkcjPYJSXp8eyJ2SYELzoWKcB5ls02Ml0ER2jnqJTLQouDP-GRTvxVnAv-md1jJ8pOhWFPA.m3u8?u=1756878715
 #EXTINF:-1 tvg-name="纬来音乐台" group-title="其他",纬来音乐台
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-name="靖天映画" group-title="其他",靖天映画
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigHfDjvhlcSwubLm2ffedfFXku6bvyJpxyrIEil4B5LpfVMB8A7gpCCrWNvUSRiXXXeWf1ajMfN0PWvetfPYUdZzzDCXtxjUEpQmUqB1RGqWo2mZ7LEjTph_HtLZJTFi16cFluiQqoa-_n1Cz54-LDR4kIN8-KraW11yGB1XUdSi2hqpxIyqWAX8djADiGB2xKg.m3u8?u=1756878715
