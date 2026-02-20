@@ -1,266 +1,282 @@
-测速日志 2026-02-20 09:59:48
-[2026-02-20 09:59:51] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:51] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
-   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:51] ✅ 测速成功: http://23.237.228.134/live5/CCTV7.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.08s
-[2026-02-20 09:59:51] ✅ 测速成功: http://23.237.228.134/live6/guangdong.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.10s
-[2026-02-20 09:59:51] ✅ 测速成功: http://23.237.228.134/live6/guizhou.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.10s
-[2026-02-20 09:59:51] ✅ 测速成功: http://23.237.228.134/live6/guangxi.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.10s
-[2026-02-20 09:59:51] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-02-20 09:59:51] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0129_1.m3u8?txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.47s
-[2026-02-20 09:59:51] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.78s
-[2026-02-20 09:59:51] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.78s
-[2026-02-20 09:59:51] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.78s
-[2026-02-20 09:59:51] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.78s
-[2026-02-20 09:59:51] ✅ 测速成功: http://69.30.246.194/live/zjws.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:51] ✅ 测速成功: http://23.237.228.134/live6/shenzhen.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.08s
-[2026-02-20 09:59:51] ✅ 测速成功: http://23.237.228.134/live6/hubei.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.10s
-[2026-02-20 09:59:51] ✅ 测速成功: http://23.237.228.134/live6/hunan.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.08s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.78s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.78s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.77s
-[2026-02-20 09:59:52] ✅ 测速成功: http://23.237.228.134/live6/hainan.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.10s
-[2026-02-20 09:59:52] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=3ab2531c4ff9867b42e42eb63465ca61&wsTime=1771559927 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-02-20 09:59:52] ✅ 测速成功: http://23.237.228.134/live6/chongqing.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.08s
-[2026-02-20 09:59:52] ✅ 测速成功: http://23.237.228.134/live6/sichuan.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.10s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.82s
-[2026-02-20 09:59:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv1hd.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.31s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.45s
-[2026-02-20 09:59:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv3hd.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.34s
-[2026-02-20 09:59:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv5hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.14s
-[2026-02-20 09:59:52] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:52] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:52] ✅ 测速成功: http://27.41.245.32:801/hls/906/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 1.46s
-[2026-02-20 09:59:52] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv6hd.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.11s
-[2026-02-20 09:59:52] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.04s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.85s
-[2026-02-20 09:59:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv10hd.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+测速日志 2026-02-20 14:55:02
+[2026-02-20 14:55:04] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:04] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:04] ✅ 测速成功: http://23.237.228.134/live5/CCTV7.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.15s
+[2026-02-20 14:55:04] ✅ 测速成功: http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.42s
+[2026-02-20 14:55:04] ✅ 测速成功: http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-02-20 14:55:04] ✅ 测速成功: http://27.41.245.32:801/hls/906/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-02-20 14:55:04] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-02-20 14:55:04] ✅ 测速成功: http://118.72.48.240:888/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2026-02-20 14:55:05] ✅ 测速成功: http://23.237.228.134/live6/guangdong.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.14s
+[2026-02-20 14:55:05] ✅ 测速成功: http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU2jH_Pl6VqGBxHA1IcsitfbKBR673Nu6KG0a27h2exhgUv2dW7fXLtqFZUFX8lctnx2REX0_9N_OE-shnVLOGaoO-0m2O1w2pp5b8sE82sD6hkqtKyg0TkrETYUXvMKUXU9iNc9OW1bvzOvWqkjmjiDdB0XQq2Ci1iWw5fVRe7CRLJb6cHe9q13apio-Vp0OMIvhoPz6HTwp5r3Ay9JXAsQ.m3u8?u=1756878715
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-02-20 14:55:05] ✅ 测速成功: http://23.237.228.134/live6/guizhou.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.14s
+[2026-02-20 14:55:05] ✅ 测速成功: http://23.237.228.134/live6/guangxi.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.14s
+[2026-02-20 14:55:05] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s
-[2026-02-20 09:59:52] ✅ 测速成功: http://27.41.245.32:801/hls/10/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-02-20 09:59:52] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.85s
-[2026-02-20 09:59:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv12hd.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.11s
-[2026-02-20 09:59:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv13hd.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-02-20 09:59:52] ✅ 测速成功: http://74.91.26.218:82/live/cctv7hd.m3u8
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.27s
-[2026-02-20 09:59:52] ✅ 测速成功: http://69.30.246.194/live/cctv12.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:52] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.47s
-[2026-02-20 09:59:53] ✅ 测速成功: http://74.91.26.218:82/live/cctv11hd.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.25s
-[2026-02-20 09:59:53] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-   速度: 416.02KB/s | 数据量: 0.4KB | 总耗时: 0.58s
-[2026-02-20 09:59:53] ✅ 测速成功: http://74.91.26.218:82/live/cctv4hd.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.20s
-[2026-02-20 09:59:53] ✅ 测速成功: http://74.91.26.218:82/live/cctv2hd.m3u8
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-02-20 09:59:53] ✅ 测速成功: http://27.41.245.32:801/hls/9/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-02-20 09:59:53] ✅ 测速成功: http://74.91.26.218:82/live/cctv9hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.12s
-[2026-02-20 09:59:53] ✅ 测速成功: http://23.237.228.134/live6/dongnan.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.10s
-[2026-02-20 09:59:53] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.15s
-[2026-02-20 09:59:53] ✅ 测速成功: https://iptv.catvod.com/live.php?id=CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&line=2
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.33s
-[2026-02-20 09:59:53] ✅ 测速成功: https://iptv.catvod.com/live.php?id=CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&line=1
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.33s
-[2026-02-20 09:59:53] ✅ 测速成功: http://69.30.246.194/live/hnws.m3u8
-   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:53] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.45s
-[2026-02-20 09:59:53] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
-   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.05s
-[2026-02-20 09:59:53] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.35s
-[2026-02-20 09:59:53] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.29s
-[2026-02-20 09:59:53] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2026-02-20 09:59:53] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.25s
-[2026-02-20 09:59:53] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=1
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.26s
-[2026-02-20 09:59:53] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=3
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.28s
-[2026-02-20 09:59:53] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.44s
-[2026-02-20 09:59:53] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-   速度: 178.87KB/s | 数据量: 0.2KB | 总耗时: 0.84s
-[2026-02-20 09:59:54] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-   速度: 278.32KB/s | 数据量: 0.3KB | 总耗时: 1.42s
-[2026-02-20 09:59:54] ✅ 测速成功: http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 818.36KB/s | 数据量: 0.8KB | 总耗时: 0.45s
-[2026-02-20 09:59:54] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.83s
-[2026-02-20 09:59:54] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
+[2026-02-20 14:55:05] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s
-[2026-02-20 09:59:54] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.85s
-[2026-02-20 09:59:54] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.86s
-[2026-02-20 09:59:54] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.30s
-[2026-02-20 09:59:54] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.26s
-[2026-02-20 09:59:54] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.23s
-[2026-02-20 09:59:55] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
-   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.26s
-[2026-02-20 09:59:55] ✅ 测速成功: https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1771504946&sign=9096fbe41429c1a6076f921194983486
-   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 2.04s
-[2026-02-20 09:59:55] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 2.06s
-[2026-02-20 09:59:55] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.13s
-[2026-02-20 09:59:55] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.32s
-[2026-02-20 09:59:55] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-02-20 09:59:55] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.07s
-[2026-02-20 09:59:55] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.30s
-[2026-02-20 09:59:55] ✅ 测速成功: https://0472.org/hls/cgtne.m3u8
-   速度: 182.62KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-02-20 09:59:55] ✅ 测速成功: https://0472.org/hls/cgtnf.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.18s
-[2026-02-20 09:59:55] ✅ 测速成功: https://srs.ssws.tv/video/sstv-10/index.m3u8
-   速度: 389.65KB/s | 数据量: 0.4KB | 总耗时: 1.82s
-[2026-02-20 09:59:55] ✅ 测速成功: https://0472.org/hls/cgtnx.m3u8
-   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.11s
-[2026-02-20 09:59:55] ✅ 测速成功: https://0472.org/hls/cgtna.m3u8
-   速度: 182.62KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-02-20 09:59:55] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+[2026-02-20 14:55:05] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s
+[2026-02-20 14:55:05] ✅ 测速成功: http://69.30.246.194/live/zjws.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:05] ✅ 测速成功: http://23.237.228.134/live6/shenzhen.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.13s
+[2026-02-20 14:55:05] ✅ 测速成功: http://118.72.48.240:888/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-02-20 14:55:05] ✅ 测速成功: http://23.237.228.134/live6/hubei.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.14s
+[2026-02-20 14:55:05] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0129_1.m3u8?txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.13s
+[2026-02-20 14:55:05] ✅ 测速成功: http://23.237.228.134/live6/hunan.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.12s
+[2026-02-20 14:55:05] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.88s
-[2026-02-20 09:59:55] ✅ 测速成功: http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-   速度: 1.29KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2026-02-20 09:59:55] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-02-20 09:59:55] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-02-20 09:59:55] ✅ 测速成功: http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-   速度: 0.77KB/s | 数据量: 0.1KB | 总耗时: 0.79s
-[2026-02-20 09:59:56] ✅ 测速成功: http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-   速度: 2836.91KB/s | 数据量: 2.8KB | 总耗时: 0.46s
-[2026-02-20 09:59:56] ✅ 测速成功: http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
-   速度: 7464.84KB/s | 数据量: 7.5KB | 总耗时: 0.20s
-[2026-02-20 09:59:56] ✅ 测速成功: https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-   速度: 147.46KB/s | 数据量: 0.1KB | 总耗时: 1.20s
-[2026-02-20 09:59:56] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+[2026-02-20 14:55:05] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.91s
+[2026-02-20 14:55:05] ✅ 测速成功: http://23.237.228.134/live6/hainan.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.15s
+[2026-02-20 14:55:05] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.88s
+[2026-02-20 14:55:05] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.90s
+[2026-02-20 14:55:05] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.90s
+[2026-02-20 14:55:06] ✅ 测速成功: http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LypZl51sr4vf3DGhZh3g1VUuuJLW7HVy471lEuDO-YH11Gl0MCkU9WPcq_d0755X83srub1-XHBE5VbZ_j0gx5SPYEI5SLQlIljrPPsTmql9SFpa6P4IOxG5COwYIkcjPYJSXp8eyJ2SYELzoWKcB5ls02Ml0ER2jnqJTLQouDP-GRTvxVnAv-md1jJ8pOhWFPA.m3u8?u=1756878715
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.42s
+[2026-02-20 14:55:06] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=dd1c95cec418412a0c8c99ba7388d548&wsTime=1771581570 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-02-20 14:55:06] ✅ 测速成功: http://23.237.228.134/live6/chongqing.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.12s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv1hd.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://23.237.228.134/live6/sichuan.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.14s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv3hd.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.87s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv5hd.m3u8
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.87s
+[2026-02-20 14:55:06] ✅ 测速成功: http://118.72.48.240:888/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s
+[2026-02-20 14:55:06] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:06] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv10hd.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv6hd.m3u8
+   速度: 199.22KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:06] ✅ 测速成功: http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-02-20 14:55:06] ✅ 测速成功: http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigHfDjvhlcSwubLm2ffedfFXku6bvyJpxyrIEil4B5LpfVMB8A7gpCCrWNvUSRiXXXeWf1ajMfN0PWvetfPYUdZzzDCXtxjUEpQmUqB1RGqWo2mZ7LEjTph_HtLZJTFi16cFluiQqoa-_n1Cz54-LDR4kIN8-KraW11yGB1XUdSi2hqpxIyqWAX8djADiGB2xKg.m3u8?u=1756878715
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv7hd.m3u8
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv11hd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.90s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv12hd.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv13hd.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://69.30.246.194/live/cctv12.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv4hd.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv2hd.m3u8
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://27.41.245.32:801/hls/10/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-02-20 14:55:06] ✅ 测速成功: http://74.91.26.218:82/live/cctv9hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:06] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.49s
+[2026-02-20 14:55:06] ✅ 测速成功: http://27.41.245.32:801/hls/9/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-02-20 14:55:06] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.86s
+[2026-02-20 14:55:06] ✅ 测速成功: https://iptv.catvod.com/live.php?id=CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&line=2
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.26s
+[2026-02-20 14:55:06] ✅ 测速成功: http://23.237.228.134/live6/dongnan.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.15s
+[2026-02-20 14:55:06] ✅ 测速成功: https://iptv.catvod.com/live.php?id=CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&line=1
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.26s
+[2026-02-20 14:55:07] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.21s
+[2026-02-20 14:55:07] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.22s
+[2026-02-20 14:55:07] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+   速度: 416.02KB/s | 数据量: 0.4KB | 总耗时: 0.88s
+[2026-02-20 14:55:07] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-02-20 14:55:07] ✅ 测速成功: http://69.30.246.194/live/hnws.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:07] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.03s
+[2026-02-20 14:55:07] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.20s
+[2026-02-20 14:55:07] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+   速度: 279.30KB/s | 数据量: 0.3KB | 总耗时: 1.00s
+[2026-02-20 14:55:07] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=3
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.20s
+[2026-02-20 14:55:07] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=1
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.20s
+[2026-02-20 14:55:07] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.21s
+[2026-02-20 14:55:07] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-02-20 14:55:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.82s
+[2026-02-20 14:55:07] ✅ 测速成功: http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 818.36KB/s | 数据量: 0.8KB | 总耗时: 0.47s
+[2026-02-20 14:55:07] ✅ 测速成功: https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1771504946&sign=9096fbe41429c1a6076f921194983486
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 1.30s
+[2026-02-20 14:55:08] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.26s
+[2026-02-20 14:55:08] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 2.11s
+[2026-02-20 14:55:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
+[2026-02-20 14:55:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.91s
+[2026-02-20 14:55:08] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.21s
+[2026-02-20 14:55:08] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.20s
+[2026-02-20 14:55:08] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.23s
+[2026-02-20 14:55:08] ✅ 测速成功: https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
+   速度: 210.94KB/s | 数据量: 0.2KB | 总耗时: 0.20s
+[2026-02-20 14:55:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.90s
+[2026-02-20 14:55:08] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.05s
+[2026-02-20 14:55:08] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
    速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.06s
-[2026-02-20 09:59:56] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-   速度: 24353.27KB/s | 数据量: 464.2KB | 总耗时: 0.83s
-[2026-02-20 09:59:56] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2026-02-20 09:59:56] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 514.65KB/s | 数据量: 0.5KB | 总耗时: 2.42s
-[2026-02-20 09:59:56] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
-   速度: 514.65KB/s | 数据量: 0.5KB | 总耗时: 2.59s
-[2026-02-20 09:59:56] ✅ 测速成功: http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-   速度: 169.92KB/s | 数据量: 0.2KB | 总耗时: 1.06s
-[2026-02-20 09:59:56] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.47s
-[2026-02-20 09:59:56] ✅ 测速成功: https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-   速度: 102.54KB/s | 数据量: 0.1KB | 总耗时: 0.78s
-[2026-02-20 09:59:56] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2026-02-20 09:59:57] ✅ 测速成功: http://91.247.68.229:8000/play/Fashion/index.m3u8
-   速度: 115.23KB/s | 数据量: 0.1KB | 总耗时: 0.34s
-[2026-02-20 09:59:57] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.49s
-[2026-02-20 09:59:57] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.45s
-[2026-02-20 09:59:57] ✅ 测速成功: http://39.107.120.164:8080/live/diyp_fhdy.m3u8
-   速度: 0.41KB/s | 数据量: 0.1KB | 总耗时: 4.05s
-[2026-02-20 09:59:57] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.64s
-[2026-02-20 09:59:57] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
-   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.65s
-[2026-02-20 09:59:57] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 536.13KB/s | 数据量: 0.5KB | 总耗时: 0.59s
-[2026-02-20 09:59:57] ✅ 测速成功: https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-   速度: 1423.83KB/s | 数据量: 1.4KB | 总耗时: 0.59s
-[2026-02-20 09:59:57] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 302.73KB/s | 数据量: 0.3KB | 总耗时: 0.20s
-[2026-02-20 09:59:57] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.16s
-[2026-02-20 09:59:57] ✅ 测速成功: https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-   速度: 366.21KB/s | 数据量: 0.4KB | 总耗时: 0.62s
-[2026-02-20 09:59:57] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.29s
-[2026-02-20 09:59:57] ✅ 测速成功: https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.79s
-[2026-02-20 09:59:57] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.25s
-[2026-02-20 09:59:57] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.26s
-[2026-02-20 09:59:57] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+[2026-02-20 14:55:08] ✅ 测速成功: http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+   速度: 0.38KB/s | 数据量: 0.1KB | 总耗时: 1.71s
+[2026-02-20 14:55:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.87s
+[2026-02-20 14:55:08] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.18s
+[2026-02-20 14:55:08] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.28s
+[2026-02-20 14:55:08] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-02-20 14:55:08] ✅ 测速成功: https://0472.org/hls/cgtnf.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.10s
+[2026-02-20 14:55:08] ✅ 测速成功: https://0472.org/hls/cgtne.m3u8
+   速度: 182.62KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-02-20 14:55:08] ✅ 测速成功: https://0472.org/hls/cgtnx.m3u8
+   速度: 183.59KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-02-20 14:55:08] ✅ 测速成功: https://0472.org/hls/cgtna.m3u8
+   速度: 182.62KB/s | 数据量: 0.2KB | 总耗时: 0.06s
+[2026-02-20 14:55:09] ✅ 测速成功: http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+   速度: 1.23KB/s | 数据量: 0.2KB | 总耗时: 0.58s
+[2026-02-20 14:55:09] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.85s
+[2026-02-20 14:55:09] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-02-20 14:55:09] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-02-20 14:55:09] ✅ 测速成功: http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+   速度: 2836.91KB/s | 数据量: 2.8KB | 总耗时: 0.43s
+[2026-02-20 14:55:09] ✅ 测速成功: http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+   速度: 0.72KB/s | 数据量: 0.1KB | 总耗时: 0.83s
+[2026-02-20 14:55:09] ✅ 测速成功: http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
+   速度: 7464.84KB/s | 数据量: 7.5KB | 总耗时: 0.27s
+[2026-02-20 14:55:09] ✅ 测速成功: https://srs.ssws.tv/video/sstv-10/index.m3u8
+   速度: 389.65KB/s | 数据量: 0.4KB | 总耗时: 2.30s
+[2026-02-20 14:55:09] ✅ 测速成功: http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+   速度: 169.92KB/s | 数据量: 0.2KB | 总耗时: 0.79s
+[2026-02-20 14:55:09] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+   速度: 29693.34KB/s | 数据量: 464.2KB | 总耗时: 0.57s
+[2026-02-20 14:55:09] ✅ 测速成功: https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+   速度: 146.48KB/s | 数据量: 0.1KB | 总耗时: 1.27s
+[2026-02-20 14:55:09] ✅ 测速成功: https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+   速度: 102.54KB/s | 数据量: 0.1KB | 总耗时: 0.59s
+[2026-02-20 14:55:10] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.37s
+[2026-02-20 14:55:10] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2026-02-20 09:59:58] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2026-02-20 09:59:58] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.34s
-[2026-02-20 09:59:58] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2026-02-20 09:59:58] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2026-02-20 09:59:58] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.30s
-[2026-02-20 09:59:58] ✅ 测速成功: https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.21s
-[2026-02-20 09:59:58] ✅ 测速成功: https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-02-20 09:59:58] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.27s
-[2026-02-20 09:59:58] ✅ 测速成功: https://hls.rt.com/hls/rtdru360.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.04s
-[2026-02-20 09:59:58] ✅ 测速成功: https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.47s
-[2026-02-20 09:59:58] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2026-02-20 09:59:58] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+[2026-02-20 14:55:10] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.60s
+[2026-02-20 14:55:10] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.64s
+[2026-02-20 14:55:10] ✅ 测速成功: http://91.247.68.229:8000/play/Fashion/index.m3u8
+   速度: 115.23KB/s | 数据量: 0.1KB | 总耗时: 0.31s
+[2026-02-20 14:55:10] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.43s
+[2026-02-20 14:55:10] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.43s
+[2026-02-20 14:55:10] ✅ 测速成功: https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.52s
+[2026-02-20 14:55:10] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.71s
+[2026-02-20 14:55:10] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
+   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.89s
+[2026-02-20 14:55:10] ✅ 测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
+   速度: 450.20KB/s | 数据量: 0.5KB | 总耗时: 2.89s
+[2026-02-20 14:55:10] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 450.20KB/s | 数据量: 0.5KB | 总耗时: 2.86s
+[2026-02-20 14:55:10] ✅ 测速成功: https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+   速度: 1423.83KB/s | 数据量: 1.4KB | 总耗时: 0.54s
+[2026-02-20 14:55:10] ✅ 测速成功: https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.58s
+[2026-02-20 14:55:10] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.09s
+[2026-02-20 14:55:10] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 536.13KB/s | 数据量: 0.5KB | 总耗时: 0.70s
+[2026-02-20 14:55:10] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.23s
+[2026-02-20 14:55:10] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.09s
+[2026-02-20 14:55:11] ✅ 测速成功: https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.70s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.28s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.25s
+[2026-02-20 14:55:11] ✅ 测速成功: https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+   速度: 366.21KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.45s
+[2026-02-20 14:55:11] ✅ 测速成功: https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.59s
+[2026-02-20 14:55:11] ✅ 测速成功: https://hls.rt.com/hls/rtdru360.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.58s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.47s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.46s
-[2026-02-20 09:59:58] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.46s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.24s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.24s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.25s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.24s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.43s
+[2026-02-20 14:55:11] ✅ 测速成功: https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.57s
+[2026-02-20 14:55:12] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 723.63KB/s | 数据量: 0.7KB | 总耗时: 1.19s
