@@ -3818,3 +3818,4 @@ pull-hls-f11.douyincdn.com
 59.174.160.131
 114.254.95.9
 iptv.gstory.cn
+42.237.212.165
