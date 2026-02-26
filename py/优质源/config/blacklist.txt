@@ -3874,3 +3874,4 @@ mgsp-yx2.live.miguvideo.com
 125.43.249.130
 116.2.170.170
 27.41.245.32
+mgsp-zy.vod.miguvideo.com
