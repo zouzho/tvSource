@@ -3894,3 +3894,9 @@ mgsp-zy.vod.miguvideo.com
 220.190.78.86
 flvhspull2mgsplive.miguvideo.com
 iptv.catvod.com
+223.198.240.7
+106.87.49.42
+115.171.80.124
+113.119.24.73
+116.9.34.226
+219.156.90.151
