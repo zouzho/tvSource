@@ -2,8 +2,8 @@
 CCTV1,http://114.254.80.164:8888/rtp/239.3.1.129:8008
 CCTV2,http://pull-hls-f26.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab5953&major_anchor_level=common&sign=57d8e1e83d33ba9634ae5c7a9459724f&t_id=037-20260228064643535DD8CD314AB1F748BD-Pqf7Y6
 CCTV2,http://114.254.80.164:8888/rtp/239.3.1.60:8084
-CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV3,http://114.254.80.164:8888/rtp/239.3.1.172:8001
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
@@ -15,9 +15,9 @@ CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,http://114.254.80.164:8888/rtp/239.3.1.130:8004
 CCTV6,http://114.254.80.164:8888/rtp/239.3.1.174:8001
 CCTV7,http://114.254.80.164:8888/rtp/239.3.1.61:8104
-CCTV8,http://114.254.80.164:8888/rtp/239.3.1.175:8001
 CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV8,http://114.254.80.164:8888/rtp/239.3.1.175:8001
 CCTV9,http://114.254.80.164:8888/rtp/239.3.1.62:8112
 CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV10,http://114.254.80.164:8888/rtp/239.3.1.63:8116
@@ -45,7 +45,6 @@ CETV4,http://114.254.80.164:8888/rtp/239.3.1.56:4120
 浙江卫视,http://114.254.80.164:8888/rtp/239.3.1.137:8036
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
 东方卫视,http://114.254.80.164:8888/rtp/239.3.1.136:8032
-北京卫视,http://23.237.228.134/live3/beijing.m3u8
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
 北京卫视,http://114.254.80.164:8888/rtp/239.3.1.241:8000
 江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
@@ -115,8 +114,8 @@ NewTV古装剧场,http://114.254.80.164:8888/rtp/239.3.1.69:4120
 ☘️湖南省,#genre#
 湖南金鹰纪实,http://114.254.80.164:8888/rtp/239.3.1.58:8156
 ☘️吉林省,#genre#
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 ☘️新疆,#genre#
 新疆卫视,http://219.146.95.58:59902/tsfile/live/0110_1.m3u8
 新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8
@@ -143,7 +142,7 @@ CGTN纪录,http://114.254.80.164:8888/rtp/239.3.1.216:4220
 CGTN英语,http://114.254.80.164:8888/rtp/239.3.1.215:4220
 CGTN西班牙语,http://114.254.80.164:8888/rtp/239.3.1.217:4220
 CGTN阿拉伯语,http://114.254.80.164:8888/rtp/239.3.1.219:4220
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 HBO,http://104.250.145.76/livehttpplay?channel_id=23356
@@ -188,7 +187,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 华数精选,http://114.254.80.164:8888/rtp/239.3.1.74:4120
 华数经典电影,http://114.254.80.164:8888/rtp/239.3.1.195:9024
 华数魅力时尚,http://114.254.80.164:8888/rtp/239.3.1.196:9012
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=f12361b1a34db7a8cbede798100b0cf4&wsTime=1772769531
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=6e31e5b74cc640b0ea4aa633f316bb51&wsTime=1772791189
 娱乐新闻(备用),http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
 延庆电视台,http://114.254.80.164:8888/rtp/239.3.1.187:8001
 朝阳融媒,http://114.254.80.164:8888/rtp/239.3.1.163:8001
