@@ -1,7 +1,7 @@
 央视频道,#genre#
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV3,http://154.219.125.138:5050/ysp?id=2024068501&pid=600001801&q=fhd
 CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
@@ -14,9 +14,9 @@ CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
+CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV6,http://154.219.125.138:5050/ysp?id=2013693901&pid=600108442&q=fhd
 CCTV6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
@@ -34,15 +34,14 @@ CCTV11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist
 CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
 CCTV11,http://107.150.60.122/live/cctv11hd.m3u8
 CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV15,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV15,http://69.30.246.194/live/cctv15.m3u8
 CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
@@ -58,9 +57,10 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
+北京卫视,http://23.237.228.134/live3/beijing.m3u8
 江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
-江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
+江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
@@ -103,7 +103,7 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV文化精品,http://107.150.60.122/live/ysjp.m3u8#http://107.150.60.122/live/ysjp.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 RT Arabic,https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
@@ -116,7 +116,7 @@ RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 东方卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=a4e93d2151a602684a84d3017c2cdd10&wsTime=1774324778
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=cb2f73ad51855abab6aac1c8b2953866&wsTime=1774346460
 娱乐新闻(备用),http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
 广东卫视高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
