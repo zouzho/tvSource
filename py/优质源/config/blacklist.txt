@@ -4161,3 +4161,7 @@ rt-fra.rttv.com
 rt-ger.rttv.com
 rt-arb.rttv.com
 hls.rt.com
+101.66.199.16
+101.66.198.115
+101.66.199.12
+101.66.198.217
