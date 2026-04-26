@@ -1,170 +1,126 @@
-测速日志 2026-04-26 10:37:50
-[2026-04-26 10:37:54] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=bed37c452d0adf0106322b973248647f&wsTime=1777183254 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/ysjp.m3u8
-   速度: 184.57KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/gxwshd.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/cqwshd.m3u8
-   速度: 185.55KB/s | 数据量: 0.2KB | 总耗时: 0.16s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/snwshd.m3u8
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/cctv5p.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.18s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/xzws.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.18s
-[2026-04-26 10:37:54] ✅ 测速成功: http://23.237.228.134/live3/CCTV12.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.21s
-[2026-04-26 10:37:54] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.24s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/cctv3hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/cctv11hd.m3u8
-   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.22s
-[2026-04-26 10:37:54] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.24s
-[2026-04-26 10:37:54] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.24s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/cctv15hd.m3u8
-   速度: 199.22KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-04-26 10:37:54] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.25s
-[2026-04-26 10:37:54] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.24s
-[2026-04-26 10:37:54] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.24s
-[2026-04-26 10:37:54] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-04-26 10:37:54] ✅ 测速成功: http://23.237.228.134/live3/CCTV12.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.13s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/cctv7hd.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-04-26 10:37:54] ✅ 测速成功: http://107.150.60.122/live/hbwshd.m3u8
-   速度: 168.95KB/s | 数据量: 0.2KB | 总耗时: 0.68s
-[2026-04-26 10:37:55] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.14s
-[2026-04-26 10:37:56] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.78s
-[2026-04-26 10:37:57] ❌ 测速失败: http://fei01.kmdns.net:8807/667987558
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /667987558 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2b460>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:57] ❌ 测速失败: http://fei01.kmdns.net:8807/624878271
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /624878271 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2a140>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:57] ❌ 测速失败: http://fei01.kmdns.net:8807/641886683
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /641886683 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db29d00>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:57] ❌ 测速失败: http://fei01.kmdns.net:8807/608807423
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /608807423 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2bf00>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:57] ❌ 测速失败: http://fei01.kmdns.net:8807/608807420
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /608807420 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2a7a0>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:57] ❌ 测速失败: http://fei01.kmdns.net:8807/673168121
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /673168121 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db29f20>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:58] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.08s
-[2026-04-26 10:37:58] ❌ 测速失败: http://fei01.kmdns.net:8807/631780421
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /631780421 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2b130>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:58] ❌ 测速失败: http://fei01.kmdns.net:8807/624878405
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /624878405 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2bdf0>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:58] ✅ 测速成功: http://107.150.60.122/live/cctv2hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.25s
-[2026-04-26 10:37:58] ✅ 测速成功: http://107.150.60.122/live/cctv12hd.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.21s
-[2026-04-26 10:37:58] ✅ 测速成功: http://107.150.60.122/live/cctv6hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-04-26 10:37:58] ✅ 测速成功: http://23.237.228.134/live3/beijing.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.20s
-[2026-04-26 10:37:58] ✅ 测速成功: http://23.237.228.134/live3/dongfang.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.20s
-[2026-04-26 10:37:58] ✅ 测速成功: http://107.150.60.122/live/dfwshd.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-04-26 10:37:59] ❌ 测速失败: http://fei01.kmdns.net:8807/631780532
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /631780532 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2b240>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:59] ❌ 测速失败: http://fei01.kmdns.net:8807/641886773
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /641886773 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2b020>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:37:59] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 0.97s
-[2026-04-26 10:38:00] ✅ 测速成功: http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-04-26 10:38:00] ✅ 测速成功: http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-04-26 10:38:00] ✅ 测速成功: http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-04-26 10:38:01] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.54s
-[2026-04-26 10:38:01] ❌ 测速失败: http://fei01.kmdns.net:8807/673168223
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /673168223 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e0050>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:01] ❌ 测速失败: http://fei01.kmdns.net:8807/630287636
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /630287636 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e08d0>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:01] ❌ 测速失败: http://fei01.kmdns.net:8807/608807419
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /608807419 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e06b0>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:01] ❌ 测速失败: http://fei01.kmdns.net:8807/624878356
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /624878356 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e0490>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:01] ❌ 测速失败: http://fei01.kmdns.net:8807/673168256
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /673168256 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8db2a9c0>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:01] ❌ 测速失败: http://fei01.kmdns.net:8807/952383261
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /952383261 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e1150>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:01] ✅ 测速成功: http://107.150.60.122/live/snwshd.m3u8
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.17s
-[2026-04-26 10:38:01] ✅ 测速成功: http://107.150.60.122/live/qhws.m3u8
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.18s
-[2026-04-26 10:38:01] ✅ 测速成功: http://23.237.228.134/live3/jiangsu.m3u8
-   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.20s
-[2026-04-26 10:38:01] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.25s
-[2026-04-26 10:38:01] ✅ 测速成功: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-   速度: 24472.66KB/s | 数据量: 24.5KB | 总耗时: 0.13s
-[2026-04-26 10:38:01] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.03s
-[2026-04-26 10:38:01] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.24s
-[2026-04-26 10:38:01] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.03s
-[2026-04-26 10:38:01] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.01s
-[2026-04-26 10:38:01] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.22s
-[2026-04-26 10:38:01] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.34s
-[2026-04-26 10:38:01] ❌ 测速失败: http://fei01.kmdns.net:8807/651632648
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /651632648 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e0af0>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:02] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-   速度: 233.40KB/s | 数据量: 0.2KB | 总耗时: 0.33s
-[2026-04-26 10:38:02] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-04-26 10:38:02] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-04-26 10:38:02] ❌ 测速失败: http://fei01.kmdns.net:8807/608917627
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /608917627 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e0c00>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:02] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
-   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 0.65s
-[2026-04-26 10:38:02] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 0.56s
-[2026-04-26 10:38:02] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.26s
-[2026-04-26 10:38:02] ✅ 测速成功: http://91.247.68.229:8000/play/Fashion/index.m3u8
-   速度: 115.23KB/s | 数据量: 0.1KB | 总耗时: 0.28s
-[2026-04-26 10:38:02] ✅ 测速成功: http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-   速度: 169.92KB/s | 数据量: 0.2KB | 总耗时: 1.07s
-[2026-04-26 10:38:02] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.45s
-[2026-04-26 10:38:03] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 0.18s
-[2026-04-26 10:38:03] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.05s
-[2026-04-26 10:38:03] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-   速度: 33594.11KB/s | 数据量: 453.6KB | 总耗时: 1.09s
-[2026-04-26 10:38:03] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.09s
-[2026-04-26 10:38:03] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 1161.13KB/s | 数据量: 1.2KB | 总耗时: 0.27s
-[2026-04-26 10:38:03] ✅ 测速成功: https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.55s
-[2026-04-26 10:38:03] ❌ 测速失败: http://fei01.kmdns.net:8807/947472496
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /947472496 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e07c0>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:03] ✅ 测速成功: https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-   速度: 328.12KB/s | 数据量: 0.3KB | 总耗时: 0.56s
-[2026-04-26 10:38:03] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.09s
-[2026-04-26 10:38:03] ✅ 测速成功: http://live.wjyanghu.com/live/CH1.m3u8
-   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 2.27s
-[2026-04-26 10:38:04] ❌ 测速失败: http://fei01.kmdns.net:8807/630291707
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /630291707 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e2360>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:04] ❌ 测速失败: http://fei01.kmdns.net:8807/738910838
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /738910838 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e2690>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
-[2026-04-26 10:38:04] ❌ 测速失败: http://fei01.kmdns.net:8807/623899368
-   错误: HTTPConnectionPool(host='fei01.kmdns.net', port=8807): Max retries exceeded with url: /623899368 (Caused by ConnectTimeoutError(<HTTPConnection(host='fei01.kmdns.net', port=8807) at 0x7f5f8d5e1480>, 'Connection to fei01.kmdns.net timed out. (connect timeout=3.05)')) | 域名: fei01.kmdns.net
+测速日志 2026-04-26 15:27:19
+[2026-04-26 15:27:22] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=fef62eb249df2d86cfe4dfffc17dca8f&wsTime=1777197503 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/snwshd.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.10s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/cqwshd.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.10s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/xzws.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/hbwshd.m3u8
+   速度: 184.57KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/cctv5p.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/gxwshd.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/ysjp.m3u8
+   速度: 185.55KB/s | 数据量: 0.2KB | 总耗时: 0.12s
+[2026-04-26 15:27:22] ✅ 测速成功: http://23.237.228.134/live3/CCTV12.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.15s
+[2026-04-26 15:27:22] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/cctv3hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/cctv11hd.m3u8
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:22] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-04-26 15:27:22] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-04-26 15:27:22] ✅ 测速成功: http://107.150.60.122/live/cctv15hd.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:22] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-04-26 15:27:22] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-04-26 15:27:22] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-04-26 15:27:22] ✅ 测速成功: http://23.237.228.134/live3/CCTV12.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.08s
+[2026-04-26 15:27:23] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.04s
+[2026-04-26 15:27:23] ✅ 测速成功: http://107.150.60.122/live/cctv2hd.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.10s
+[2026-04-26 15:27:23] ✅ 测速成功: http://107.150.60.122/live/cctv7hd.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:23] ✅ 测速成功: http://107.150.60.122/live/cctv12hd.m3u8
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.10s
+[2026-04-26 15:27:23] ✅ 测速成功: http://107.150.60.122/live/cctv6hd.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.10s
+[2026-04-26 15:27:23] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.38s
+[2026-04-26 15:27:23] ✅ 测速成功: http://107.150.60.122/live/dfwshd.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.10s
+[2026-04-26 15:27:23] ✅ 测速成功: http://23.237.228.134/live3/beijing.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.15s
+[2026-04-26 15:27:23] ✅ 测速成功: http://23.237.228.134/live3/dongfang.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.15s
+[2026-04-26 15:27:23] ✅ 测速成功: http://23.237.228.134/live3/jiangsu.m3u8
+   速度: 1319.34KB/s | 数据量: 1.3KB | 总耗时: 0.15s
+[2026-04-26 15:27:23] ✅ 测速成功: http://107.150.60.122/live/qhws.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:23] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-04-26 15:27:23] ✅ 测速成功: http://107.150.60.122/live/snwshd.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.11s
+[2026-04-26 15:27:23] ✅ 测速成功: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.16s
+[2026-04-26 15:27:23] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.37s
+[2026-04-26 15:27:23] ✅ 测速成功: http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.40s
+[2026-04-26 15:27:23] ✅ 测速成功: http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.40s
+[2026-04-26 15:27:23] ✅ 测速成功: http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.42s
+[2026-04-26 15:27:23] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.33s
+[2026-04-26 15:27:23] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.30s
+[2026-04-26 15:27:23] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.29s
+[2026-04-26 15:27:23] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.31s
+[2026-04-26 15:27:23] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.35s
+[2026-04-26 15:27:23] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-04-26 15:27:23] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-04-26 15:27:23] ✅ 测速成功: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+   速度: 27851.56KB/s | 数据量: 27.9KB | 总耗时: 0.42s
+[2026-04-26 15:27:23] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.07s
+[2026-04-26 15:27:23] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 0.81s
+[2026-04-26 15:27:24] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+   速度: 272.46KB/s | 数据量: 0.3KB | 总耗时: 1.12s
+[2026-04-26 15:27:24] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+   速度: 233.40KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-04-26 15:27:24] ✅ 测速成功: http://91.247.68.229:8000/play/Fashion/index.m3u8
+   速度: 115.23KB/s | 数据量: 0.1KB | 总耗时: 0.35s
+[2026-04-26 15:27:24] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.54s
+[2026-04-26 15:27:24] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 0.20s
+[2026-04-26 15:27:24] ✅ 测速成功: http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+   速度: 169.92KB/s | 数据量: 0.2KB | 总耗时: 0.92s
+[2026-04-26 15:27:24] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.85s
+[2026-04-26 15:27:24] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.27s
+[2026-04-26 15:27:24] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 0.99s
+[2026-04-26 15:27:24] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.17s
+[2026-04-26 15:27:24] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 980.47KB/s | 数据量: 1.0KB | 总耗时: 0.24s
+[2026-04-26 15:27:24] ✅ 测速成功: http://live.wjyanghu.com/live/CH1.m3u8
+   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 1.68s
+[2026-04-26 15:27:24] ✅ 测速成功: https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+   速度: 27819.64KB/s | 数据量: 453.6KB | 总耗时: 1.21s
+[2026-04-26 15:27:24] ✅ 测速成功: https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 0.61s
+[2026-04-26 15:27:25] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.76s
+[2026-04-26 15:27:25] ✅ 测速成功: http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
+   速度: 248.05KB/s | 数据量: 0.2KB | 总耗时: 1.77s
+[2026-04-26 15:27:25] ✅ 测速成功: https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+   速度: 328.12KB/s | 数据量: 0.3KB | 总耗时: 1.34s
