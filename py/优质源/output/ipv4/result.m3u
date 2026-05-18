@@ -206,7 +206,7 @@ http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" group-title="其他",凤凰卫视
 http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="国学频道" group-title="其他",国学频道
-rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=7f738a9e118d5a8f11d1a9b040649431&wsTime=1779083863
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=3fdb4ddb15762fdb076423955230d9d0&wsTime=1779105549
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 http://113.46.143.74:5080/608917627
 #EXTINF:-1 tvg-name="娱乐新闻(备用)" group-title="其他",娱乐新闻(备用)
