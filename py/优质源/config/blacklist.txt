@@ -4658,3 +4658,7 @@ flvctypull2mgsplive.miguvideo.com
 116.52.173.25
 hlszymgsplive.miguvideo.com
 mgsp-cty2.live.miguvideo.com
+171.8.81.20
+58.46.30.249
+39.77.159.13
+123.118.54.216
