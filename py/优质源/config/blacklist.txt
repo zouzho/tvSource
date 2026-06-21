@@ -4657,3 +4657,4 @@ flvctypull2mgsplive.miguvideo.com
 123.118.56.82
 116.52.173.25
 hlszymgsplive.miguvideo.com
+mgsp-cty2.live.miguvideo.com
