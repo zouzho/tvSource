@@ -4735,3 +4735,4 @@ gslbmgspvod.miguvideo.com
 221.220.133.22
 59.174.160.101
 flv-play.clouda.com
+flvyxpull2mgsplive.miguvideo.com
