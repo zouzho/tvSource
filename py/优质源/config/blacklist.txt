@@ -4795,3 +4795,8 @@ flvyxpull2mgsplive.miguvideo.com
 123.118.62.91
 27.12.12.183
 223.247.25.207
+123.118.59.255
+171.8.81.65
+tencentplaybusiness.gztv.com
+114.226.212.136
+114.254.33.208
