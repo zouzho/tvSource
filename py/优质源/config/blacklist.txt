@@ -4800,3 +4800,4 @@ flvyxpull2mgsplive.miguvideo.com
 tencentplaybusiness.gztv.com
 114.226.212.136
 114.254.33.208
+60.10.139.113
