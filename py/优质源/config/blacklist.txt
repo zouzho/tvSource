@@ -4815,3 +4815,8 @@ rt-glb.rttv.com
 pull-hls-f1.douyinliving.com
 cd-live-stream.news.cctvplus.com
 110.154.192.66
+171.8.104.16
+124.112.188.29
+113.119.26.220
+39.77.163.227
+1.192.240.185
