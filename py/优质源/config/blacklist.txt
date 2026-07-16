@@ -4812,3 +4812,6 @@ ali.hlspull.yximgs.com
 1.58.66.11
 rt-rtd.rttv.com
 rt-glb.rttv.com
+pull-hls-f1.douyinliving.com
+cd-live-stream.news.cctvplus.com
+110.154.192.66
