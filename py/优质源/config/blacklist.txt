@@ -4810,3 +4810,5 @@ tencentplaybusiness.gztv.com
 ali.hlspull.yximgs.com
 223.105.252.57
 1.58.66.11
+rt-rtd.rttv.com
+rt-glb.rttv.com
