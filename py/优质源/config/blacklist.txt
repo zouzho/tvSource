@@ -4844,3 +4844,7 @@ jsv-live-play.sfccn.com
 live.wjyanghu.com
 mgsp-ali2.live.miguvideo.com
 121.57.88.206
+27.12.12.189
+39.77.20.214
+219.156.34.120
+114.254.32.191
