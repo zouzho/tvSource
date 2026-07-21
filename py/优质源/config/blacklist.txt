@@ -4840,3 +4840,7 @@ cd-live-stream.news.cctvplus.com
 222.130.32.10
 124.112.241.104
 jsv-live-play.sfccn.com
+125.43.247.15
+live.wjyanghu.com
+mgsp-ali2.live.miguvideo.com
+121.57.88.206
