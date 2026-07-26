@@ -4866,3 +4866,4 @@ mgsp-ali2.live.miguvideo.com
 171.8.105.250
 219.156.93.69
 113.119.24.67
+mgws.vod.miguvideo.com
