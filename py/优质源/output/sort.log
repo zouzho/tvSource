@@ -1,384 +1,384 @@
-测速日志 2026-08-02 10:37:01
-[2026-08-02 10:37:04] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=f948ed348d226ce65aa97b18263ee7c5&wsTime=1785650486 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-02 10:37:04] ✅ 测速成功: http://198.204.240.250:82/live/cctv1.m3u8
-   速度: 40.04KB/s | 数据量: 0.0KB | 总耗时: 0.21s
-[2026-08-02 10:37:04] ✅ 测速成功: http://198.204.240.250:82/live/cctv6.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.32s
-[2026-08-02 10:37:04] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-08-02 10:37:04] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.40s
-[2026-08-02 10:37:04] ✅ 测速成功: http://121.19.134.253:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.41s
-[2026-08-02 10:37:04] ✅ 测速成功: http://125.43.249.115:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.43s
-[2026-08-02 10:37:04] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-02 10:37:05] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-08-02 10:37:05] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.31s
-[2026-08-02 10:37:05] ✅ 测速成功: http://111.8.177.168:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.43s
-[2026-08-02 10:37:06] ✅ 测速成功: http://223.247.25.227:1234/631780532
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.80s
-[2026-08-02 10:37:06] ✅ 测速成功: http://223.247.25.227:1234/624878271
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.38s
-[2026-08-02 10:37:06] ✅ 测速成功: http://106.42.108.174:7788/631780421
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:06] ✅ 测速成功: http://223.247.25.227:1234/631780421
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.19s
-[2026-08-02 10:37:06] ✅ 测速成功: http://182.127.153.16:1234/631780421
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-08-02 10:37:06] ✅ 测速成功: http://182.127.153.16:1234/631780532
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.84s
-[2026-08-02 10:37:06] ✅ 测速成功: http://106.42.108.174:7788/631780532
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.84s
-[2026-08-02 10:37:06] ✅ 测速成功: http://106.42.108.174:7788/624878271
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.47s
-[2026-08-02 10:37:06] ✅ 测速成功: http://182.127.153.16:1234/624878271
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.46s
-[2026-08-02 10:37:06] ✅ 测速成功: http://182.127.153.16:1234/608807419
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.11s
-[2026-08-02 10:37:06] ✅ 测速成功: http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.32s
-[2026-08-02 10:37:06] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-08-02 10:37:06] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.42s
-[2026-08-02 10:37:06] ✅ 测速成功: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-   速度: 221.68KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-02 10:37:07] ✅ 测速成功: http://223.247.25.227:1234/608807419
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.06s
-[2026-08-02 10:37:07] ✅ 测速成功: http://106.42.108.174:7788/608807419
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.11s
-[2026-08-02 10:37:07] ✅ 测速成功: http://223.247.25.227:1234/608807416
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.12s
-[2026-08-02 10:37:07] ✅ 测速成功: http://182.127.153.16:1234/608807416
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.15s
-[2026-08-02 10:37:07] ✅ 测速成功: http://222.130.32.99:7788/608807419
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.13s
-[2026-08-02 10:37:07] ✅ 测速成功: http://106.42.108.174:7788/608807416
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:07] ✅ 测速成功: http://182.127.153.16:1234/641886683
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.09s
-[2026-08-02 10:37:07] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2026-08-02 10:37:07] ✅ 测速成功: http://106.42.108.174:7788/641886683
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.16s
-[2026-08-02 10:37:07] ✅ 测速成功: http://223.247.25.227:1234/641886683
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.12s
-[2026-08-02 10:37:08] ✅ 测速成功: http://223.83.177.142:1234/641886683
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:08] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-08-02 10:37:08] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.42s
-[2026-08-02 10:37:08] ✅ 测速成功: http://222.130.32.99:7788/641886683
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.06s
-[2026-08-02 10:37:08] ✅ 测速成功: http://223.83.177.142:1234/641886773
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:08] ✅ 测速成功: http://223.247.25.227:1234/624878396
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:08] ✅ 测速成功: http://182.127.153.16:1234/624878396
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:08] ✅ 测速成功: http://106.42.108.174:7788/624878396
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.28s
-[2026-08-02 10:37:08] ✅ 测速成功: http://222.130.32.99:7788/624878396
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.21s
-[2026-08-02 10:37:08] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.36s
-[2026-08-02 10:37:09] ✅ 测速成功: http://182.127.153.16:1234/673168121
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.08s
-[2026-08-02 10:37:09] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-08-02 10:37:09] ✅ 测速成功: http://222.130.32.99:7788/673168121
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.07s
-[2026-08-02 10:37:09] ✅ 测速成功: http://106.42.108.174:7788/673168121
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.11s
-[2026-08-02 10:37:09] ✅ 测速成功: https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
-   速度: 245254.53KB/s | 数据量: 6577.2KB | 总耗时: 1.56s
-[2026-08-02 10:37:09] ✅ 测速成功: https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
-   速度: 30049.62KB/s | 数据量: 6577.2KB | 总耗时: 1.72s
-[2026-08-02 10:37:09] ✅ 测速成功: http://223.247.25.227:1234/673168121
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.22s
-[2026-08-02 10:37:09] ✅ 测速成功: http://182.127.153.16:1234/624878356
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:09] ✅ 测速成功: http://106.42.108.174:7788/624878356
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.21s
-[2026-08-02 10:37:09] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.40s
-[2026-08-02 10:37:10] ✅ 测速成功: http://223.247.25.227:1234/624878356
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:10] ✅ 测速成功: http://222.130.32.99:7788/624878356
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.10s
-[2026-08-02 10:37:10] ✅ 测速成功: http://106.42.108.174:7788/673168140
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.16s
-[2026-08-02 10:37:10] ✅ 测速成功: http://223.247.25.227:1234/673168140
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.14s
-[2026-08-02 10:37:10] ✅ 测速成功: http://222.130.32.99:7788/673168140
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.08s
-[2026-08-02 10:37:10] ✅ 测速成功: http://182.127.153.16:1234/673168140
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.05s
-[2026-08-02 10:37:10] ✅ 测速成功: http://182.127.153.16:1234/624878405
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.19s
-[2026-08-02 10:37:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-08-02 10:37:11] ✅ 测速成功: http://223.247.25.227:1234/624878405
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:11] ✅ 测速成功: http://106.42.108.174:7788/624878405
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.12s
-[2026-08-02 10:37:11] ✅ 测速成功: http://182.127.153.16:1234/667987558
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.14s
-[2026-08-02 10:37:11] ✅ 测速成功: http://106.42.108.174:7788/667987558
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.21s
-[2026-08-02 10:37:11] ✅ 测速成功: http://222.130.32.99:7788/667987558
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.10s
-[2026-08-02 10:37:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-08-02 10:37:11] ✅ 测速成功: http://106.42.108.174:7788/673168185
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:11] ✅ 测速成功: http://182.127.153.16:1234/673168185
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.08s
-[2026-08-02 10:37:11] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-08-02 10:37:12] ✅ 测速成功: http://222.130.32.99:7788/608807423
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.16s
-[2026-08-02 10:37:12] ✅ 测速成功: http://182.127.153.16:1234/608807423
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.16s
-[2026-08-02 10:37:12] ✅ 测速成功: http://106.42.108.174:7788/608807423
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.25s
-[2026-08-02 10:37:12] ✅ 测速成功: http://223.247.25.227:1234/624878440
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:12] ✅ 测速成功: http://106.42.108.174:7788/624878440
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.10s
-[2026-08-02 10:37:12] ✅ 测速成功: http://182.127.153.16:1234/624878440
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.03s
-[2026-08-02 10:37:12] ✅ 测速成功: http://111.8.177.168:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.43s
-[2026-08-02 10:37:12] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-08-02 10:37:12] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.31s
-[2026-08-02 10:37:12] ✅ 测速成功: http://222.130.32.99:7788/624878440
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.13s
-[2026-08-02 10:37:12] ✅ 测速成功: http://222.130.32.99:7788/673168223
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.23s
-[2026-08-02 10:37:12] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-02 10:37:13] ✅ 测速成功: http://223.247.25.227:1234/673168223
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.19s
-[2026-08-02 10:37:13] ✅ 测速成功: http://111.8.177.168:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.43s
-[2026-08-02 10:37:13] ✅ 测速成功: http://106.42.108.174:7788/673168223
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.19s
-[2026-08-02 10:37:13] ✅ 测速成功: http://182.127.153.16:1234/673168223
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.21s
-[2026-08-02 10:37:13] ✅ 测速成功: http://223.247.25.227:1234/673168185
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 2.87s
-[2026-08-02 10:37:13] ✅ 测速成功: http://222.130.32.99:7788/673168256
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.12s
-[2026-08-02 10:37:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-08-02 10:37:13] ✅ 测速成功: http://106.42.108.174:7788/673168256
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-02 10:37:13] ✅ 测速成功: http://182.127.153.16:1234/673168256
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:14] ✅ 测速成功: http://182.127.153.16:1234/608807420
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.06s
-[2026-08-02 10:37:14] ✅ 测速成功: http://106.42.108.174:7788/608807420
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.20s
-[2026-08-02 10:37:14] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.26s
-[2026-08-02 10:37:14] ✅ 测速成功: http://222.130.32.99:7788/608807420
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.08s
-[2026-08-02 10:37:14] ✅ 测速成功: http://182.127.153.16:1234/641886773
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:14] ✅ 测速成功: http://106.42.108.174:7788/641886773
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.20s
-[2026-08-02 10:37:14] ✅ 测速成功: http://106.42.108.174:7788/952383261
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:15] ✅ 测速成功: http://182.127.153.16:1234/952383261
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.16s
-[2026-08-02 10:37:15] ✅ 测速成功: http://222.130.32.99:7788/952383261
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.10s
-[2026-08-02 10:37:15] ✅ 测速成功: http://223.247.25.227:1234/952383261
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.14s
-[2026-08-02 10:37:15] ✅ 测速成功: http://222.130.32.99:7788/630287636
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.13s
-[2026-08-02 10:37:15] ✅ 测速成功: http://182.127.153.16:1234/630287636
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.09s
-[2026-08-02 10:37:15] ✅ 测速成功: http://223.247.25.227:1234/630287636
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:15] ✅ 测速成功: http://106.42.108.174:7788/956923145
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.08s
-[2026-08-02 10:37:15] ✅ 测速成功: http://182.127.153.16:1234/956923145
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.12s
-[2026-08-02 10:37:16] ✅ 测速成功: http://222.130.32.99:7788/738910914
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.02s
-[2026-08-02 10:37:16] ✅ 测速成功: http://182.127.153.16:1234/738910914
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:16] ✅ 测速成功: http://106.42.108.174:7788/630287636
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.84s
-[2026-08-02 10:37:16] ✅ 测速成功: http://106.42.108.174:7788/738910914
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:16] ✅ 测速成功: http://223.247.25.227:1234/738910914
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:16] ✅ 测速成功: http://222.130.32.99:7788/651632648
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.10s
-[2026-08-02 10:37:16] ✅ 测速成功: http://182.127.153.16:1234/651632648
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.15s
-[2026-08-02 10:37:16] ✅ 测速成功: http://223.247.25.227:1234/651632648
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:16] ✅ 测速成功: http://182.127.153.16:1234/608831231
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.39s
-[2026-08-02 10:37:16] ✅ 测速成功: http://106.42.108.174:7788/608831231
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.45s
-[2026-08-02 10:37:16] ✅ 测速成功: http://222.130.32.99:7788/608831231
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.56s
-[2026-08-02 10:37:17] ✅ 测速成功: http://106.42.108.174:7788/651632648
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.08s
-[2026-08-02 10:37:17] ✅ 测速成功: http://182.127.153.16:1234/608917627
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.07s
-[2026-08-02 10:37:17] ✅ 测速成功: http://223.247.25.227:1234/849119120
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.15s
-[2026-08-02 10:37:17] ✅ 测速成功: http://106.42.108.174:7788/608917627
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.22s
-[2026-08-02 10:37:17] ✅ 测速成功: http://182.127.153.16:1234/849119120
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.21s
-[2026-08-02 10:37:17] ✅ 测速成功: http://106.42.108.174:7788/947472496
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:17] ✅ 测速成功: http://182.127.153.16:1234/947472496
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.10s
-[2026-08-02 10:37:18] ✅ 测速成功: http://222.130.32.99:7788/947472496
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.20s
-[2026-08-02 10:37:18] ✅ 测速成功: http://222.130.32.99:7788/962042070
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.09s
-[2026-08-02 10:37:18] ✅ 测速成功: http://106.42.108.174:7788/962042070
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:18] ✅ 测速成功: http://182.127.153.16:1234/962042070
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.05s
-[2026-08-02 10:37:18] ✅ 测速成功: http://182.127.153.16:1234/947472502
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.07s
-[2026-08-02 10:37:18] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 2.50s
-[2026-08-02 10:37:18] ✅ 测速成功: http://106.42.108.174:7788/947472502
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.21s
-[2026-08-02 10:37:18] ✅ 测速成功: http://223.247.25.227:1234/947472502
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.20s
-[2026-08-02 10:37:18] ✅ 测速成功: http://222.130.32.99:7788/947472502
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.19s
-[2026-08-02 10:37:19] ✅ 测速成功: http://182.127.153.16:1234/790187291
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.09s
-[2026-08-02 10:37:19] ✅ 测速成功: http://223.247.25.227:1234/962042070
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 2.22s
-[2026-08-02 10:37:19] ✅ 测速成功: http://222.130.32.99:7788/790187291
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.10s
-[2026-08-02 10:37:19] ✅ 测速成功: http://106.42.108.174:7788/790187291
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.22s
-[2026-08-02 10:37:19] ✅ 测速成功: http://182.127.153.16:1234/947472500
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.03s
-[2026-08-02 10:37:19] ✅ 测速成功: http://223.247.25.227:1234/790187291
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.09s
-[2026-08-02 10:37:19] ✅ 测速成功: http://222.130.32.99:7788/947472500
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.07s
-[2026-08-02 10:37:19] ✅ 测速成功: http://106.42.108.174:7788/947472500
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.11s
-[2026-08-02 10:37:20] ✅ 测速成功: http://106.42.108.174:7788/623899368
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.23s
-[2026-08-02 10:37:20] ✅ 测速成功: http://182.127.153.16:1234/623899368
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:20] ✅ 测速成功: http://182.127.153.16:1234/783847495
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.05s
-[2026-08-02 10:37:20] ✅ 测速成功: http://223.247.25.227:1234/623899368
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.12s
-[2026-08-02 10:37:20] ✅ 测速成功: http://223.247.25.227:1234/783847495
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.25s
-[2026-08-02 10:37:20] ✅ 测速成功: http://222.130.32.99:7788/783847495
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.11s
-[2026-08-02 10:37:20] ✅ 测速成功: http://222.130.32.99:7788/630291707
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.09s
-[2026-08-02 10:37:20] ✅ 测速成功: http://106.42.108.174:7788/630291707
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.21s
-[2026-08-02 10:37:20] ✅ 测速成功: http://182.127.153.16:1234/630291707
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.10s
-[2026-08-02 10:37:21] ✅ 测速成功: http://223.247.25.227:1234/630291707
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:21] ✅ 测速成功: http://106.42.108.174:7788/783847495
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.77s
-[2026-08-02 10:37:21] ✅ 测速成功: http://106.42.108.174:7788/956904896
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:21] ✅ 测速成功: http://182.127.153.16:1234/738910535
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.06s
-[2026-08-02 10:37:21] ✅ 测速成功: http://182.127.153.16:1234/956904896
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.18s
-[2026-08-02 10:37:21] ✅ 测速成功: http://222.130.32.99:7788/738910535
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.05s
-[2026-08-02 10:37:21] ✅ 测速成功: http://223.247.25.227:1234/738910535
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:21] ✅ 测速成功: http://106.42.108.174:7788/738910535
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.22s
-[2026-08-02 10:37:21] ✅ 测速成功: http://182.127.153.16:1234/947472506
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.12s
-[2026-08-02 10:37:21] ✅ 测速成功: http://106.42.108.174:7788/947472506
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.09s
-[2026-08-02 10:37:22] ✅ 测速成功: http://223.247.25.227:1234/947472506
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.17s
-[2026-08-02 10:37:22] ✅ 测速成功: http://182.127.153.16:1234/609154353
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.12s
-[2026-08-02 10:37:22] ✅ 测速成功: http://222.130.32.99:7788/609154353
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.07s
-[2026-08-02 10:37:22] ✅ 测速成功: http://106.42.108.174:7788/609154353
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.10s
-[2026-08-02 10:37:22] ✅ 测速成功: http://182.127.153.16:1234/961023778
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.03s
-[2026-08-02 10:37:22] ✅ 测速成功: http://106.42.108.174:7788/961023778
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:23] ✅ 测速成功: http://223.247.25.227:1234/961023778
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.13s
-[2026-08-02 10:37:23] ✅ 测速成功: http://223.247.25.227:1234/609154353
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.68s
-[2026-08-02 10:37:23] ✅ 测速成功: http://222.130.32.99:7788/961023778
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.06s
-[2026-08-02 10:37:23] ✅ 测速成功: http://222.130.32.99:7788/738910838
-   速度: 667.97KB/s | 数据量: 0.7KB | 总耗时: 1.07s
-[2026-08-02 10:37:23] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.07s
-[2026-08-02 10:37:23] ✅ 测速成功: http://182.127.153.16:1234/738910838
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.07s
-[2026-08-02 10:37:23] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-02 10:37:23] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-02 10:37:23] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2026-08-02 10:37:23] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.17s
-[2026-08-02 10:37:23] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.67s
-[2026-08-02 10:37:23] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.13s
-[2026-08-02 10:37:23] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
-   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.15s
-[2026-08-02 10:37:23] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 536.13KB/s | 数据量: 0.5KB | 总耗时: 0.07s
-[2026-08-02 10:37:23] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.04s
-[2026-08-02 10:37:23] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.23s
-[2026-08-02 10:37:23] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.25s
-[2026-08-02 10:37:23] ✅ 测速成功: http://223.247.25.227:1234/738910838
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.11s
-[2026-08-02 10:37:23] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.36s
-[2026-08-02 10:37:23] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.30s
-[2026-08-02 10:37:24] ✅ 测速成功: http://106.42.108.174:7788/738910838
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.20s
-[2026-08-02 10:37:24] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 0.75s
-[2026-08-02 10:37:27] ✅ 测速成功: http://x1x.bid:5146/rtp/239.3.1.29:8288
-   速度: 334.08KB/s | 数据量: 2048.0KB | 总耗时: 6.65s
-[2026-08-02 10:37:28] ✅ 测速成功: http://www.taoli.website:23234/rtp/239.3.1.29:8288
-   速度: 333.50KB/s | 数据量: 2048.0KB | 总耗时: 6.84s
+测速日志 2026-08-02 16:21:07
+[2026-08-02 16:21:10] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=b416140c7fdb5e89098be8140d87a7f7&wsTime=1785671967 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-02 16:21:10] ✅ 测速成功: http://198.204.240.250:82/live/cctv1.m3u8
+   速度: 40.04KB/s | 数据量: 0.0KB | 总耗时: 0.13s
+[2026-08-02 16:21:10] ✅ 测速成功: http://198.204.240.250:82/live/cctv6.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.19s
+[2026-08-02 16:21:10] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:21:10] ✅ 测速成功: http://125.43.249.115:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2026-08-02 16:21:10] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-08-02 16:21:10] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.57s
+[2026-08-02 16:21:10] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.42s
+[2026-08-02 16:21:10] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:21:11] ✅ 测速成功: http://111.8.177.168:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-08-02 16:21:13] ❌ 测速失败: http://182.127.153.16:1234/631780532
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /631780532 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7662360>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:13] ❌ 测速失败: http://182.127.153.16:1234/624878271
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /624878271 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76617b0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:13] ❌ 测速失败: http://182.127.153.16:1234/631780421
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /631780421 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7662f10>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:14] ✅ 测速成功: http://121.19.134.253:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 4.46s
+[2026-08-02 16:21:16] ❌ 测速失败: http://182.127.153.16:1234/608807419
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /608807419 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7661f20>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:16] ❌ 测速失败: http://182.127.153.16:1234/608807416
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /608807416 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7662e00>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:17] ✅ 测速成功: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+   速度: 221.68KB/s | 数据量: 0.2KB | 总耗时: 0.39s
+[2026-08-02 16:21:20] ❌ 测速失败: http://106.42.108.174:7788/631780532
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260802151804&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.42.108.174&SecurityKey=20260802151804&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0349afbffa27b6f79cb8418b001cb4ec&ddCalcu=c0e3v44ab9zcaa1f0b0fbf8a12478bb6cf97&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:20] ❌ 测速失败: http://223.247.25.227:1234/631780532
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv2hd265/54/20200407/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260802154419&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=223.247.25.227&SecurityKey=20260802154419&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1699f1eb4611ffb3c3c895392d6376ae&ddCalcu=e1a6v69a79z3fa61de2b943651918fcf3bc3&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:20] ❌ 测速失败: http://223.247.25.227:1234/624878271
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260802155756&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=223.247.25.227&SecurityKey=20260802155756&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ae35c5e9a5124c662b261d90a0ac8f6c&ddCalcu=ca6evf3a85accaa50ea90a95d112642cb626&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:20] ❌ 测速失败: http://223.247.25.227:1234/631780421
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv4hd265/51/20191230/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260802155548&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=223.247.25.227&SecurityKey=20260802155548&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0c571e6687feee3cbed12b5f318d9460&ddCalcu=006cv45a97yd1a8e1636f857bf2e1edee3bc&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:20] ✅ 测速成功: http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.41s
+[2026-08-02 16:21:20] ❌ 测速失败: http://106.42.108.174:7788/631780421
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260802150454&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.42.108.174&SecurityKey=20260802150454&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=70bf355e86dc7d096b0cbe12353717b5&ddCalcu=57b0v7ba1fy73a35553e2816edbcc70db069&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:20] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:21:20] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.58s
+[2026-08-02 16:21:21] ❌ 测速失败: http://106.42.108.174:7788/624878271
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260802143439&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.42.108.174&SecurityKey=20260802143439&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=73f778425ec99b15af332ad90830b75d&ddCalcu=d753v7fab7a07a38840295deac29393bf1a5&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:23] ❌ 测速失败: http://182.127.153.16:1234/641886683
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /641886683 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e4344270>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:24] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:21:24] ❌ 测速失败: http://223.247.25.227:1234/608807419
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20260802153355&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=223.247.25.227&SecurityKey=20260802153355&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=44e33f0f387ecbd20413534e7171863e&ddCalcu=e434v6ea83y13a7f107fe348375e3c1b4d02&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:24] ❌ 测速失败: http://106.42.108.174:7788/608807419
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20260802153834&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=106.42.108.174&SecurityKey=20260802153834&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=38990aa8ab19c76283cac2d7eef96190&ddCalcu=0398v19a69y90afaeae87adb21c9acc73682&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:25] ❌ 测速失败: http://223.247.25.227:1234/608807416
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260802153845&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=223.247.25.227&SecurityKey=20260802153845&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=60fd59a38e2e9c48fa46189147bdb77c&ddCalcu=c670v7fabdyd5ab97a43189e821e694ca4f8&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:26] ❌ 测速失败: http://222.130.32.99:7788/608807419
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4ouhd/50/index.m3u8?msisdn=20260802151558281a6fe4344943b4a42124edfa04526e&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20260802151558&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=222.130.32.99&SecurityKey=20260802151558&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=43000aa8786bcb0fa6c952fa8ed568a5&ddCalcu=54a3v80a60y50adaea88a7f8265b9ccb60af&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:21:28] ❌ 测速失败: http://182.127.153.16:1234/624878396
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /624878396 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76638a0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:29] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:21:29] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.54s
+[2026-08-02 16:21:30] ❌ 测速失败: http://223.83.177.142:1234/641886683
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv5hd265/51/20191230/index.m3u8?msisdn=44857528f104c2981a4ab2946f72738f&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260802143607&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=113.92.94.189&SecurityKey=20260802143607&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=07024c4b7efa2dedbe87392427058b33&ddCalcu=3037vb0a82w54a0c742b472e9f3a728deebd&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.83.177.142
+[2026-08-02 16:21:30] ❌ 测速失败: http://106.42.108.174:7788/641886683
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260802150842&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.42.108.174&SecurityKey=20260802150842&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=da264692990edb5d576e8ca5e4809300&ddCalcu=0d0av32a96w04a8649e259a9c08eed6b755d&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:30] ❌ 测速失败: http://223.247.25.227:1234/641886683
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv5hd265/51/20191230/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260802140051&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=223.247.25.227&SecurityKey=20260802140051&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f81af9463d53c18be042a0bb1f515467&ddCalcu=7f68v41a5aw1fa59f416b3bd05a32c4108eb&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:30] ❌ 测速失败: http://106.42.108.174:7788/608807416
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260802155424&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.42.108.174&SecurityKey=20260802155424&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e3ada995d18057843be3479ecf1d85e1&ddCalcu=1ee3v5aa8dydaa19f9c5ed91784035e7b834&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:30] ❌ 测速失败: http://222.130.32.99:7788/641886683
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv5hd265/50/20191230/index.m3u8?msisdn=20260802151558071adc75649d429d8a46291cc64c0f92&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260802151558&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=222.130.32.99&SecurityKey=20260802151558&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3a4a9c1ebc7d87b8722cc9b913bc04a5&ddCalcu=53aav44a0awc9abc311e9bbc97cdc8272b78&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:21:31] ✅ 测速成功: https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
+   速度: 208644.42KB/s | 数据量: 6577.2KB | 总耗时: 1.88s
+[2026-08-02 16:21:31] ✅ 测速成功: https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
+   速度: 169465.60KB/s | 数据量: 6577.2KB | 总耗时: 1.32s
+[2026-08-02 16:21:32] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:21:33] ❌ 测速失败: http://182.127.153.16:1234/673168121
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /673168121 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e4344c00>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:33] ❌ 测速失败: http://223.83.177.142:1234/641886773
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=44857528f104c2981a4ab2946f72738f&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260802142010&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=113.92.94.189&SecurityKey=20260802142010&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=40c2ec897ba3933785f0de0a5512ddda&ddCalcu=a4d0vdcad2x2ea1c5859a70bead309f35387&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.83.177.142
+[2026-08-02 16:21:34] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-02 16:21:34] ❌ 测速失败: http://106.42.108.174:7788/624878396
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260802132208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.42.108.174&SecurityKey=20260802132208&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9cb2a821beee348863d32e517b4a7245&ddCalcu=594cv2ba72baaa48b2711b5eee2e33d43868&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:34] ❌ 测速失败: http://223.247.25.227:1234/624878396
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv6hd265/54/20200407/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260802143553&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=223.247.25.227&SecurityKey=20260802143553&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=32abfaed18bb2a4c94fe7d88fcf8b692&ddCalcu=2392v6aabbb8fafacefd8188db7be2fa449c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:35] ❌ 测速失败: http://182.127.153.16:1234/624878356
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /624878356 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76627a0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:36] ❌ 测速失败: http://222.130.32.99:7788/624878396
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv6hd265/53/20210617/index.m3u8?msisdn=20260802151544371588f217b44a1d9653b523178d2045&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260802151544&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151544&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7a1988c546b12beb5ed91861a1adbeac&ddCalcu=c7aave1ab9bd8aa81ca514668b1192dbee5b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:21:36] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-08-02 16:21:39] ❌ 测速失败: http://182.127.153.16:1234/673168140
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /673168140 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76619d0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:40] ❌ 测速失败: http://222.130.32.99:7788/673168121
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=20260802151559bbe4919f2cb14d89a83d0731f77ace03&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260802151559&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=222.130.32.99&SecurityKey=20260802151559&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=64d9c7097a1d3307869dde85b0f2ab70&ddCalcu=0674vbdaa9d2caf700b9578ae1ddd3936087&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:21:40] ❌ 测速失败: http://106.42.108.174:7788/673168121
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260802150914&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=106.42.108.174&SecurityKey=20260802150914&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3eb34871bc17bac846d0a6ff474ff54f&ddCalcu=f34ev5baf3df4a487741fbfc61a70bda6c48&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:40] ❌ 测速失败: http://223.247.25.227:1234/673168121
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260802143551&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=223.247.25.227&SecurityKey=20260802143551&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fc86a48a63bb314090cbcced8f2aa4b4&ddCalcu=4fbcv48aa6daaa24f88ad6e3cbcbb3c10490&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:41] ❌ 测速失败: http://106.42.108.174:7788/624878356
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260802144623&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.42.108.174&SecurityKey=20260802144623&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7f38464894a7fe73774b4dab719e5c35&ddCalcu=573fvc3a58be4a961478b9a4da47bf4e7773&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:43] ❌ 测速失败: http://182.127.153.16:1234/624878405
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /624878405 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e4344490>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:43] ❌ 测速失败: http://182.127.153.16:1234/667987558
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /667987558 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e43446b0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:43] ❌ 测速失败: http://223.247.25.227:1234/624878356
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv8hd265/54/20200407/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260802140644&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=223.247.25.227&SecurityKey=20260802140644&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=11f8137a661913aee15e84aadb652141&ddCalcu=1141v1fa28b51a63b7daa6a64189e1531aee&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:43] ❌ 测速失败: http://222.130.32.99:7788/624878356
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv8hd265/53/20210617/index.m3u8?msisdn=20260802151559861f1f9db6f64df2a1b4d856f045fafa&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260802151559&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=222.130.32.99&SecurityKey=20260802151559&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9e4857378ffb4003f7b06e35ec777a76&ddCalcu=697eva4a78b75a77c3e7583fef6b04b070f3&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:21:43] ❌ 测速失败: http://106.42.108.174:7788/673168140
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260802134158&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.42.108.174&SecurityKey=20260802134158&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f7f3fc6075020174e2e42458eea2a1e2&ddCalcu=2fe7v1faa3d2faace6e08755402240e127e4&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:43] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:21:45] ❌ 测速失败: http://222.130.32.99:7788/673168140
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=202608021515598518ea5550b84d6ca0a64e76dcc65596&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260802151559&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=222.130.32.99&SecurityKey=20260802151559&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=350c2037ff127e0a0a33f65c9652da66&ddCalcu=6365va0adcd22a506397cf5f61f2373ea00a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:21:45] ❌ 测速失败: http://223.247.25.227:1234/673168140
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260802141927&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=223.247.25.227&SecurityKey=20260802141927&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9e98fa65e76352bab5959a5f022d51e9&ddCalcu=99eev19a58ddfa2a2605fe57a69355925bba&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:46] ❌ 测速失败: http://182.127.153.16:1234/673168185
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /673168185 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7662580>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.55s
+[2026-08-02 16:21:48] ❌ 测速失败: http://182.127.153.16:1234/608807423
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /608807423 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76638a0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:49] ❌ 测速失败: http://223.247.25.227:1234/624878405
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv10hd265/54/20200407/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260802143545&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=223.247.25.227&SecurityKey=20260802143545&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8b4d58b5443e9f63f461ea892d6d0bfc&ddCalcu=c8fbvb4a0dyd5a68db259484a3ee196f46f3&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:50] ❌ 测速失败: http://106.42.108.174:7788/624878405
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260802144744&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.42.108.174&SecurityKey=20260802144744&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=42f26116d3bed19c170c6fa78600f618&ddCalcu=8412v6faf2y06a0161867da3fb6ecd01791c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:51] ❌ 测速失败: http://106.42.108.174:7788/667987558
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260802133841&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.42.108.174&SecurityKey=20260802133841&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4bf3d52d9f5739d63d603f61874f6fa9&ddCalcu=94abvffa63zfda45728d196ff5370369dd36&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:51] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:21:52] ❌ 测速失败: http://222.130.32.99:7788/667987558
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv11hd265/53/20210617/index.m3u8?msisdn=20260802151600d1fd76a936f0444a907d100e6c8236f6&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260802151600&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=222.130.32.99&SecurityKey=20260802151600&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2c4b626ee4004abc4197f295a80c6887&ddCalcu=728cv84a6bzc6a0286ae5e9420f0749a1b4c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:21:52] ❌ 测速失败: http://182.127.153.16:1234/624878440
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /624878440 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e43449e0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:53] ❌ 测速失败: http://106.42.108.174:7788/673168185
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260802144459&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.42.108.174&SecurityKey=20260802144459&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5cb55d02f32a4981402294de61351a11&ddCalcu=151cvaba15d55a3d1062efd3429a24290841&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:53] ✅ 测速成功: http://111.8.177.168:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-08-02 16:21:53] ❌ 测速失败: http://106.42.108.174:7788/608807423
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260802151048&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.42.108.174&SecurityKey=20260802151048&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a683edbc30a56c80bdb44eacdbbbef77&ddCalcu=7a76vf8ae3ybeabdbbdcc3a0ea4546bcd8b0&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:21:54] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-02 16:21:54] ❌ 测速失败: http://223.247.25.227:1234/673168185
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260802142934&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=223.247.25.227&SecurityKey=20260802142934&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a6745ef04dc478e67286a6681c2e11e1&ddCalcu=1ae6v17a14de5a2ecf10846d6ca467882e76&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:21:54] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.42s
+[2026-08-02 16:21:54] ❌ 测速失败: http://222.130.32.99:7788/608807423
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=20260802151352820f7a73c7144069b1cb61ad0848f557&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260802151352&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151352&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a0df5c2277ae664fd691b45745b9fc66&ddCalcu=6a60vcdaffy95abc524277574abe169664df&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:21:55] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.85s
+[2026-08-02 16:21:56] ❌ 测速失败: http://182.127.153.16:1234/673168223
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /673168223 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7662360>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:57] ✅ 测速成功: http://111.8.177.168:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.55s
+[2026-08-02 16:21:58] ❌ 测速失败: http://182.127.153.16:1234/673168256
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /673168256 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7663bd0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:21:58] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.71s
+[2026-08-02 16:22:00] ❌ 测速失败: http://223.247.25.227:1234/624878440
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv14hd265/54/20200407/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260802141818&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=223.247.25.227&SecurityKey=20260802141818&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e7f892af2ffeae381d838b01d6b13ea2&ddCalcu=2ea7vefa38y19ab26adf120fbf8e3a8ed318&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:00] ❌ 测速失败: http://222.130.32.99:7788/624878440
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv14hd265/53/20210617/index.m3u8?msisdn=202608021514404f2721e64d564c9dafb7a980e10985e2&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260802151440&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151440&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d15868c1e203d4909732eb75bd1f4278&ddCalcu=8d71v25a48yf6a18dcb15e72b0e32d347990&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:01] ❌ 测速失败: http://222.130.32.99:7788/673168223
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=20260802151428b19358c4a70945529d519e53cef6e0e7&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260802151428&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151428&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=42e459e80d5d1d29bcd248a66b6506fb&ddCalcu=b4f2v6ea04a55a69be6860ad854d21ddc2b9&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:01] ❌ 测速失败: http://106.42.108.174:7788/624878440
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260802133008&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.42.108.174&SecurityKey=20260802133008&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=de598cec144ee4faeb80a5cd34a5e60a&ddCalcu=ad0ev65ae9y58aac4e3cd1c454ae0e84bfea&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:01] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-02 16:22:01] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.58s
+[2026-08-02 16:22:01] ❌ 测速失败: http://182.127.153.16:1234/608807420
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /608807420 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7662f10>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:02] ❌ 测速失败: http://106.42.108.174:7788/673168223
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260802144253&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.42.108.174&SecurityKey=20260802144253&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=15a9e48cf0f5e9df416fcdc923d647c1&ddCalcu=11c5v7aa49a6ead4382c9fc0dfc5fe691d4f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:03] ❌ 测速失败: http://223.247.25.227:1234/673168223
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260802141821&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=223.247.25.227&SecurityKey=20260802141821&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=11de0b04c540037230d2f13039898fcb&ddCalcu=b1c1vfda8ea90a8b90340c3514f020d30732&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:04] ❌ 测速失败: http://222.130.32.99:7788/673168256
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=20260802151522783af6aefad840cd880f0b8c7a2973d5&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260802151522&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151522&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a984de7b96d41ba3b281533bb9c1b597&ddCalcu=7a99v58ab4a1dace97bbb9363d54118b2ab3&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:04] ❌ 测速失败: http://106.42.108.174:7788/673168256
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260802145307&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.42.108.174&SecurityKey=20260802145307&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=207c4071b6bc05eca314d99781fc0881&ddCalcu=1280v87a0cac4af017817b969bdc40153eac&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:04] ❌ 测速失败: http://182.127.153.16:1234/641886773
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /641886773 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e4345260>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:04] ❌ 测速失败: http://182.127.153.16:1234/952383261
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /952383261 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e4345590>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:07] ❌ 测速失败: http://182.127.153.16:1234/630287636
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /630287636 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76628b0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:08] ❌ 测速失败: http://106.42.108.174:7788/608807420
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260802144229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.42.108.174&SecurityKey=20260802144229&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=836b1edb2da4f649f4705fc023725672&ddCalcu=2873v66a5by21a7e3d2b02cdfa540f7644f9&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:09] ❌ 测速失败: http://222.130.32.99:7788/608807420
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv1hd265/50/20191230/index.m3u8?msisdn=2026080215155891562fe9c38c4451b974956cd33d0d27&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260802151558&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=222.130.32.99&SecurityKey=20260802151558&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d671b61683173736a3b12da710cd2221&ddCalcu=1d26v27a21ydbac6011678a3d12713b733a6&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:10] ❌ 测速失败: http://182.127.153.16:1234/956923145
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /956923145 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7663350>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:11] ❌ 测速失败: http://106.42.108.174:7788/641886773
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260802155705&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.42.108.174&SecurityKey=20260802155705&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ff4729d813b05d93505afb91e30aae9c&ddCalcu=cf9fve4aa7xa2a093de81193bbf0a55d0953&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:12] ❌ 测速失败: http://222.130.32.99:7788/952383261
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2026080215242121d62dc8b9cd4d57b64ef15465338a08&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260802152421&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802152421&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=eaa7c922b54f0f003230481613ad0d5e&ddCalcu=ee5avdaa07adcaa932126b15844f003f2030&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:12] ❌ 测速失败: http://182.127.153.16:1234/738910914
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /738910914 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76638a0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:13] ❌ 测速失败: http://106.42.108.174:7788/952383261
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260802143147&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.42.108.174&SecurityKey=20260802143147&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=31a56674f4bf17aa88a457c9849a2f4f&ddCalcu=f341vfaa25aa6a9647849fc47b5f41a78a8a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:13] ❌ 测速失败: http://223.247.25.227:1234/952383261
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260802135401&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=223.247.25.227&SecurityKey=20260802135401&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c11acbcdb1bf9203c03b3edcc147fbf2&ddCalcu=2cf1vb1afaa7ca4b1ccdcbd1eb3fb93200c3&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:14] ❌ 测速失败: http://222.130.32.99:7788/630287636
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/bjws/50/20251127/index.m3u8?msisdn=20260802151602a50badf5864a4d36bea03a23d58b62d5&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260802151602&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=222.130.32.99&SecurityKey=20260802151602&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0dca3ef420e0800d5dfe0b4d6baed1af&ddCalcu=f0adv1cadawe3aaebf64d240be00e8f0d05d&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:14] ❌ 测速失败: http://223.247.25.227:1234/630287636
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/bjws/51/20251127/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260802144118&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=223.247.25.227&SecurityKey=20260802144118&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=60feb244de8756adf0413663cabd1c48&ddCalcu=8640vcfa1ewdbab2a4c43d6e683715460afd&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:14] ❌ 测速失败: http://106.42.108.174:7788/630287636
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/bjws/51/20251127/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260802161922&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=106.42.108.174&SecurityKey=20260802161922&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3a86270a14cae85df6ff4c6bd9169426&ddCalcu=632av48a96w62a1790dab164cc4afef865fd&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:15] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.10s
+[2026-08-02 16:22:15] ❌ 测速失败: http://182.127.153.16:1234/651632648
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /651632648 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e4344d10>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:17] ❌ 测速失败: http://182.127.153.16:1234/608917627
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /608917627 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7663020>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:17] ❌ 测速失败: http://106.42.108.174:7788/956923145
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/btws/51/20250804/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260802162113&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.42.108.174&SecurityKey=20260802162113&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c0bf9626502a28612961647334956da8&ddCalcu=8ca0vdba6fd59a9642363570426a12689621&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:19] ❌ 测速失败: http://182.127.153.16:1234/849119120
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /849119120 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7661f20>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:20] ❌ 测速失败: http://222.130.32.99:7788/738910914
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=202608021516030cba209d912a4bbcb6a6824701e903c3&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260802151603&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=222.130.32.99&SecurityKey=20260802151603&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b51c61e9fd3b9eb6c55ae3db72b30951&ddCalcu=1b55v91a0cl36ab12e79bfdd33eba95e5bc6&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:21] ❌ 测速失败: http://182.127.153.16:1234/608831231
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /608831231 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7663bd0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:21] ❌ 测速失败: http://106.42.108.174:7788/738910914
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260802155407&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=106.42.108.174&SecurityKey=20260802155407&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a820efef92cec5689e1298e729b4bd2f&ddCalcu=fa28vd2ab0l4eabf9e2f79e28c9e2c15e698&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:22] ❌ 测速失败: http://223.247.25.227:1234/738910914
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260802152904&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=223.247.25.227&SecurityKey=20260802152904&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=df7dfbd97c41ef9e2e35361e48468a4d&ddCalcu=dd4fva7a8dl6fa4b8d49e71c64315e3fe92e&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:22] ❌ 测速失败: http://222.130.32.99:7788/651632648
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/dongfanghd265/50/20191230/index.m3u8?msisdn=202608021516030f6e50edede54fe08547b40fbf0f91c2&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260802151603&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=222.130.32.99&SecurityKey=20260802151603&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f8e4477d91215f8ec43971b1547c0eaf&ddCalcu=ffa8veea04wc4a77475d19b11271953f48ce&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:23] ❌ 测速失败: http://223.247.25.227:1234/651632648
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/dongfanghd265/51/20191230/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260802160150&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=223.247.25.227&SecurityKey=20260802160150&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2490ced4c35f91b886f77a3a053f3365&ddCalcu=5264v39a30wfca3e5d04ac33a57f79f16b88&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:24] ❌ 测速失败: http://182.127.153.16:1234/947472496
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /947472496 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e43458c0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:24] ❌ 测速失败: http://106.42.108.174:7788/651632648
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260802162003&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.42.108.174&SecurityKey=20260802162003&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7aa4ca07563409c04f8a63bab2cae625&ddCalcu=572av6aae4wacaca20b7a5b63364a089fc40&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:25] ❌ 测速失败: http://106.42.108.174:7788/608917627
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260802152445&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.42.108.174&SecurityKey=20260802152445&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bbc67fcf072aa1c9fe6cf70c5220e7e7&ddCalcu=7bebv7cae6w07a2f2c5fc00772faca61ecf9&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:27] ❌ 测速失败: http://223.247.25.227:1234/849119120
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260802145259&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=223.247.25.227&SecurityKey=20260802145259&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9a4da50d3fb7ab799d0fbdae9017e7ea&ddCalcu=a9eav74aedd7aa15009de3afdbb7fa0bd799&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:27] ❌ 测速失败: http://182.127.153.16:1234/962042070
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /962042070 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7662be0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:28] ❌ 测速失败: http://106.42.108.174:7788/608831231
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /ws_w/2018/gdws/gdws2000/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260802145826&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.42.108.174&SecurityKey=20260802145826&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=51821e16842f139ed80375fce933a23c&ddCalcu=c531v28aa2a31a3e91e6c8f4527f310389de&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:30] ❌ 测速失败: http://182.127.153.16:1234/947472502
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /947472502 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76629c0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:30] ❌ 测速失败: http://222.130.32.99:7788/608831231
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/gdwshd265/53/20210617/index.m3u8?msisdn=202608021516020590ffa429db4f37a6790b02acb02660&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260802151602&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=222.130.32.99&SecurityKey=20260802151602&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ea748f54ce5952b904ed80c1612364a6&ddCalcu=6eaav47a64a38a2f15641cce0589d5e24b09&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:30] ❌ 测速失败: http://106.42.108.174:7788/947472496
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260802161036&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.42.108.174&SecurityKey=20260802161036&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=71ae0d8315df2d5ae7a789d5082b21d3&ddCalcu=37d1v1aa2eyb0a2d880351d59d8f72ad75ea&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:32] ❌ 测速失败: http://222.130.32.99:7788/947472496
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/hbwshd265/53/20210617/index.m3u8?msisdn=20260802151418e6aa0f51660d40668e0baa644b705469&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260802151418&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151418&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=674dec3204351d55a384a99d28f60a12&ddCalcu=2617va4a0dy6eafc8322d09493a5418d35a5&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:32] ❌ 测速失败: http://223.247.25.227:1234/962042070
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/hbws/51/20251225/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20260802143631&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=223.247.25.227&SecurityKey=20260802143631&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d64a3465f18934eb941aa8b224efd4aa&ddCalcu=ada6v44adacf3ae446252fb188a9a3144e9b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:33] ❌ 测速失败: http://106.42.108.174:7788/962042070
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/hbws/51/20251225/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20260802162122&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=106.42.108.174&SecurityKey=20260802162122&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=428cb9b4b23806ea09669af2fe63a0e7&ddCalcu=74e2v08aacc3ba69ebf42bf2a39860669e0a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:33] ❌ 测速失败: http://182.127.153.16:1234/790187291
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /790187291 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e43456a0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:33] ❌ 测速失败: http://222.130.32.99:7788/962042070
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/hbws/50/20251225/index.m3u8?msisdn=202608021516042393550614c14de19749c3e7b0ac509a&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20260802151604&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=222.130.32.99&SecurityKey=20260802151604&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=160a04714fcd255fe10fd81256a7dc87&ddCalcu=7186vc0adac70aa46751241f8cddf20515ef&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:35] ❌ 测速失败: http://106.42.108.174:7788/947472502
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/SD/lvyou/711/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260802161125&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.42.108.174&SecurityKey=20260802161125&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6d1bdbe3426cc61a8d35556581f7e22e&ddCalcu=e62dv21aebz7dafb1e835462565c5c36d18a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:35] ❌ 测速失败: http://182.127.153.16:1234/947472500
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /947472500 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e43445a0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:37] ❌ 测速失败: http://223.247.25.227:1234/947472502
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/SD/lvyou/711/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260802145940&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=223.247.25.227&SecurityKey=20260802145940&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=550a8f7f44206761c0143e8277cc1725&ddCalcu=5525v70a1azc8acf777f2484e230461706c1&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:38] ❌ 测速失败: http://222.130.32.99:7788/947472502
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/SD/lvyou/711/index.m3u8?msisdn=20260802151502b990c4259db04c879a7e6fd54d8ba588&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260802151502&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151502&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=55f9392afc7623fa18a2a580da0ed115&ddCalcu=5515v1fad9ze3a09a2da0f8c57a622a38f1a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:38] ❌ 测速失败: http://182.127.153.16:1234/623899368
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /623899368 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7663460>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:40] ❌ 测速失败: http://182.127.153.16:1234/783847495
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /783847495 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7663790>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:40] ❌ 测速失败: http://222.130.32.99:7788/790187291
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd-henanwssd-600/index.m3u8?msisdn=2026080215155816338e21546e4ad293132200b3882565&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260802151558&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=222.130.32.99&SecurityKey=20260802151558&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9f55191614a7b006374ba26a90fc6594&ddCalcu=499fv55a65ac1af90196a1642aa7bb407036&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:41] ❌ 测速失败: http://106.42.108.174:7788/790187291
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd-henanwssd-600/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260802162048&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.42.108.174&SecurityKey=20260802162048&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3e2b7e53e4fa81b97ca3793986930fe9&ddCalcu=93eevf2a0ba37a9e65839e349f7a38a1cb79&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:41] ❌ 测速失败: http://223.247.25.227:1234/790187291
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd-henanwssd-600/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260802150353&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=223.247.25.227&SecurityKey=20260802150353&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a7282144d388c2960b7a796f273e1da0&ddCalcu=0aa7vd2a18ae2a317424fd639878ac72b906&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:42] ❌ 测速失败: http://222.130.32.99:7788/947472500
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=202608021516041bb525be4e8c44fba3e7d0d39ad3a1ee&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260802151604&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=222.130.32.99&SecurityKey=20260802151604&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7a86bbdfc6f886253e96b62fd7e54298&ddCalcu=879av28a46z5baeb7ddffc266fb86896e235&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:43] ❌ 测速失败: http://106.42.108.174:7788/947472500
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260802135215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.42.108.174&SecurityKey=20260802135215&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=661e3a56a4efe17927a5dca484849ed2&ddCalcu=26d6ve1a9ez43a8a45864aa4cedf5ea17729&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:43] ❌ 测速失败: http://106.42.108.174:7788/623899368
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260802145448&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.42.108.174&SecurityKey=20260802145448&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d0e9b3a7efce6d9a8e4720348d3bb910&ddCalcu=0d10v9eab9bbba33da874e3f0c2e764de98a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:44] ❌ 测速失败: http://182.127.153.16:1234/630291707
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /630291707 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e4346140>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:46] ❌ 测速失败: http://223.247.25.227:1234/623899368
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/jswshd265/54/20200407/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260802142854&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=223.247.25.227&SecurityKey=20260802142854&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=116c602026255af4174073acf0ba7c18&ddCalcu=8111vc6a7cba6ab002f0c2a63275054a7f14&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:46] ❌ 测速失败: http://182.127.153.16:1234/956904896
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /956904896 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7663020>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:48] ❌ 测速失败: http://182.127.153.16:1234/738910535
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /738910535 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e76617b0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:48] ❌ 测速失败: http://223.247.25.227:1234/783847495
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260802133819&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=223.247.25.227&SecurityKey=20260802133819&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=794cc77729c35d5994a4accdfbaf0c02&ddCalcu=2709vc4a0cyfcaa7b7f7d2c9cca345ad4599&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:48] ❌ 测速失败: http://106.42.108.174:7788/783847495
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260802155710&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.42.108.174&SecurityKey=20260802155710&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c96d5b4b7df3078b4548280f51b0b985&ddCalcu=5c89v96abdy05abb145bf70d8f238047584b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:49] ❌ 测速失败: http://222.130.32.99:7788/783847495
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/jxwshd/50/20190820/index.m3u8?msisdn=20260802151417c9960dab87b94d8db0dcded31f270c15&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260802151417&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151417&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ca2d5d4812d1cbdb5b3eb662aee23efc&ddCalcu=ccfave2a3dy25aede4a821626db1ec3bbd5b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:50] ❌ 测速失败: http://106.42.108.174:7788/630291707
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260802155613&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.42.108.174&SecurityKey=20260802155613&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e8c3c88a4a2cd74da3c7eb9e5ef88711&ddCalcu=1e18v7ca83x8caf8e85ae49ab2ec7dc734ad&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:51] ❌ 测速失败: http://222.130.32.99:7788/630291707
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/lnwshd265/53/20210617/index.m3u8?msisdn=20260802151536ee50f7d4a75a471ead787ccf1ac49e8c&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260802151536&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151536&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=afb4a64c2797ad63f45e93510c8039fb&ddCalcu=baffv9ba34x0aa86c40c12573997ea5d46f3&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:51] ❌ 测速失败: http://182.127.153.16:1234/947472506
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /947472506 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7662ad0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:52] ❌ 测速失败: http://223.247.25.227:1234/630291707
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/lnwshd265/54/20200407/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260802142819&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=223.247.25.227&SecurityKey=20260802142819&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=81b824c59cd757d332803848a6c55613&ddCalcu=3811v6ba58x52ac46ca5894c8d3705872d33&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:52] ✅ 测速成功: http://x1x.bid:5146/rtp/239.3.1.29:8288
+   速度: 239.66KB/s | 数据量: 312.3KB | 总耗时: 2.05s
+[2026-08-02 16:22:53] ❌ 测速失败: http://106.42.108.174:7788/956904896
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260802161225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=106.42.108.174&SecurityKey=20260802161225&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d42221ac208607cedac046381bd14457&ddCalcu=7d54v42a42k12ad1ba1c8230684600c7acde&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:54] ❌ 测速失败: http://182.127.153.16:1234/609154353
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /609154353 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e43445a0>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:56] ❌ 测速失败: http://106.42.108.174:7788/738910535
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260802162246&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=106.42.108.174&SecurityKey=20260802162246&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6641dfccafb796c8a8d84fd313ffd828&ddCalcu=8626v84ad1zfdaff3c1c3adffb4789d68ca8&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:56] ❌ 测速失败: http://223.247.25.227:1234/738910535
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260802153417&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=223.247.25.227&SecurityKey=20260802153417&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cf64248ca906b1ece0c5a875b26a5cc3&ddCalcu=3ccfvc6a54za2a6428bc5a7980a65bc10eec&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:22:57] ❌ 测速失败: http://222.130.32.99:7788/738910535
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20260802151428608522f32a044faabddfc62e544aba93&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260802151428&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151428&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=22946f2eae1a068dcaa7e5a14d6a6d36&ddCalcu=6232vd9a64za6a6fd24e1aae51ea70a6a8cd&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:22:58] ✅ 测速成功: http://www.taoli.website:23234/rtp/239.3.1.29:8288
+   速度: 334.39KB/s | 数据量: 2048.0KB | 总耗时: 6.98s
+[2026-08-02 16:22:58] ❌ 测速失败: http://106.42.108.174:7788/947472506
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260802155427&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.42.108.174&SecurityKey=20260802155427&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6151326137f82385c62d41ef1857d012&ddCalcu=2611v05ad1z73a528611f3e71f48d22368c5&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:22:59] ❌ 测速失败: http://182.127.153.16:1234/961023778
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /961023778 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7661590>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:22:59] ❌ 测速失败: http://223.247.25.227:1234/947472506
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260802161528&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=223.247.25.227&SecurityKey=20260802161528&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e4c85f8f27450ad3489f412443cf1e31&ddCalcu=1e34veca18zf5acf384f42271445f09a8d43&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:23:01] ❌ 测速失败: http://182.127.153.16:1234/738910838
+   错误: HTTPConnectionPool(host='182.127.153.16', port=1234): Max retries exceeded with url: /738910838 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.127.153.16', port=1234) at 0x7fc4e7663130>, 'Connection to 182.127.153.16 timed out. (connect timeout=3.05)')) | 域名: 182.127.153.16
+[2026-08-02 16:23:01] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.66s
+[2026-08-02 16:23:02] ❌ 测速失败: http://222.130.32.99:7788/609154353
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/sdjyws/50/20250915/index.m3u8?msisdn=20260802152414408e82e789c84503b894e4cf190d802c&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260802152414&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802152414&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cc7bedcd61a339de7e53a37d03da04e8&ddCalcu=8cecv47a0bbaeadd3c0dd6713aa33359ed7e&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:23:02] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.03s
+[2026-08-02 16:23:02] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.10s
+[2026-08-02 16:23:02] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.10s
+[2026-08-02 16:23:02] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
+   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.03s
+[2026-08-02 16:23:02] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-02 16:23:02] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-02 16:23:02] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.78s
+[2026-08-02 16:23:02] ❌ 测速失败: http://223.247.25.227:1234/609154353
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260802143707&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=223.247.25.227&SecurityKey=20260802143707&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=14db99084ad4a7074e12b1461ab4923d&ddCalcu=d134v2da9bb49ab9a018644a1db42a17e047&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:23:02] ❌ 测速失败: http://106.42.108.174:7788/609154353
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260802152414&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.42.108.174&SecurityKey=20260802152414&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4fbb12f1ffa080fa4c8d612653c8922a&ddCalcu=a42fv2ba9bb81ac23f516f2f1a60d880cf4a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:23:02] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.35s
+[2026-08-02 16:23:02] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.06s
+[2026-08-02 16:23:02] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.02s
+[2026-08-02 16:23:03] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.18s
+[2026-08-02 16:23:03] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 536.13KB/s | 数据量: 0.5KB | 总耗时: 0.37s
+[2026-08-02 16:23:03] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.58s
+[2026-08-02 16:23:03] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.03s
+[2026-08-02 16:23:04] ❌ 测速失败: http://106.42.108.174:7788/961023778
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/ssws/50/20251127/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260802162229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=106.42.108.174&SecurityKey=20260802162229&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a8ac4a49d72206c325026dbd8eafd00f&ddCalcu=fa08v0aadcxf4aaae489ddb7d26220065c23&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:23:06] ❌ 测速失败: http://223.247.25.227:1234/961023778
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/ssws/50/20251127/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260802152420&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=223.247.25.227&SecurityKey=20260802152420&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8b59fa2fc09c24ce982a246b6ef70770&ddCalcu=087bv75a09x7fafae26fbc60492ca2248c9e&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
+[2026-08-02 16:23:07] ❌ 测速失败: http://222.130.32.99:7788/961023778
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260802151454e91511af13ba404c9702d92d022dd187&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260802151454&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=2408:8207:b420:d7b0::951&SecurityKey=20260802151454&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=61ed8953fc37a63c6ad084d896afc848&ddCalcu=8641v8eacdxf8aa965938fdc43870ad6a36c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:23:07] ❌ 测速失败: http://222.130.32.99:7788/738910838
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=20260802151605404b17d5a9fd474192987bd77e8b1fc8&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260802151605&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=222.130.32.99&SecurityKey=20260802151605&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=18a4475e474ab2fac6c673134bfbda27&ddCalcu=7128vaaad4kb4af7b54e3417347a6bc26fca&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 222.130.32.99
+[2026-08-02 16:23:09] ❌ 测速失败: http://106.42.108.174:7788/738910838
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=7beb12a56b54a95efb854f6775edc8b9&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260802155710&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.42.108.174&SecurityKey=20260802155710&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e4288fe47fbabfc698cb71908747535e&ddCalcu=ee54v32a58k78a4f7e84079f1b7abbcf8c96&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 106.42.108.174
+[2026-08-02 16:23:09] ❌ 测速失败: http://223.247.25.227:1234/738910838
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=ee71e485b8bc55e3a52e2c3fe8441ce1&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260802133159&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=223.247.25.227&SecurityKey=20260802133159&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fae93208505a39cc7b07899ff5231396&ddCalcu=6f9av3ea19k33a2250f8f590958a7309bc7c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 223.247.25.227
