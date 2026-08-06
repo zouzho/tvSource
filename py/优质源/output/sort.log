@@ -1,338 +1,412 @@
-测速日志 2026-08-06 03:26:34
-[2026-08-06 03:26:37] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.154:1234
-   速度: 545.64KB/s | 数据量: 3072.0KB | 总耗时: 6.17s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.164:1234
-   速度: 534.90KB/s | 数据量: 3072.0KB | 总耗时: 6.29s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.126:1234
-   速度: 533.59KB/s | 数据量: 3072.0KB | 总耗时: 6.30s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.25:1234
-   速度: 521.89KB/s | 数据量: 3072.0KB | 总耗时: 6.44s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.156:1234
-   速度: 501.96KB/s | 数据量: 3072.0KB | 总耗时: 6.67s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.150:1234
-   速度: 499.37KB/s | 数据量: 3072.0KB | 总耗时: 6.71s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.135:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.170:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.151:1234
-   速度: 486.76KB/s | 数据量: 3072.0KB | 总耗时: 6.86s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.168:1234
-   速度: 483.84KB/s | 数据量: 3072.0KB | 总耗时: 6.88s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.165:1234
-   速度: 519.96KB/s | 数据量: 3072.0KB | 总耗时: 6.44s
-[2026-08-06 03:26:43] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.241:1234
-   速度: 476.00KB/s | 数据量: 3072.0KB | 总耗时: 6.99s
-[2026-08-06 03:26:44] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.172:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:44] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.136:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.55s
-[2026-08-06 03:26:44] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.173:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:44] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.178:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:44] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.15:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:44] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.140:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:45] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.179:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.55s
-[2026-08-06 03:26:45] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.182:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:45] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.230:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:45] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.29:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:26:50] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.27:1234
-   速度: 483.94KB/s | 数据量: 3072.0KB | 总耗时: 6.90s
-[2026-08-06 03:26:50] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.171:1234
-   速度: 507.77KB/s | 数据量: 3072.0KB | 总耗时: 6.60s
-[2026-08-06 03:26:50] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.93:1234
-   速度: 508.12KB/s | 数据量: 3072.0KB | 总耗时: 6.59s
-[2026-08-06 03:26:50] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.139:1234
-   速度: 527.16KB/s | 数据量: 3072.0KB | 总耗时: 6.38s
-[2026-08-06 03:26:50] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.201:1234
-   速度: 449.05KB/s | 数据量: 3072.0KB | 总耗时: 7.39s
-[2026-08-06 03:26:50] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.137:1234
-   速度: 473.44KB/s | 数据量: 3072.0KB | 总耗时: 7.03s
-[2026-08-06 03:26:50] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.138:1234
-   速度: 478.58KB/s | 数据量: 3072.0KB | 总耗时: 6.97s
-[2026-08-06 03:26:52] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.38:1234
-   速度: 506.34KB/s | 数据量: 3072.0KB | 总耗时: 6.61s
-[2026-08-06 03:26:52] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.45:1234
-   速度: 506.55KB/s | 数据量: 3072.0KB | 总耗时: 6.62s
-[2026-08-06 03:26:52] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.52:1234
-   速度: 513.24KB/s | 数据量: 3072.0KB | 总耗时: 6.53s
-[2026-08-06 03:26:56] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.60:1234
-   速度: 544.84KB/s | 数据量: 3072.0KB | 总耗时: 6.17s
-[2026-08-06 03:26:56] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.56:1234
-   速度: 523.39KB/s | 数据量: 3072.0KB | 总耗时: 6.42s
-[2026-08-06 03:26:56] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.47:1234
-   速度: 496.69KB/s | 数据量: 3072.0KB | 总耗时: 6.72s
-[2026-08-06 03:26:56] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.63:1234
-   速度: 534.77KB/s | 数据量: 3072.0KB | 总耗时: 6.29s
-[2026-08-06 03:26:57] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.51:1234
-   速度: 512.12KB/s | 数据量: 3072.0KB | 总耗时: 6.54s
-[2026-08-06 03:26:57] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.206:1234
-   速度: 490.43KB/s | 数据量: 3072.0KB | 总耗时: 6.81s
-[2026-08-06 03:26:57] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.58:1234
-   速度: 480.18KB/s | 数据量: 3072.0KB | 总耗时: 6.95s
-[2026-08-06 03:26:58] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.122:1234
-   速度: 516.87KB/s | 数据量: 3072.0KB | 总耗时: 6.48s
-[2026-08-06 03:26:58] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.117:1234
-   速度: 504.48KB/s | 数据量: 3072.0KB | 总耗时: 6.62s
-[2026-08-06 03:26:59] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.125:1234
-   速度: 470.28KB/s | 数据量: 3072.0KB | 总耗时: 7.08s
-[2026-08-06 03:26:59] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.186:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:27:03] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.141:1234
-   速度: 526.75KB/s | 数据量: 3072.0KB | 总耗时: 6.38s
-[2026-08-06 03:27:03] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.115:1234
-   速度: 527.79KB/s | 数据量: 3072.0KB | 总耗时: 6.37s
-[2026-08-06 03:27:03] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.123:1234
-   速度: 467.42KB/s | 数据量: 3072.0KB | 总耗时: 7.12s
-[2026-08-06 03:27:03] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.110:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.53s
-[2026-08-06 03:27:03] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.116:1234
-   速度: 476.08KB/s | 数据量: 3072.0KB | 总耗时: 7.00s
-[2026-08-06 03:27:04] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.130:1234
-   速度: 528.81KB/s | 数据量: 3072.0KB | 总耗时: 6.36s
-[2026-08-06 03:27:04] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.131:1234
-   速度: 516.91KB/s | 数据量: 3072.0KB | 总耗时: 6.50s
-[2026-08-06 03:27:04] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.181:1234
-   速度: 490.26KB/s | 数据量: 3072.0KB | 总耗时: 6.81s
-[2026-08-06 03:27:04] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.40:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:27:05] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.185:1234
-   速度: 503.06KB/s | 数据量: 3072.0KB | 总耗时: 6.66s
-[2026-08-06 03:27:05] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.124:1234
-   速度: 471.73KB/s | 数据量: 3072.0KB | 总耗时: 7.06s
-[2026-08-06 03:27:06] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.34:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.53s
-[2026-08-06 03:27:06] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.74:1234
-   速度: 319.36KB/s | 数据量: 2048.0KB | 总耗时: 6.96s
-[2026-08-06 03:27:09] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.26:1234
-   速度: 535.07KB/s | 数据量: 3072.0KB | 总耗时: 6.29s
-[2026-08-06 03:27:09] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.95:1234
-   速度: 535.02KB/s | 数据量: 3072.0KB | 总耗时: 6.28s
-[2026-08-06 03:27:10] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.82:1234
-   速度: 319.35KB/s | 数据量: 2048.0KB | 总耗时: 6.97s
-[2026-08-06 03:27:10] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.49:1234
-   速度: 320.02KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:11] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.80:1234
-   速度: 321.38KB/s | 数据量: 2048.0KB | 总耗时: 6.91s
-[2026-08-06 03:27:11] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.101:1234
-   速度: 318.98KB/s | 数据量: 2048.0KB | 总耗时: 6.97s
-[2026-08-06 03:27:11] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.35:1234
-   速度: 322.77KB/s | 数据量: 2048.0KB | 总耗时: 6.88s
-[2026-08-06 03:27:12] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.111:1234
-   速度: 321.74KB/s | 数据量: 2048.0KB | 总耗时: 6.91s
-[2026-08-06 03:27:12] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.180:1234
-   速度: 532.24KB/s | 数据量: 3072.0KB | 总耗时: 6.32s
-[2026-08-06 03:27:13] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.169:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.55s
-[2026-08-06 03:27:13] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.76:1234
-   速度: 321.95KB/s | 数据量: 2048.0KB | 总耗时: 6.89s
-[2026-08-06 03:27:16] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.86:1234
-   速度: 320.33KB/s | 数据量: 2048.0KB | 总耗时: 6.94s
-[2026-08-06 03:27:16] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.18:1234
-   速度: 320.16KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:17] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.114:1234
-   速度: 320.92KB/s | 数据量: 2048.0KB | 总耗时: 6.93s
-[2026-08-06 03:27:17] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.50:1234
-   速度: 319.84KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:17] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.212:1234
-   速度: 519.06KB/s | 数据量: 3072.0KB | 总耗时: 6.47s
-[2026-08-06 03:27:17] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.160:1234
-   速度: 321.35KB/s | 数据量: 2048.0KB | 总耗时: 6.91s
-[2026-08-06 03:27:18] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.107:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:27:18] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.238:1234
-   速度: 500.23KB/s | 数据量: 3072.0KB | 总耗时: 6.69s
-[2026-08-06 03:27:19] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.239:1234
-   速度: 319.58KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:20] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.67:1234
-   速度: 319.60KB/s | 数据量: 2048.0KB | 总耗时: 6.96s
-[2026-08-06 03:27:20] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.161:1234
-   速度: 320.13KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:23] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.90:1234
-   速度: 534.91KB/s | 数据量: 3072.0KB | 总耗时: 6.29s
-[2026-08-06 03:27:23] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.163:1234
-   速度: 511.86KB/s | 数据量: 3072.0KB | 总耗时: 6.54s
-[2026-08-06 03:27:24] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.108:1234
-   速度: 529.20KB/s | 数据量: 3072.0KB | 总耗时: 6.35s
-[2026-08-06 03:27:24] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.98:1234
-   速度: 483.59KB/s | 数据量: 3072.0KB | 总耗时: 6.90s
-[2026-08-06 03:27:24] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.127:1234
-   速度: 502.11KB/s | 数据量: 3072.0KB | 总耗时: 6.65s
-[2026-08-06 03:27:24] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.162:1234
-   速度: 454.74KB/s | 数据量: 3072.0KB | 总耗时: 7.31s
-[2026-08-06 03:27:25] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.128:1234
-   速度: 472.29KB/s | 数据量: 3072.0KB | 总耗时: 7.05s
-[2026-08-06 03:27:25] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.6:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.55s
-[2026-08-06 03:27:25] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.133:1234
-   速度: 531.97KB/s | 数据量: 3072.0KB | 总耗时: 6.32s
-[2026-08-06 03:27:26] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.103:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:27:26] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.149:1234
-   速度: 522.72KB/s | 数据量: 3072.0KB | 总耗时: 6.43s
-[2026-08-06 03:27:26] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.134:1234
-   速度: 479.76KB/s | 数据量: 3072.0KB | 总耗时: 6.94s
-[2026-08-06 03:27:30] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.53:1234
-   速度: 465.37KB/s | 数据量: 3072.0KB | 总耗时: 7.15s
-[2026-08-06 03:27:30] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.59:1234
-   速度: 458.39KB/s | 数据量: 3072.0KB | 总耗时: 7.25s
-[2026-08-06 03:27:30] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.188:1234
-   速度: 530.80KB/s | 数据量: 3072.0KB | 总耗时: 6.34s
-[2026-08-06 03:27:31] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.198:1234
-   速度: 470.75KB/s | 数据量: 3072.0KB | 总耗时: 7.07s
-[2026-08-06 03:27:31] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.28:1234
-   速度: 496.72KB/s | 数据量: 3072.0KB | 总耗时: 6.73s
-[2026-08-06 03:27:31] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.43:1234
-   速度: 527.59KB/s | 数据量: 3072.0KB | 总耗时: 6.37s
-[2026-08-06 03:27:32] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.8:1234
-   速度: 486.49KB/s | 数据量: 3072.0KB | 总耗时: 6.86s
-[2026-08-06 03:27:32] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.159:1234
-   速度: 319.92KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:33] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.157:1234
-   速度: 319.86KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:33] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.57:1234
-   速度: 319.04KB/s | 数据量: 2048.0KB | 总耗时: 6.97s
-[2026-08-06 03:27:37] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.104:1234
-   速度: 320.49KB/s | 数据量: 2048.0KB | 总耗时: 6.94s
-[2026-08-06 03:27:37] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.105:1234
-   速度: 319.83KB/s | 数据量: 2048.0KB | 总耗时: 6.96s
-[2026-08-06 03:27:37] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.109:1234
-   速度: 321.72KB/s | 数据量: 2048.0KB | 总耗时: 6.90s
-[2026-08-06 03:27:38] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.155:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.55s
-[2026-08-06 03:27:38] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.213:1234
-   速度: 321.89KB/s | 数据量: 2048.0KB | 总耗时: 6.89s
-[2026-08-06 03:27:38] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.102:1234
-   速度: 319.81KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:38] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=cb5afcc90c78663be43927d541fef3af&wsTime=1785970903 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 03:27:38] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.214:1234
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.54s
-[2026-08-06 03:27:38] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.148:1234
-   速度: 317.58KB/s | 数据量: 2048.0KB | 总耗时: 7.00s
-[2026-08-06 03:27:38] ✅ 测速成功: http://198.204.240.250:82/live/cctv1.m3u8
-   速度: 40.04KB/s | 数据量: 0.0KB | 总耗时: 0.14s
-[2026-08-06 03:27:39] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.53s
-[2026-08-06 03:27:39] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.118:1234
-   速度: 320.46KB/s | 数据量: 2048.0KB | 总耗时: 6.93s
-[2026-08-06 03:27:39] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-06 03:27:39] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2026-08-06 03:27:39] ✅ 测速成功: http://198.204.240.250:82/live/cctv6.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.21s
-[2026-08-06 03:27:39] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.56s
-[2026-08-06 03:27:39] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-06 03:27:39] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.58s
-[2026-08-06 03:27:39] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.119:1234
-   速度: 320.25KB/s | 数据量: 2048.0KB | 总耗时: 6.94s
-[2026-08-06 03:27:39] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-06 03:27:40] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
-[2026-08-06 03:27:40] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 284.18KB/s | 数据量: 0.3KB | 总耗时: 0.44s
-[2026-08-06 03:27:40] ✅ 测速成功: http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.43s
-[2026-08-06 03:27:40] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 03:27:40] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2026-08-06 03:27:40] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 03:27:40] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 03:27:40] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.57s
-[2026-08-06 03:27:40] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.203:1234
-   速度: 319.35KB/s | 数据量: 2048.0KB | 总耗时: 6.96s
-[2026-08-06 03:27:40] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 03:27:41] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+测速日志 2026-08-06 10:25:07
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.126:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.126:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.25:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.25:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.150:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.150:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.154:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.154:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.241:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.241:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.151:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.151:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.164:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.164:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.168:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.168:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.156:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.156:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.165:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.165:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.135:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.135:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.170:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.170:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.27:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.27:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.93:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.93:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.201:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.201:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.136:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.136:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.172:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.172:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.171:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.171:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.173:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.173:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.137:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.137:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.178:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.178:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.138:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.138:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.179:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.179:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.139:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.139:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.182:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.182:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.230:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.230:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.140:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.140:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.15:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.15:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.38:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.38:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.29:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.29:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.45:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.45:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.52:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.52:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.56:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.56:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.51:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.51:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.60:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.60:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.63:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.63:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.47:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.47:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.58:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.58:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.206:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.206:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.117:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.117:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.125:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.125:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.122:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.122:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.123:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.123:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.131:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.131:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.116:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.116:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.181:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.181:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.141:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.141:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.115:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.115:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.130:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.130:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.124:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.124:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.186:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.186:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.185:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.185:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.95:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.95:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.26:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.26:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.110:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.110:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.74:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.74:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.82:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.82:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.49:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.49:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.80:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.80:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.101:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.101:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.40:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.40:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.35:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.35:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.34:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.34:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.18:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.18:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.86:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.86:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.180:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.180:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.76:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.76:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.111:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.111:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.50:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.50:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.114:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.114:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.160:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.160:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.238:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.238:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.212:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.212:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.239:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.239:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.161:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.161:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.67:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.67:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.163:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.163:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.169:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.169:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.90:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.90:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.162:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.162:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.98:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.98:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.107:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.107:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.108:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.108:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.133:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.133:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.127:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.127:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.128:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.128:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.149:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.149:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.134:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.134:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.53:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.53:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.59:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.59:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.188:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.188:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.28:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.28:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.6:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.6:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.198:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.198:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.43:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.43:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.103:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.103:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.8:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.8:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.159:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.159:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.157:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.157:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.57:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.57:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.104:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.104:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.213:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.213:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.109:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.109:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.148:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.148:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.102:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.102:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.105:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.105:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=59c7f537aae742f9030cdce2d1a6f600&wsTime=1785996091 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.118:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.118:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.119:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.119:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ✅ 测速成功: http://198.204.240.250:82/live/cctv1.m3u8
+   速度: 40.04KB/s | 数据量: 0.0KB | 总耗时: 0.06s
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.203:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.203:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.187:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.187:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.197:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.197:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.214:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.214:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.155:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.155:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.48:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.48:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.215:1234
+   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.215:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
+[2026-08-06 10:25:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.53s
+[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-06 10:25:13] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.40s
+[2026-08-06 10:25:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
    速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-08-06 03:27:41] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.187:1234
-   速度: 462.44KB/s | 数据量: 3072.0KB | 总耗时: 7.18s
-[2026-08-06 03:27:41] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.68s
-[2026-08-06 03:27:41] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-06 03:27:41] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-06 03:27:41] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.53s
-[2026-08-06 03:27:41] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.56s
-[2026-08-06 03:27:41] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
-   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2026-08-06 03:27:41] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
-   速度: 40.82KB/s | 数据量: 0.4KB | 总耗时: 0.75s
-[2026-08-06 03:27:41] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.56s
-[2026-08-06 03:27:41] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 284.18KB/s | 数据量: 0.3KB | 总耗时: 0.48s
-[2026-08-06 03:27:41] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
-   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-06 03:27:42] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
-   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2026-08-06 03:27:42] ✅ 测速成功: http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2026-08-06 03:27:42] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-08-06 03:27:42] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.53s
-[2026-08-06 03:27:42] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 0.95s
-[2026-08-06 03:27:42] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.03s
-[2026-08-06 03:27:42] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.68s
-[2026-08-06 03:27:42] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.08s
-[2026-08-06 03:27:43] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
-   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.04s
-[2026-08-06 03:27:43] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 03:27:43] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 03:27:43] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.19s
-[2026-08-06 03:27:43] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.72s
-[2026-08-06 03:27:43] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.38s
-[2026-08-06 03:27:43] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
-   速度: 0.83KB/s | 数据量: 0.2KB | 总耗时: 1.83s
-[2026-08-06 03:27:43] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+[2026-08-06 10:25:14] ✅ 测速成功: http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.39s
+[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 10:25:14] ✅ 测速成功: http://198.204.240.250:82/live/cctv6.m3u8
+   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 0.83s
+[2026-08-06 10:25:14] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.54s
+[2026-08-06 10:25:14] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 10:25:14] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.55s
+[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-08-06 10:25:15] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/641886683
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.51s
+[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/624878396
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.43s
+[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/631780421
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.88s
+[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/608807419
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.83s
+[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/608807416
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.86s
+[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/673168121
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.34s
+[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/631780532
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 2.33s
+[2026-08-06 10:25:15] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 10:25:16] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 10:25:16] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-08-06 10:25:16] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-08-06 10:25:16] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.45s
+[2026-08-06 10:25:16] ✅ 测速成功: http://play.kankanlive.com/live/1698423397390920.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.53s
+[2026-08-06 10:25:16] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-08-06 10:25:16] ✅ 测速成功: http://27.12.12.100:1234/673168140
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.43s
+[2026-08-06 10:25:16] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-08-06 10:25:16] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 10:25:16] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-06 10:25:16] ✅ 测速成功: http://27.12.12.100:1234/624878405
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.28s
+[2026-08-06 10:25:16] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.39s
+[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/667987558
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.36s
+[2026-08-06 10:25:17] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/624878440
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.36s
+[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/673168223
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.29s
+[2026-08-06 10:25:17] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.19s
+[2026-08-06 10:25:17] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 1.53s
+[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/673168185
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 2.13s
+[2026-08-06 10:25:17] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/673168256
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.38s
+[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/608807420
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.39s
+[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/641886773
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.33s
+[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/849116810
+   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.48s
+[2026-08-06 10:25:18] ✅ 测速成功: http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.58s
+[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/956923145
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.35s
+[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/738910914
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.42s
+[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/651632648
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.35s
+[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/608917627
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.27s
+[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/849119120
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.31s
+[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/608831231
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.34s
+[2026-08-06 10:25:19] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/962042070
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.28s
+[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/947472496
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.44s
+[2026-08-06 10:25:19] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.99s
+[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/947472502
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.49s
+[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/790187291
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.28s
+[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/947472500
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.42s
+[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/623899368
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.41s
+[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/956904896
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.35s
+[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/630291707
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.45s
+[2026-08-06 10:25:20] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.03s
+[2026-08-06 10:25:20] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.05s
+[2026-08-06 10:25:20] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.11s
+[2026-08-06 10:25:20] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 10:25:20] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 10:25:20] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
+   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.03s
+[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/947472506
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.27s
+[2026-08-06 10:25:20] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.10s
+[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/609154353
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.28s
+[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/738910535
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.46s
+[2026-08-06 10:25:21] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 536.13KB/s | 数据量: 0.5KB | 总耗时: 0.11s
+[2026-08-06 10:25:21] ✅ 测速成功: http://27.12.12.100:1234/961023778
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.31s
+[2026-08-06 10:25:21] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.13s
+[2026-08-06 10:25:21] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
    速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.16s
-[2026-08-06 03:27:43] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.14s
-[2026-08-06 03:27:43] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 536.13KB/s | 数据量: 0.5KB | 总耗时: 0.47s
-[2026-08-06 03:27:43] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 2.31s
-[2026-08-06 03:27:43] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.28s
-[2026-08-06 03:27:44] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.06s
-[2026-08-06 03:27:44] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.197:1234
-   速度: 465.67KB/s | 数据量: 3072.0KB | 总耗时: 7.15s
-[2026-08-06 03:27:44] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.48:1234
-   速度: 320.12KB/s | 数据量: 2048.0KB | 总耗时: 6.95s
-[2026-08-06 03:27:45] ✅ 测速成功: http://116.2.172.210:4010/rtp/232.0.0.215:1234
-   速度: 445.92KB/s | 数据量: 3072.0KB | 总耗时: 7.43s
-[2026-08-06 03:27:47] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 4.16s
-[2026-08-06 03:27:48] ✅ 测速成功: http://home.scanflove.com:7788/rtp/235.254.198.29:1392
-   速度: 333.17KB/s | 数据量: 2048.0KB | 总耗时: 6.77s
-[2026-08-06 03:27:49] ✅ 测速成功: http://vpn.famcloud.top:9878/rtp/239.3.1.29:8288
-   速度: 334.43KB/s | 数据量: 2048.0KB | 总耗时: 6.90s
+[2026-08-06 10:25:21] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.78s
+[2026-08-06 10:25:21] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 1620.12KB/s | 数据量: 1.6KB | 总耗时: 0.23s
+[2026-08-06 10:25:21] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.66s
+[2026-08-06 10:25:21] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.46s
+[2026-08-06 10:25:21] ✅ 测速成功: http://27.12.12.100:1234/738910838
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.40s
+[2026-08-06 10:25:21] ✅ 测速成功: http://gmxw.7766.org:808/hls/15/index.m3u8
+   速度: 238.28KB/s | 数据量: 0.2KB | 总耗时: 1.48s
+[2026-08-06 10:25:21] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.10s
