@@ -1,194 +1,1580 @@
-测速日志 2026-08-06 16:32:33
-[2026-08-06 16:32:35] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=379f66acfb5b38ad2e22debe09682e18&wsTime=1785999704 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 16:32:36] ✅ 测速成功: http://198.204.240.250:82/live/cctv1.m3u8
-   速度: 40.04KB/s | 数据量: 0.0KB | 总耗时: 0.06s
-[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.48s
-[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-08-06 16:32:36] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
-[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2026-08-06 16:32:36] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-08-06 16:32:36] ✅ 测速成功: http://198.204.240.250:82/live/cctv6.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-08-06 16:32:36] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.40s
-[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 16:32:36] ✅ 测速成功: http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.40s
-[2026-08-06 16:32:36] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-06 16:32:36] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 16:32:37] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 16:32:37] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
-   速度: 189.45KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 16:32:37] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-08-06 16:32:37] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.57s
-[2026-08-06 16:32:37] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-06 16:32:37] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-08-06 16:32:38] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-06 16:32:38] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.57s
-[2026-08-06 16:32:39] ✅ 测速成功: http://play.kankanlive.com/live/1698423397390920.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.99s
-[2026-08-06 16:32:40] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-06 16:32:40] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.48s
-[2026-08-06 16:32:41] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/631780532
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv2hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260806135848&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=27.12.12.100&SecurityKey=20260806135848&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ca91871711eb02689aa269701964b5e9&ddCalcu=9ceav59ab1z48a67911701719e6b20a2a698&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/631780421
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv4hd265/51/20191230/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260806135926&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=27.12.12.100&SecurityKey=20260806135926&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b6cb99ee7c17f99b17d20f59e69bd497&ddCalcu=7b96v4cadbyb9a996eee975cf1072fd9791b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/608807416
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260806140635&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=27.12.12.100&SecurityKey=20260806140635&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=db122d47443f5beeee9f190c60443b9d&ddCalcu=dd9bvb1a32y42a4d0467c404931ff59beeee&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/608807419
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20260806144741&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=27.12.12.100&SecurityKey=20260806144741&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f0a7661042fd51dba5d663a4d61042f8&ddCalcu=8ff0v2aa47y06a1661d044a23f6d65d15dab&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/624878396
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv6hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260806140002&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=27.12.12.100&SecurityKey=20260806140002&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e55c7747885706e7067d3515944a2dfc&ddCalcu=cef5vd5a2cba7a47449758185537d0766e07&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/641886683
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv5hd265/51/20191230/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260806135738&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=27.12.12.100&SecurityKey=20260806135738&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bed66112b095be08826d7fccc1f2ddff&ddCalcu=fbfevddad6w26af111c2cbc0f975db6e2088&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
-[2026-08-06 16:32:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 16:32:47] ❌ 测速失败: http://27.12.12.100:1234/673168121
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260806140024&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=27.12.12.100&SecurityKey=20260806140024&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=716dbab839dcb7ac556ec4d9b6ae3671&ddCalcu=1771v66a3ddebaaa6bb893d94dcceb675a5c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 16:32:47] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
-   速度: 422.35KB/s | 数据量: 0.4KB | 总耗时: 0.59s
-[2026-08-06 16:32:47] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.90s
-[2026-08-06 16:32:47] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.40s
-[2026-08-06 16:32:47] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
-   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-08-06 16:32:47] ❌ 测速失败: http://27.12.12.100:1234/673168140
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260806135033&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=27.12.12.100&SecurityKey=20260806135033&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cb31c85d981ccf605c214fb75a5b3eeb&ddCalcu=bcebve3a31dbca58a55d79b8f14c1c2fc650&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-08-06 16:32:48] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2026-08-06 16:32:48] ✅ 测速成功: http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.66s
-[2026-08-06 16:32:48] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s
-[2026-08-06 16:32:48] ❌ 测速失败: http://27.12.12.100:1234/624878405
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv10hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260806135025&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=27.12.12.100&SecurityKey=20260806135025&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=07fdda50c4141ae4c690152ce2a02b8f&ddCalcu=f087vbfa2dy0daaa25e0cc245114019a6ec4&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:50] ❌ 测速失败: http://27.12.12.100:1234/667987558
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv11hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260806140120&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=27.12.12.100&SecurityKey=20260806140120&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2a92e5ae742b06b075952a4548d23382&ddCalcu=228av39a32z2ead58a4e5744a22b50965b70&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:51] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.07s
-[2026-08-06 16:32:52] ✅ 测速成功: http://27.12.12.100:1234/849116810
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.52s
-[2026-08-06 16:32:56] ❌ 测速失败: http://27.12.12.100:1234/673168185
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260806135919&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=27.12.12.100&SecurityKey=20260806135919&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5d7c6014860831964b76ada7149db280&ddCalcu=058dv27abcdd6a90411478a6d0a86371b946&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:56] ❌ 测速失败: http://27.12.12.100:1234/624878440
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv14hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260806140120&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=27.12.12.100&SecurityKey=20260806140120&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bc7faedc406e3b0f97a611bb50f9de46&ddCalcu=6b4cve7adfy9aafe0d5cb4b0161e63ab709f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:56] ❌ 测速失败: http://27.12.12.100:1234/673168223
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260806140120&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=27.12.12.100&SecurityKey=20260806140120&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1227e006b4177d3909ee36a78f541ace&ddCalcu=e1c2va2a17a4ea50f0867ba46137e7ed9309&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:57] ❌ 测速失败: http://27.12.12.100:1234/673168256
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260806135718&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=27.12.12.100&SecurityKey=20260806135718&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6625d4e6d282740f8b8e5fddc9447207&ddCalcu=7606v22a75a4da449ec6ddd2f852e784b08f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:57] ❌ 测速失败: http://27.12.12.100:1234/608807420
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv1hd265/51/20191230/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260806135820&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=27.12.12.100&SecurityKey=20260806135820&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=41cf010d9e15a5bad270b75394489cd5&ddCalcu=54d1vcca9fy80a41409d395e71b50a752bda&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:57] ❌ 测速失败: http://27.12.12.100:1234/641886773
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260806135944&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=27.12.12.100&SecurityKey=20260806135944&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b2cb330091a91c6aa2778fdec65ce6e7&ddCalcu=7be2v6caebxc3a5360c0e9d1fa89717c26aa&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:57] ❌ 测速失败: http://27.12.12.100:1234/956923145
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/btws/51/20250804/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260806140122&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=27.12.12.100&SecurityKey=20260806140122&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c7be76c91074214f36db810e2a682b83&ddCalcu=3c87vbba2ed87a66ac29e1001784b2d1643f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:58] ❌ 测速失败: http://27.12.12.100:1234/738910914
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260806155903&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=27.12.12.100&SecurityKey=20260806155903&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cf9f9cead451196a3c9d75216d3722cf&ddCalcu=fccfv29a2fl79a3cde6a1d245571d199c63a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:32:58] ❌ 测速失败: http://27.12.12.100:1234/651632648
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/dongfanghd265/51/20191230/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260806151106&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=27.12.12.100&SecurityKey=20260806151106&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=54d533a8a53fe7011ccebd8f0ddae01f&ddCalcu=f514v0dae5wa3ad3da08fa85d3bfeec7c011&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:00] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 2.54s
-[2026-08-06 16:33:02] ❌ 测速失败: http://27.12.12.100:1234/608917627
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260806140210&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=27.12.12.100&SecurityKey=20260806140210&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=48d9e6c2ffca5007ee13621227653d6d&ddCalcu=d468vdda39w5ea667c222f1f2c6a3510e0e7&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:05] ❌ 测速失败: http://27.12.12.100:1234/849119120
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260806155852&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=27.12.12.100&SecurityKey=20260806155852&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4dde1149dd71b67274afddd3b5f83de0&ddCalcu=04edvdda3ed81af154b93dddd7d1fba64772&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/608831231
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260806134855&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=27.12.12.100&SecurityKey=20260806134855&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=53dca48a0612c58b5e59dc5eca8bc82f&ddCalcu=f523v8daccabaa84a8cae056c1d29c55e85b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/947472496
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/hbwshd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260806135940&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=27.12.12.100&SecurityKey=20260806135940&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=758116be0f44fe3ae30bb306400a054e&ddCalcu=e745v58a01ya1a060b4e600f34b4bf0e33ea&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/962042070
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/hbws/51/20251225/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20260806135409&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=27.12.12.100&SecurityKey=20260806135409&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=20961832accedcaf6693731eb9c54dca&ddCalcu=a2c0vd9a46c51ac893b2ea1c3c7e3d9c6a6f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/947472502
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/SD/lvyou/711/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260806135904&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=27.12.12.100&SecurityKey=20260806135904&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9323cf196509e2ac2a5cd07a9eaa819c&ddCalcu=c993v12a83zacaafe199a67500d9ce52aa2c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/790187291
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd-henanwssd-600/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260806135123&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=27.12.12.100&SecurityKey=20260806135123&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=165f8cd844984ede076dece9e6539bf1&ddCalcu=11f6vb5a9fa38a5c6de894e4c9e8d46e7d0e&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:07] ❌ 测速失败: http://27.12.12.100:1234/947472500
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260806135055&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=27.12.12.100&SecurityKey=20260806135055&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5724e2bfb182bb72dc2af0c0461fc98b&ddCalcu=b587v92ac4zfea126b4f0bc108f2ab2bc7d2&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:08] ❌ 测速失败: http://27.12.12.100:1234/623899368
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/jswshd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260806135118&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=27.12.12.100&SecurityKey=20260806135118&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=00916ed12a30452924aca7f9c53c538b&ddCalcu=b080v39a51bc6a3e5dc192fa73a0c4a54229&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:08] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.79s
-[2026-08-06 16:33:08] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.05s
-[2026-08-06 16:33:08] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.07s
-[2026-08-06 16:33:08] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.03s
-[2026-08-06 16:33:08] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
-   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.03s
-[2026-08-06 16:33:08] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 16:33:08] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 16:33:08] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.69s
-[2026-08-06 16:33:08] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.34s
-[2026-08-06 16:33:09] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.46s
-[2026-08-06 16:33:09] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 1685.55KB/s | 数据量: 1.7KB | 总耗时: 0.10s
-[2026-08-06 16:33:09] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.15s
-[2026-08-06 16:33:09] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.00s
-[2026-08-06 16:33:09] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.21s
-[2026-08-06 16:33:09] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.23s
-[2026-08-06 16:33:10] ❌ 测速失败: http://27.12.12.100:1234/630291707
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/lnwshd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260806135853&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=27.12.12.100&SecurityKey=20260806135853&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a27394322bae6fdedac08dd704002500&ddCalcu=0a02v57a23x09a04430272dbda8e06cfadde&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:11] ❌ 测速失败: http://27.12.12.100:1234/956904896
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260806140212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=27.12.12.100&SecurityKey=20260806140212&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2a7447b826d767fa336dcf15b5326ed0&ddCalcu=02dave7a64k24a375bb85216fdc7d6673f3a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:11] ✅ 测速成功: http://gmxw.7766.org:808/hls/15/index.m3u8
-   速度: 238.28KB/s | 数据量: 0.2KB | 总耗时: 4.99s
-[2026-08-06 16:33:15] ❌ 测速失败: http://27.12.12.100:1234/738910535
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260806135553&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=27.12.12.100&SecurityKey=20260806135553&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8f9479a6c0f27152ebfbcf7fa1b52622&ddCalcu=282fv69a24z57ab91aa6fc70ffc2b7f1b5e2&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:16] ❌ 测速失败: http://27.12.12.100:1234/947472506
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260806154837&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=27.12.12.100&SecurityKey=20260806154837&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b0614cef216f5e1ea163290c99436ebe&ddCalcu=ebb0ve6a61z34a4c9e9fc201962f356e11ae&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:16] ❌ 测速失败: http://27.12.12.100:1234/609154353
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260806142703&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=27.12.12.100&SecurityKey=20260806142703&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0889d60f07035b80a110f395af240f10&ddCalcu=0018vf8a09b4da26f0af509730f3051b18a0&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:16] ❌ 测速失败: http://27.12.12.100:1234/961023778
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/ssws/50/20251127/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260806140122&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=27.12.12.100&SecurityKey=20260806140122&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5f66e69efbc267e6c50cb9528b0dfe2e&ddCalcu=e52fve6af6xdea06b98e2f5b9cb2c6075ec6&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
-[2026-08-06 16:33:16] ❌ 测速失败: http://27.12.12.100:1234/738910838
-   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260806152057&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=27.12.12.100&SecurityKey=20260806152057&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9fc06f21c02c85baab7ec3ac48065e7c&ddCalcu=c97fveca50k66a0f8241cca032cce875bbaa&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+测速日志 2026-08-06 22:03:36
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.43s
+[2026-08-06 22:03:40] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.42s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.45s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.116:8000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.117:8000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.242:8000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.243:8000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.235:8000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.189:8000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:40] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.115:8000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.129:8008
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.60:8084
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.47s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.105:8092
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.130:8004
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.173:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.172:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.174:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.47s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.61:8104
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.152:8120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.64:8124
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.62:8112
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.124:8128
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.175:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.49s
+[2026-08-06 22:03:41] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.63:8116
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.65:8132
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.153:8136
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.184:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.132:8012
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.42s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.151:8144
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.136:8032
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.137:8036
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.135:8028
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.134:8020
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.142:8048
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.211:8064
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.141:1234
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.209:8052
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.148:8072
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:42] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.210:8056
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.149:8076
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.138:8044
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.156:8148
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.240:8172
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.48s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.123:8164
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.45:8304
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.26:8108
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.133:8016
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.29:8288
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.46:8124
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.122:8160
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.59s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.42:8172
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.39:8300
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.48:8160
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.49:8188
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.27:8128
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:43] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.47:8164
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.41:8140
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.44:8184
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.43:8176
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.155:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.143:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.144:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.236:2000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.249:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.250:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.95:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.100:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.238:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.102:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:44] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.213:4220
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.214:4220
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.215:4220
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.216:4220
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.217:4220
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.218:4220
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.219:4220
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.220:4220
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.57:8152
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.241:8000
+   速度: 974.80KB/s | 数据量: 5120.0KB | 总耗时: 5.69s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.159:8000
+   速度: 974.79KB/s | 数据量: 5120.0KB | 总耗时: 5.69s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.158:8000
+   速度: 975.01KB/s | 数据量: 5120.0KB | 总耗时: 5.70s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.54:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.56:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.188:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.163:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.221:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:45] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.96:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.164:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.165:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.94:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.92:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.91:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.93:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.74:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.195:9024
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.194:9020
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.47s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.68:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.67:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.90:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.196:9012
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.69:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.199:9000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.80:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:46] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.51:9252
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.42s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.147:9268
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.71:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.46s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.75:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.76:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.77:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.83:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.81:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.52:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.78:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.193:8012
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.79:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.87:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.86:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.72:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.73:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:47] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.89:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:48] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.82:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:48] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.70:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.45s
+[2026-08-06 22:03:48] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.84:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:48] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.125:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:48] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.126:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:48] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.85:4120
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 1.49s
+[2026-08-06 22:03:48] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.127:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.43s
+[2026-08-06 22:03:48] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.128:8001
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 0.44s
+[2026-08-06 22:03:51] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.154:8001
+   速度: 1094.85KB/s | 数据量: 6144.0KB | 总耗时: 6.04s
+[2026-08-06 22:03:51] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.58:8156
+   速度: 1068.92KB/s | 数据量: 6144.0KB | 总耗时: 6.19s
+[2026-08-06 22:03:52] ✅ 测速成功: http://221.220.131.201:8012/rtp/239.3.1.187:8001
+   速度: 339.92KB/s | 数据量: 2048.0KB | 总耗时: 6.48s
+[2026-08-06 22:03:53] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.242:8000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:03:53] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.116:8000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:03:53] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.117:8000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:03:54] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.115:8000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:03:56] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.189:8000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:03:57] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.243:8000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:03:57] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.235:8000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:03:58] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.159:8000
+   速度: 202.79KB/s | 数据量: 2048.0KB | 总耗时: 10.52s
+[2026-08-06 22:03:59] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.172:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:03:59] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.105:8092
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:00] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.158:8000
+   速度: 180.89KB/s | 数据量: 2048.0KB | 总耗时: 11.75s
+[2026-08-06 22:04:00] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.241:8000
+   速度: 169.26KB/s | 数据量: 2048.0KB | 总耗时: 12.53s
+[2026-08-06 22:04:02] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.173:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:02] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.174:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:03] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.60:8084
+   速度: 113.20KB/s | 数据量: 1024.0KB | 总耗时: 9.47s
+[2026-08-06 22:04:03] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.130:8004
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:04] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.61:8104
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:04] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.129:8008
+   速度: 99.53KB/s | 数据量: 1024.0KB | 总耗时: 10.71s
+[2026-08-06 22:04:04] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.175:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:05] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.62:8112
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:05] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.63:8116
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:08] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.65:8132
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:09] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.153:8136
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:09] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.152:8120
+   速度: 254.84KB/s | 数据量: 2048.0KB | 总耗时: 8.46s
+[2026-08-06 22:04:09] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.184:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:09] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.151:8144
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:10] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.132:8012
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:10] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.136:8032
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:11] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.137:8036
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.53s
+[2026-08-06 22:04:11] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.64:8124
+   速度: 270.13KB/s | 数据量: 2048.0KB | 总耗时: 9.04s
+[2026-08-06 22:04:14] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.135:8028
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:14] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.134:8020
+   速度: 193.90KB/s | 数据量: 1024.0KB | 总耗时: 5.71s
+[2026-08-06 22:04:15] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.211:8064
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:15] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.141:1234
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:15] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.122:8160
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:15] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.209:8052
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:16] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.148:8072
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:16] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.142:8048
+   速度: 147.65KB/s | 数据量: 1024.0KB | 总耗时: 7.37s
+[2026-08-06 22:04:16] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.210:8056
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:19] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.138:8044
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:19] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.124:8128
+   速度: 61.87KB/s | 数据量: 1024.0KB | 总耗时: 16.99s
+[2026-08-06 22:04:20] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.240:8172
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:20] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.149:8076
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:21] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.123:8164
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:21] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.45:8304
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:21] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.156:8148
+   速度: 175.69KB/s | 数据量: 1024.0KB | 总耗时: 6.26s
+[2026-08-06 22:04:21] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.133:8016
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:22] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.26:8108
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:23] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.29:8288
+   速度: 333.14KB/s | 数据量: 2048.0KB | 总耗时: 6.56s
+[2026-08-06 22:04:25] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.46:8124
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:25] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.42:8172
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:25] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.39:8300
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:26] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.48:8160
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:26] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.27:8128
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:26] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.49:8188
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:27] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.47:8164
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:27] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.44:8184
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.43s
+[2026-08-06 22:04:28] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.41:8140
+   速度: 177.97KB/s | 数据量: 1024.0KB | 总耗时: 6.17s
+[2026-08-06 22:04:28] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.43:8176
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:30] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.155:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:30] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.143:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:31] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.144:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:31] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.236:2000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:31] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.249:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:32] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.250:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:32] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.95:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:32] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.100:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:33] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.238:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:35] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.213:4220
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:36] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.215:4220
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:37] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.217:4220
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:37] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.214:4220
+   速度: 497.20KB/s | 数据量: 3072.0KB | 总耗时: 6.62s
+[2026-08-06 22:04:37] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.218:4220
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:37] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.216:4220
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:38] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.219:4220
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:38] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.102:8001
+   速度: 113.99KB/s | 数据量: 1024.0KB | 总耗时: 9.42s
+[2026-08-06 22:04:38] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.220:4220
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:39] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.57:8152
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:41] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.54:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:42] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.188:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:42] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.163:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:43] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.221:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:43] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.96:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:43] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.154:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:43] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.187:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:43] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.58:8156
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:44] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.56:4120
+   速度: 140.19KB/s | 数据量: 1024.0KB | 总耗时: 7.74s
+[2026-08-06 22:04:44] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.165:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:46] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.164:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:48] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.92:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:48] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.91:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:48] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.93:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:48] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.74:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:49] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.195:9024
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:49] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.68:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:49] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.67:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:51] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.94:4120
+   速度: 244.07KB/s | 数据量: 2048.0KB | 总耗时: 8.82s
+[2026-08-06 22:04:53] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.194:9020
+   速度: 224.62KB/s | 数据量: 2048.0KB | 总耗时: 9.55s
+[2026-08-06 22:04:53] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.196:9012
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:53] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.69:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:54] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.199:9000
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:54] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.80:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:54] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.90:4120
+   速度: 288.86KB/s | 数据量: 2048.0KB | 总耗时: 7.53s
+[2026-08-06 22:04:54] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.51:9252
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:55] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.147:9268
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:55] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.71:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:57] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.75:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:58] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.76:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:59] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.77:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:59] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.81:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:04:59] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.52:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:00] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.78:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:00] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.193:8012
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:00] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.83:4120
+   速度: 167.62KB/s | 数据量: 1024.0KB | 总耗时: 6.54s
+[2026-08-06 22:05:00] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.79:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:01] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.85:4120
+   速度: 298.60KB/s | 数据量: 2048.0KB | 总耗时: 7.29s
+[2026-08-06 22:05:02] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.87:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:04] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.86:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:04] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.73:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:05] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.72:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:05] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.82:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:06] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.70:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:06] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.84:4120
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:06] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.125:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:06] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.126:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:07] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.89:4120
+   速度: 139.71KB/s | 数据量: 1024.0KB | 总耗时: 7.77s
+[2026-08-06 22:05:07] ❌ 测速失败: http://111.196.134.175:20000/rtp/239.3.1.127:8001
+   错误: HTTPConnectionPool(host='111.196.134.175', port=20000): Read timed out. | 域名: 111.196.134.175
+[2026-08-06 22:05:10] ✅ 测速成功: http://111.196.134.175:20000/rtp/239.3.1.128:8001
+   速度: 372.94KB/s | 数据量: 2048.0KB | 总耗时: 5.92s
+[2026-08-06 22:05:11] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.107:8000
+   速度: 894.80KB/s | 数据量: 5120.0KB | 总耗时: 6.19s
+[2026-08-06 22:05:11] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.138:6000
+   速度: 937.31KB/s | 数据量: 5120.0KB | 总耗时: 6.95s
+[2026-08-06 22:05:11] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.108:8000
+   速度: 870.88KB/s | 数据量: 5120.0KB | 总耗时: 6.35s
+[2026-08-06 22:05:12] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.118:8000
+   速度: 888.24KB/s | 数据量: 5120.0KB | 总耗时: 6.23s
+[2026-08-06 22:05:12] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.117:8000
+   速度: 891.47KB/s | 数据量: 5120.0KB | 总耗时: 6.88s
+[2026-08-06 22:05:13] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.119:8000
+   速度: 877.43KB/s | 数据量: 5120.0KB | 总耗时: 6.96s
+[2026-08-06 22:05:13] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.120:8000
+   速度: 908.60KB/s | 数据量: 5120.0KB | 总耗时: 7.11s
+[2026-08-06 22:05:14] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.23:6000
+   速度: 331.97KB/s | 数据量: 2048.0KB | 总耗时: 6.65s
+[2026-08-06 22:05:14] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.122:8000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:15] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.1.29:6000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:18] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.131:6000
+   速度: 780.53KB/s | 数据量: 4096.0KB | 总耗时: 5.69s
+[2026-08-06 22:05:18] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.18:9610
+   速度: 815.50KB/s | 数据量: 4096.0KB | 总耗时: 5.49s
+[2026-08-06 22:05:18] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.130:6000
+   速度: 940.19KB/s | 数据量: 5120.0KB | 总耗时: 6.89s
+[2026-08-06 22:05:19] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.3:6000
+   速度: 332.41KB/s | 数据量: 2048.0KB | 总耗时: 7.23s
+[2026-08-06 22:05:19] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.5:6000
+   速度: 331.18KB/s | 数据量: 2048.0KB | 总耗时: 6.61s
+[2026-08-06 22:05:20] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.1.8:6000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:20] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.6:6000
+   速度: 349.53KB/s | 数据量: 2048.0KB | 总耗时: 6.99s
+[2026-08-06 22:05:21] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.53:9814
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:21] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.254:6000
+   速度: 308.27KB/s | 数据量: 2048.0KB | 总耗时: 7.10s
+[2026-08-06 22:05:22] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.129:6000
+   速度: 107.45KB/s | 数据量: 1024.0KB | 总耗时: 10.66s
+[2026-08-06 22:05:24] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.134:6000
+   速度: 918.30KB/s | 数据量: 5120.0KB | 总耗时: 6.00s
+[2026-08-06 22:05:25] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.136:6000
+   速度: 897.31KB/s | 数据量: 5120.0KB | 总耗时: 6.17s
+[2026-08-06 22:05:25] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.135:6000
+   速度: 731.90KB/s | 数据量: 4096.0KB | 总耗时: 7.11s
+[2026-08-06 22:05:26] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.11:6000
+   速度: 278.28KB/s | 数据量: 2048.0KB | 总耗时: 7.80s
+[2026-08-06 22:05:26] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.13:6000
+   速度: 279.28KB/s | 数据量: 2048.0KB | 总耗时: 7.81s
+[2026-08-06 22:05:27] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.140:6000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:27] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.139:6000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:27] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.132:6000
+   速度: 860.32KB/s | 数据量: 5120.0KB | 总耗时: 7.44s
+[2026-08-06 22:05:28] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.15:6000
+   速度: 267.98KB/s | 数据量: 2048.0KB | 总耗时: 8.08s
+[2026-08-06 22:05:30] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.141:6000
+   速度: 272.42KB/s | 数据量: 2048.0KB | 总耗时: 7.96s
+[2026-08-06 22:05:30] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.142:6000
+   速度: 912.56KB/s | 数据量: 5120.0KB | 总耗时: 6.05s
+[2026-08-06 22:05:31] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.143:6000
+   速度: 785.97KB/s | 数据量: 4096.0KB | 总耗时: 5.63s
+[2026-08-06 22:05:31] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.145:6000
+   速度: 787.87KB/s | 数据量: 4096.0KB | 总耗时: 5.66s
+[2026-08-06 22:05:32] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.146:6000
+   速度: 867.97KB/s | 数据量: 5120.0KB | 总耗时: 6.32s
+[2026-08-06 22:05:34] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.148:6000
+   速度: 803.04KB/s | 数据量: 4096.0KB | 总耗时: 7.01s
+[2026-08-06 22:05:34] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.147:6000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:34] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.188:6000
+   速度: 853.26KB/s | 数据量: 5120.0KB | 总耗时: 7.08s
+[2026-08-06 22:05:34] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.204:6000
+   速度: 865.82KB/s | 数据量: 5120.0KB | 总耗时: 7.01s
+[2026-08-06 22:05:35] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.185:6000
+   速度: 761.01KB/s | 数据量: 4096.0KB | 总耗时: 7.31s
+[2026-08-06 22:05:35] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.144:6000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:35] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.149:6000
+   速度: 768.28KB/s | 数据量: 4096.0KB | 总耗时: 5.77s
+[2026-08-06 22:05:37] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.49:6000
+   速度: 333.66KB/s | 数据量: 2048.0KB | 总耗时: 6.60s
+[2026-08-06 22:05:38] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.53:6000
+   速度: 373.61KB/s | 数据量: 2048.0KB | 总耗时: 7.35s
+[2026-08-06 22:05:40] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.35:6000
+   速度: 335.26KB/s | 数据量: 2048.0KB | 总耗时: 7.98s
+[2026-08-06 22:05:41] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.41:6000
+   速度: 334.53KB/s | 数据量: 2048.0KB | 总耗时: 7.23s
+[2026-08-06 22:05:41] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.40:6000
+   速度: 286.12KB/s | 数据量: 2048.0KB | 总耗时: 7.62s
+[2026-08-06 22:05:42] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.1.45:6000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:42] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.1.52:6000
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:42] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.44:6000
+   速度: 286.33KB/s | 数据量: 2048.0KB | 总耗时: 7.64s
+[2026-08-06 22:05:44] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.51:6000
+   速度: 278.43KB/s | 数据量: 2048.0KB | 总耗时: 8.43s
+[2026-08-06 22:05:44] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.43:6000
+   速度: 274.10KB/s | 数据量: 2048.0KB | 总耗时: 9.42s
+[2026-08-06 22:05:46] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.0.25:8192
+   速度: 276.46KB/s | 数据量: 2048.0KB | 总耗时: 7.86s
+[2026-08-06 22:05:47] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.1.235:6000
+   速度: 276.41KB/s | 数据量: 2048.0KB | 总耗时: 9.28s
+[2026-08-06 22:05:47] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.19:9614
+   速度: 813.44KB/s | 数据量: 4096.0KB | 总耗时: 5.49s
+[2026-08-06 22:05:48] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.54:9818
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:48] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.0.9:8064
+   速度: 333.46KB/s | 数据量: 2048.0KB | 总耗时: 6.61s
+[2026-08-06 22:05:48] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.0.26:8200
+   速度: 320.84KB/s | 数据量: 2048.0KB | 总耗时: 6.81s
+[2026-08-06 22:05:48] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.50:9802
+   速度: 799.44KB/s | 数据量: 4096.0KB | 总耗时: 6.62s
+[2026-08-06 22:05:49] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.0.183:9434
+   速度: 272.87KB/s | 数据量: 2048.0KB | 总耗时: 8.97s
+[2026-08-06 22:05:50] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.56:9826
+   速度: 918.93KB/s | 数据量: 5120.0KB | 总耗时: 5.99s
+[2026-08-06 22:05:51] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.55:9822
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:52] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.52:9810
+   速度: 954.26KB/s | 数据量: 5120.0KB | 总耗时: 5.78s
+[2026-08-06 22:05:53] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.16:9602
+   速度: 917.86KB/s | 数据量: 5120.0KB | 总耗时: 6.02s
+[2026-08-06 22:05:53] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.12:9418
+   速度: 937.66KB/s | 数据量: 5120.0KB | 总耗时: 5.88s
+[2026-08-06 22:05:53] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.20:9618
+   速度: 801.66KB/s | 数据量: 4096.0KB | 总耗时: 5.53s
+[2026-08-06 22:05:54] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.17:9606
+   速度: 784.83KB/s | 数据量: 4096.0KB | 总耗时: 6.38s
+[2026-08-06 22:05:55] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.11:9414
+   速度: 926.65KB/s | 数据量: 5120.0KB | 总耗时: 7.01s
+[2026-08-06 22:05:55] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.13:9422
+   速度: 770.94KB/s | 数据量: 4096.0KB | 总耗时: 6.78s
+[2026-08-06 22:05:56] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.7:9306
+   速度: 859.13KB/s | 数据量: 5120.0KB | 总耗时: 6.39s
+[2026-08-06 22:05:56] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.15:9430
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:57] ❌ 测速失败: http://114.226.212.150:8787/rtp/239.49.8.57:9830
+   错误: HTTPConnectionPool(host='114.226.212.150', port=8787): Read timed out. | 域名: 114.226.212.150
+[2026-08-06 22:05:58] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.48:8000
+   速度: 814.14KB/s | 数据量: 4096.0KB | 总耗时: 6.21s
+[2026-08-06 22:05:59] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.35:8620
+   速度: 813.19KB/s | 数据量: 4096.0KB | 总耗时: 5.50s
+[2026-08-06 22:05:59] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.8:9632
+   速度: 709.48KB/s | 数据量: 2123.1KB | 总耗时: 5.94s
+[2026-08-06 22:05:59] ✅ 测速成功: http://114.226.212.150:8787/rtp/239.49.8.14:9426
+   速度: 790.13KB/s | 数据量: 3642.1KB | 总耗时: 6.09s
+[2026-08-06 22:06:01] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.138:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:01] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.118:8000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:02] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.122:8000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Max retries exceeded with url: /rtp/239.49.8.122:8000 (Caused by ConnectTimeoutError(<HTTPConnection(host='121.237.244.148', port=8888) at 0x7f28f12fe140>, 'Connection to 121.237.244.148 timed out. (connect timeout=3.05)')) | 域名: 121.237.244.148
+[2026-08-06 22:06:03] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.107:8000
+   速度: 95.97KB/s | 数据量: 763.4KB | 总耗时: 8.42s
+[2026-08-06 22:06:05] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.29:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:06] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.120:8000
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 7.44s
+[2026-08-06 22:06:07] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.3:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:12] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.5:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:13] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.6:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:13] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.119:8000
+   速度: 44.99KB/s | 数据量: 695.3KB | 总耗时: 16.90s
+[2026-08-06 22:06:14] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.23:6000
+   速度: 49.46KB/s | 数据量: 679.8KB | 总耗时: 14.84s
+[2026-08-06 22:06:15] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.117:8000
+   速度: 26.99KB/s | 数据量: 524.3KB | 总耗时: 19.84s
+[2026-08-06 22:06:18] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.130:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:19] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.8:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:19] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.134:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:22] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.108:8000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:22] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.254:6000
+   速度: 79.86KB/s | 数据量: 832.8KB | 总耗时: 10.86s
+[2026-08-06 22:06:24] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.13:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:25] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.131:6000
+   速度: 27.23KB/s | 数据量: 527.2KB | 总耗时: 21.51s
+[2026-08-06 22:06:26] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.136:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:30] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.18:9610
+   速度: 25.01KB/s | 数据量: 562.5KB | 总耗时: 23.99s
+[2026-08-06 22:06:30] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.140:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:36] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.132:6000
+   速度: 35.99KB/s | 数据量: 457.5KB | 总耗时: 13.20s
+[2026-08-06 22:06:39] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.129:6000
+   速度: 18.17KB/s | 数据量: 666.9KB | 总耗时: 37.82s
+[2026-08-06 22:06:40] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.15:6000
+   速度: 39.58KB/s | 数据量: 651.6KB | 总耗时: 17.61s
+[2026-08-06 22:06:40] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.11:6000
+   速度: 27.16KB/s | 数据量: 597.6KB | 总耗时: 24.52s
+[2026-08-06 22:06:41] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.145:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:43] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.139:6000
+   速度: 30.33KB/s | 数据量: 538.7KB | 总耗时: 18.89s
+[2026-08-06 22:06:47] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.53:9814
+   速度: 16.15KB/s | 数据量: 523.1KB | 总耗时: 33.84s
+[2026-08-06 22:06:50] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.204:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:53] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.135:6000
+   速度: 25.56KB/s | 数据量: 901.4KB | 总耗时: 35.68s
+[2026-08-06 22:06:58] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.143:6000
+   速度: 26.73KB/s | 数据量: 699.1KB | 总耗时: 27.36s
+[2026-08-06 22:06:59] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.144:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:06:59] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.142:6000
+   速度: 24.69KB/s | 数据量: 717.1KB | 总耗时: 29.49s
+[2026-08-06 22:07:00] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.188:6000
+   速度: 28.40KB/s | 数据量: 528.2KB | 总耗时: 19.03s
+[2026-08-06 22:07:02] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.141:6000
+   速度: 22.35KB/s | 数据量: 767.3KB | 总耗时: 35.84s
+[2026-08-06 22:07:02] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.147:6000
+   速度: 32.77KB/s | 数据量: 714.5KB | 总耗时: 22.22s
+[2026-08-06 22:07:05] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.35:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:06] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.40:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:07] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.148:6000
+   速度: 19.18KB/s | 数据量: 516.3KB | 总耗时: 27.37s
+[2026-08-06 22:07:08] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.185:6000
+   速度: 31.73KB/s | 数据量: 652.4KB | 总耗时: 21.04s
+[2026-08-06 22:07:13] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.51:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:15] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.53:6000
+   速度: 35.75KB/s | 数据量: 565.5KB | 总耗时: 16.23s
+[2026-08-06 22:07:16] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.1.49:6000
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:19] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.43:6000
+   速度: 35.36KB/s | 数据量: 577.0KB | 总耗时: 16.76s
+[2026-08-06 22:07:22] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.41:6000
+   速度: 38.42KB/s | 数据量: 754.4KB | 总耗时: 20.12s
+[2026-08-06 22:07:22] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.0.183:9434
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:22] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.149:6000
+   速度: 27.56KB/s | 数据量: 885.1KB | 总耗时: 32.52s
+[2026-08-06 22:07:24] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.52:6000
+   速度: 38.89KB/s | 数据量: 606.6KB | 总耗时: 16.05s
+[2026-08-06 22:07:27] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.50:9802
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:27] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.19:9614
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:31] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.146:6000
+   速度: 18.08KB/s | 数据量: 925.8KB | 总耗时: 51.66s
+[2026-08-06 22:07:32] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.44:6000
+   速度: 23.92KB/s | 数据量: 620.7KB | 总耗时: 27.14s
+[2026-08-06 22:07:33] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.56:9826
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:34] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.0.9:8064
+   速度: 56.11KB/s | 数据量: 670.9KB | 总耗时: 12.37s
+[2026-08-06 22:07:37] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.45:6000
+   速度: 23.25KB/s | 数据量: 705.2KB | 总耗时: 30.79s
+[2026-08-06 22:07:38] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.12:9418
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:42] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.11:9414
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:44] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.17:9606
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:47] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.0.26:8200
+   速度: 21.26KB/s | 数据量: 585.6KB | 总耗时: 27.99s
+[2026-08-06 22:07:48] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.0.25:8192
+   速度: 23.40KB/s | 数据量: 759.1KB | 总耗时: 32.91s
+[2026-08-06 22:07:49] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.54:9818
+   速度: 21.96KB/s | 数据量: 524.3KB | 总耗时: 24.29s
+[2026-08-06 22:07:49] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.52:9810
+   速度: 36.03KB/s | 数据量: 651.7KB | 总耗时: 18.52s
+[2026-08-06 22:07:52] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.15:9430
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:53] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.16:9602
+   速度: 39.54KB/s | 数据量: 810.9KB | 总耗时: 20.99s
+[2026-08-06 22:07:53] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.55:9822
+   速度: 20.36KB/s | 数据量: 515.3KB | 总耗时: 25.78s
+[2026-08-06 22:07:54] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.1.235:6000
+   速度: 26.51KB/s | 数据量: 1024.0KB | 总耗时: 40.88s
+[2026-08-06 22:07:58] ❌ 测速失败: http://121.237.244.148:8888/rtp/239.49.8.8:9632
+   错误: HTTPConnectionPool(host='121.237.244.148', port=8888): Read timed out. | 域名: 121.237.244.148
+[2026-08-06 22:07:59] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.27:4328
+   速度: 1111.80KB/s | 数据量: 6144.0KB | 总耗时: 5.96s
+[2026-08-06 22:08:01] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.44:4464
+   速度: 1052.35KB/s | 数据量: 6144.0KB | 总耗时: 7.64s
+[2026-08-06 22:08:01] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.14:9426
+   速度: 52.16KB/s | 数据量: 557.8KB | 总耗时: 12.22s
+[2026-08-06 22:08:04] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.7:9306
+   速度: 28.58KB/s | 数据量: 547.5KB | 总耗时: 19.59s
+[2026-08-06 22:08:04] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.42:4448
+   速度: 865.75KB/s | 数据量: 5120.0KB | 总耗时: 6.39s
+[2026-08-06 22:08:05] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.48:8000
+   速度: 33.64KB/s | 数据量: 524.3KB | 总耗时: 16.06s
+[2026-08-06 22:08:06] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.13:9422
+   速度: 30.46KB/s | 数据量: 706.2KB | 总耗时: 23.66s
+[2026-08-06 22:08:06] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.20:9618
+   速度: 32.02KB/s | 数据量: 995.4KB | 总耗时: 32.19s
+[2026-08-06 22:08:06] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.40:4432
+   速度: 882.36KB/s | 数据量: 5120.0KB | 总耗时: 7.28s
+[2026-08-06 22:08:07] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.61:6360
+   速度: 917.19KB/s | 数据量: 5120.0KB | 总耗时: 6.03s
+[2026-08-06 22:08:07] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.43:4456
+   速度: 929.68KB/s | 数据量: 5120.0KB | 总耗时: 5.97s
+[2026-08-06 22:08:09] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.41:4440
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:10] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.35:8620
+   速度: 62.39KB/s | 数据量: 1024.0KB | 总耗时: 17.51s
+[2026-08-06 22:08:10] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.111:6760
+   速度: 905.00KB/s | 数据量: 5120.0KB | 总耗时: 6.09s
+[2026-08-06 22:08:10] ✅ 测速成功: http://121.237.244.148:8888/rtp/239.49.8.57:9830
+   速度: 46.34KB/s | 数据量: 1024.0KB | 总耗时: 22.57s
+[2026-08-06 22:08:11] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.166:7200
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:12] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.235:7752
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:12] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.170:7232
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:12] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.236:7760
+   速度: 921.02KB/s | 数据量: 5120.0KB | 总耗时: 5.99s
+[2026-08-06 22:08:13] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.171:7240
+   速度: 915.72KB/s | 数据量: 5120.0KB | 总耗时: 6.06s
+[2026-08-06 22:08:13] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.172:7248
+   速度: 928.10KB/s | 数据量: 5120.0KB | 总耗时: 5.97s
+[2026-08-06 22:08:16] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.239:7784
+   速度: 605.87KB/s | 数据量: 3072.0KB | 总耗时: 6.54s
+[2026-08-06 22:08:16] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.173:7256
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:16] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.240:7792
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:16] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.241:7800
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. (read timeout=5) | 域名: 124.112.188.49
+[2026-08-06 22:08:17] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.242:7808
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:17] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.35:4392
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:17] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.206:7502
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:19] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.243:7816
+   速度: 874.51KB/s | 数据量: 5120.0KB | 总耗时: 6.31s
+[2026-08-06 22:08:19] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.222:7648
+   速度: 912.87KB/s | 数据量: 5120.0KB | 总耗时: 6.07s
+[2026-08-06 22:08:20] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.178:7296
+   速度: 871.94KB/s | 数据量: 5120.0KB | 总耗时: 6.35s
+[2026-08-06 22:08:21] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.61:4624
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:21] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.62:4632
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:22] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.137:6968
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:22] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.237:7768
+   速度: 890.42KB/s | 数据量: 5120.0KB | 总耗时: 6.24s
+[2026-08-06 22:08:23] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.53:4560
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.46s
+[2026-08-06 22:08:23] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.54:4568
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:25] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.55:4576
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:26] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.56:4584
+   速度: 912.09KB/s | 数据量: 5120.0KB | 总耗时: 6.08s
+[2026-08-06 22:08:26] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.57:4592
+   速度: 900.78KB/s | 数据量: 5120.0KB | 总耗时: 6.12s
+[2026-08-06 22:08:27] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.63:4640
+   速度: 113.48KB/s | 数据量: 1024.0KB | 总耗时: 9.49s
+[2026-08-06 22:08:27] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.64:4648
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:28] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.60:4616
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:28] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.58:4600
+   速度: 912.43KB/s | 数据量: 5120.0KB | 总耗时: 6.07s
+[2026-08-06 22:08:28] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.59:4608
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:28] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.162:7168
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:28] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.20:6088
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:30] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.168:7216
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:32] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.163:7176
+   速度: 886.86KB/s | 数据量: 5120.0KB | 总耗时: 6.23s
+[2026-08-06 22:08:32] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.150:7072
+   速度: 785.68KB/s | 数据量: 4096.0KB | 总耗时: 5.69s
+[2026-08-06 22:08:33] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.165:7192
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:33] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.160:7152
+   速度: 870.10KB/s | 数据量: 5120.0KB | 总耗时: 7.84s
+[2026-08-06 22:08:33] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.65:4632
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:34] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.169:7224
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:34] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.22:6104
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:34] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.245:7832
+   速度: 914.28KB/s | 数据量: 5120.0KB | 总耗时: 6.05s
+[2026-08-06 22:08:34] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.164:7184
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:37] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.30:6168
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:38] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.26:6136
+   速度: 924.48KB/s | 数据量: 5120.0KB | 总耗时: 5.99s
+[2026-08-06 22:08:39] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.159:7144
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:39] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.161:7160
+   速度: 888.74KB/s | 数据量: 5120.0KB | 总耗时: 6.26s
+[2026-08-06 22:08:39] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.156:7120
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:39] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.48:4496
+   速度: 909.70KB/s | 数据量: 5120.0KB | 总耗时: 6.08s
+[2026-08-06 22:08:40] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.31:6176
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:40] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.49:4504
+   速度: 907.11KB/s | 数据量: 5120.0KB | 总耗时: 6.12s
+[2026-08-06 22:08:40] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.21:6096
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 6.47s
+[2026-08-06 22:08:40] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.244:7824
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:42] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.36:4400
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:45] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.88:6576
+   速度: 340.60KB/s | 数据量: 2048.0KB | 总耗时: 6.48s
+[2026-08-06 22:08:45] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.89:6584
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:46] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.95:6632
+   速度: 339.39KB/s | 数据量: 2048.0KB | 总耗时: 6.51s
+[2026-08-06 22:08:46] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.103:6696
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:46] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.101:6680
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:46] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.70:6432
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:46] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.102:6688
+   速度: 309.58KB/s | 数据量: 2048.0KB | 总耗时: 7.08s
+[2026-08-06 22:08:46] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.109:6744
+   速度: 338.82KB/s | 数据量: 2048.0KB | 总耗时: 6.49s
+[2026-08-06 22:08:46] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.110:6752
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:48] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.104:6704
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:51] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.27:6144
+   速度: 339.28KB/s | 数据量: 2048.0KB | 总耗时: 6.47s
+[2026-08-06 22:08:51] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.73:6456
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:52] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.74:6464
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:52] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.155:7112
+   速度: 885.15KB/s | 数据量: 5120.0KB | 总耗时: 6.26s
+[2026-08-06 22:08:52] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.158:7136
+   速度: 918.02KB/s | 数据量: 5120.0KB | 总耗时: 6.73s
+[2026-08-06 22:08:53] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.246:7840
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:53] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.151:7080
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:53] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.76:6480
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:53] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.81:6520
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:53] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.154:7104
+   速度: 155.98KB/s | 数据量: 1024.0KB | 总耗时: 7.63s
+[2026-08-06 22:08:57] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.9:4184
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:57] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.84:6544
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:57] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.30:4352
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:58] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.97:6648
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:58] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.31:4360
+   速度: 937.48KB/s | 数据量: 5120.0KB | 总耗时: 5.88s
+[2026-08-06 22:08:58] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.130:6912
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:59] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.100:6672
+   速度: 340.16KB/s | 数据量: 2048.0KB | 总耗时: 6.46s
+[2026-08-06 22:08:59] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.185:7352
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:08:59] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.215:7592
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:00] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.131:6920
+   速度: 886.28KB/s | 数据量: 5120.0KB | 总耗时: 6.26s
+[2026-08-06 22:09:03] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.144:7024
+   速度: 919.06KB/s | 数据量: 5120.0KB | 总耗时: 6.02s
+[2026-08-06 22:09:04] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.135:6952
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:04] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.145:7032
+   速度: 910.82KB/s | 数据量: 5120.0KB | 总耗时: 6.74s
+[2026-08-06 22:09:04] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.119:6824
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:05] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.113:6776
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:05] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.136:6960
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:05] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.114:6784
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:05] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.133:6936
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:05] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.132:6928
+   速度: 880.16KB/s | 数据量: 5120.0KB | 总耗时: 6.30s
+[2026-08-06 22:09:06] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.134:6944
+   速度: 908.37KB/s | 数据量: 5120.0KB | 总耗时: 6.10s
+[2026-08-06 22:09:09] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.19:4264
+   速度: 913.09KB/s | 数据量: 5120.0KB | 总耗时: 6.02s
+[2026-08-06 22:09:10] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.189:7384
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:10] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.190:7392
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:10] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.12:4208
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:10] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.14:4224
+   速度: 350.12KB/s | 数据量: 2048.0KB | 总耗时: 6.30s
+[2026-08-06 22:09:11] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.211:7560
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:11] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.147:7048
+   速度: 916.88KB/s | 数据量: 5120.0KB | 总耗时: 6.02s
+[2026-08-06 22:09:12] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.187:7368
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:12] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.28:6152
+   速度: 336.59KB/s | 数据量: 2048.0KB | 总耗时: 7.56s
+[2026-08-06 22:09:12] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.148:7056
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:15] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.125:6872
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:15] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.126:6880
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:16] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.193:7416
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:16] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.127:6888
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:16] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.124:6864
+   速度: 356.95KB/s | 数据量: 2048.0KB | 总耗时: 7.20s
+[2026-08-06 22:09:17] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.29:6160
+   速度: 350.91KB/s | 数据量: 2048.0KB | 总耗时: 6.25s
+[2026-08-06 22:09:18] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.138:6976
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:18] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.128:6896
+   速度: 362.88KB/s | 数据量: 2048.0KB | 总耗时: 6.09s
+[2026-08-06 22:09:18] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.129:6904
+   速度: 361.63KB/s | 数据量: 2048.0KB | 总耗时: 6.15s
+[2026-08-06 22:09:19] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.11:4200
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:21] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.181:7320
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:21] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.180:7312
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:21] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.146:7040
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:22] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.45:4472
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:23] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.80:6512
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:24] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.112:6768
+   速度: 482.20KB/s | 数据量: 3072.0KB | 总耗时: 7.53s
+[2026-08-06 22:09:24] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.15:4232
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:24] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.188:7376
+   速度: 336.62KB/s | 数据量: 2048.0KB | 总耗时: 6.55s
+[2026-08-06 22:09:25] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.117:6808
+   速度: 946.47KB/s | 数据量: 5120.0KB | 总耗时: 5.85s
+[2026-08-06 22:09:26] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.77:6488
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:27] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.199:7464
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:27] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.192:7408
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:28] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.118:6816
+   速度: 920.54KB/s | 数据量: 5120.0KB | 总耗时: 7.02s
+[2026-08-06 22:09:28] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.200:7472
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:29] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.20:4272
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:31] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.149:7064
+   速度: 335.17KB/s | 数据量: 2048.0KB | 总耗时: 6.57s
+[2026-08-06 22:09:31] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.142:7008
+   速度: 337.79KB/s | 数据量: 2048.0KB | 总耗时: 6.50s
+[2026-08-06 22:09:31] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.212:7568
+   速度: 336.53KB/s | 数据量: 2048.0KB | 总耗时: 6.54s
+[2026-08-06 22:09:31] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.213:7576
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:32] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.214:7584
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:34] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.216:7600
+   速度: 161.25KB/s | 数据量: 1024.0KB | 总耗时: 6.84s
+[2026-08-06 22:09:34] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.210:7552
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:34] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.141:7000
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:35] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.139:6984
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:37] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.121:6840
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:37] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.21:4280
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:37] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.220:7632
+   速度: 840.06KB/s | 数据量: 5120.0KB | 总耗时: 6.54s
+[2026-08-06 22:09:38] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.209:7544
+   速度: 339.07KB/s | 数据量: 2048.0KB | 总耗时: 6.47s
+[2026-08-06 22:09:38] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.122:6848
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:40] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.52:4528
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:40] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.123:6856
+   速度: 358.40KB/s | 数据量: 2048.0KB | 总耗时: 6.15s
+[2026-08-06 22:09:41] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.79.46:4480
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:43] ❌ 测速失败: http://124.112.188.49:4022/rtp/238.1.78.197:7448
+   错误: HTTPConnectionPool(host='124.112.188.49', port=4022): Read timed out. | 域名: 124.112.188.49
+[2026-08-06 22:09:44] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.79.47:4488
+   速度: 338.42KB/s | 数据量: 2048.0KB | 总耗时: 8.12s
+[2026-08-06 22:09:44] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.196:7440
+   速度: 334.11KB/s | 数据量: 2048.0KB | 总耗时: 7.24s
+[2026-08-06 22:09:45] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.21:10210
+   速度: 867.25KB/s | 数据量: 5120.0KB | 总耗时: 7.01s
+[2026-08-06 22:09:45] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.164:11640
+   速度: 886.16KB/s | 数据量: 5120.0KB | 总耗时: 6.23s
+[2026-08-06 22:09:46] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.195:7432
+   速度: 148.97KB/s | 数据量: 1024.0KB | 总耗时: 8.85s
+[2026-08-06 22:09:47] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.165:11650
+   速度: 898.65KB/s | 数据量: 5120.0KB | 总耗时: 6.83s
+[2026-08-06 22:09:47] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.167:11670
+   速度: 782.39KB/s | 数据量: 4096.0KB | 总耗时: 6.41s
+[2026-08-06 22:09:48] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.122:2000
+   速度: 884.35KB/s | 数据量: 5120.0KB | 总耗时: 7.27s
+[2026-08-06 22:09:48] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.168:11680
+   速度: 793.72KB/s | 数据量: 4096.0KB | 总耗时: 5.65s
+[2026-08-06 22:09:49] ✅ 测速成功: http://124.112.188.49:4022/rtp/238.1.78.143:7016
+   速度: 43.74KB/s | 数据量: 1024.0KB | 总耗时: 24.46s
+[2026-08-06 22:09:50] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.195:11950
+   速度: 845.73KB/s | 数据量: 5120.0KB | 总耗时: 6.50s
+[2026-08-06 22:09:51] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.149:2000
+   速度: 907.07KB/s | 数据量: 5120.0KB | 总耗时: 6.09s
+[2026-08-06 22:09:51] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.173:11730
+   速度: 903.71KB/s | 数据量: 5120.0KB | 总耗时: 6.11s
+[2026-08-06 22:09:51] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.171:11710
+   速度: 881.39KB/s | 数据量: 5120.0KB | 总耗时: 6.91s
+[2026-08-06 22:09:51] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.204:12040
+   速度: 816.17KB/s | 数据量: 4096.0KB | 总耗时: 5.49s
+[2026-08-06 22:09:53] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.120:11200
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:09:53] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.197:11970
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:09:54] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.122:11220
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:09:55] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.154:2000
+   速度: 817.41KB/s | 数据量: 4096.0KB | 总耗时: 6.54s
+[2026-08-06 22:09:55] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.155:2000
+   速度: 865.34KB/s | 数据量: 5120.0KB | 总耗时: 6.39s
+[2026-08-06 22:09:57] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.158:2000
+   速度: 884.58KB/s | 数据量: 5120.0KB | 总耗时: 6.24s
+[2026-08-06 22:09:57] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.159:2000
+   速度: 900.96KB/s | 数据量: 5120.0KB | 总耗时: 6.12s
+[2026-08-06 22:09:57] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.156:2000
+   速度: 895.58KB/s | 数据量: 5120.0KB | 总耗时: 7.23s
+[2026-08-06 22:09:58] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.179:11790
+   速度: 527.94KB/s | 数据量: 3072.0KB | 总耗时: 6.94s
+[2026-08-06 22:09:59] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.157:2000
+   速度: 864.00KB/s | 数据量: 5120.0KB | 总耗时: 8.44s
+[2026-08-06 22:09:59] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.177:11770
+   速度: 511.99KB/s | 数据量: 3072.0KB | 总耗时: 6.45s
+[2026-08-06 22:10:00] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.58:2000
+   速度: 783.53KB/s | 数据量: 4096.0KB | 总耗时: 5.77s
+[2026-08-06 22:10:00] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.10.165:2000
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:01] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.178:11780
+   速度: 521.86KB/s | 数据量: 3072.0KB | 总耗时: 7.37s
+[2026-08-06 22:10:02] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.164:2000
+   速度: 866.63KB/s | 数据量: 5120.0KB | 总耗时: 7.04s
+[2026-08-06 22:10:03] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.173:2000
+   速度: 817.04KB/s | 数据量: 4096.0KB | 总耗时: 5.49s
+[2026-08-06 22:10:03] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.172:2000
+   速度: 900.96KB/s | 数据量: 5120.0KB | 总耗时: 6.12s
+[2026-08-06 22:10:04] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.59:2000
+   速度: 870.60KB/s | 数据量: 5120.0KB | 总耗时: 6.36s
+[2026-08-06 22:10:05] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.177:2000
+   速度: 798.33KB/s | 数据量: 4096.0KB | 总耗时: 5.62s
+[2026-08-06 22:10:05] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.57:2000
+   速度: 877.48KB/s | 数据量: 5120.0KB | 总耗时: 7.00s
+[2026-08-06 22:10:06] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.154:11540
+   速度: 492.67KB/s | 数据量: 3072.0KB | 总耗时: 6.68s
+[2026-08-06 22:10:06] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.139:11390
+   速度: 505.47KB/s | 数据量: 3072.0KB | 总耗时: 6.61s
+[2026-08-06 22:10:06] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.140:11400
+   速度: 769.55KB/s | 数据量: 4096.0KB | 总耗时: 5.80s
+[2026-08-06 22:10:07] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.155:11550
+   速度: 893.38KB/s | 数据量: 5120.0KB | 总耗时: 6.80s
+[2026-08-06 22:10:08] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.49:2000
+   速度: 884.72KB/s | 数据量: 5120.0KB | 总耗时: 6.26s
+[2026-08-06 22:10:09] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.52:2000
+   速度: 892.17KB/s | 数据量: 5120.0KB | 总耗时: 6.18s
+[2026-08-06 22:10:09] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.71:2000
+   速度: 518.49KB/s | 数据量: 3072.0KB | 总耗时: 6.40s
+[2026-08-06 22:10:10] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.41:10410
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:11] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.32:10320
+   速度: 851.12KB/s | 数据量: 5120.0KB | 总耗时: 6.49s
+[2026-08-06 22:10:11] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.42:10420
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:12] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.19:10190
+   速度: 514.92KB/s | 数据量: 3072.0KB | 总耗时: 8.52s
+[2026-08-06 22:10:12] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.47:10470
+   速度: 1021.64KB/s | 数据量: 5120.0KB | 总耗时: 5.46s
+[2026-08-06 22:10:13] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.45:10450
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:13] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.43:10430
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:14] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.49:10490
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:15] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.50:10500
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:16] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.48:10480
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:17] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.63:10630
+   速度: 955.11KB/s | 数据量: 5120.0KB | 总耗时: 6.60s
+[2026-08-06 22:10:18] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.144:11440
+   速度: 817.85KB/s | 数据量: 4096.0KB | 总耗时: 5.48s
+[2026-08-06 22:10:18] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.142:11420
+   速度: 521.49KB/s | 数据量: 3072.0KB | 总耗时: 6.39s
+[2026-08-06 22:10:19] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.191:11910
+   速度: 519.46KB/s | 数据量: 3072.0KB | 总耗时: 6.38s
+[2026-08-06 22:10:19] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.109:11090
+   速度: 881.73KB/s | 数据量: 5120.0KB | 总耗时: 7.84s
+[2026-08-06 22:10:19] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.192:11920
+   速度: 523.93KB/s | 数据量: 3072.0KB | 总耗时: 6.32s
+[2026-08-06 22:10:20] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.145:11450
+   速度: 914.37KB/s | 数据量: 5120.0KB | 总耗时: 7.05s
+[2026-08-06 22:10:20] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.193:11930
+   速度: 901.87KB/s | 数据量: 5120.0KB | 总耗时: 6.11s
+[2026-08-06 22:10:21] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.205:12050
+   速度: 525.58KB/s | 数据量: 3072.0KB | 总耗时: 6.28s
+[2026-08-06 22:10:22] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.206:12060
+   速度: 869.30KB/s | 数据量: 5120.0KB | 总耗时: 6.35s
+[2026-08-06 22:10:24] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.208:12080
+   速度: 803.76KB/s | 数据量: 4096.0KB | 总耗时: 6.26s
+[2026-08-06 22:10:25] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.209:12090
+   速度: 885.73KB/s | 数据量: 5120.0KB | 总耗时: 6.92s
+[2026-08-06 22:10:25] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.207:12070
+   速度: 494.10KB/s | 数据量: 3072.0KB | 总耗时: 7.67s
+[2026-08-06 22:10:25] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.39:2000
+   速度: 791.88KB/s | 数据量: 4096.0KB | 总耗时: 5.66s
+[2026-08-06 22:10:25] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.235:12350
+   速度: 526.45KB/s | 数据量: 3072.0KB | 总耗时: 6.26s
+[2026-08-06 22:10:25] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.228:12280
+   速度: 511.81KB/s | 数据量: 3072.0KB | 总耗时: 6.48s
+[2026-08-06 22:10:27] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.80:2000
+   速度: 886.15KB/s | 数据量: 5120.0KB | 总耗时: 6.21s
+[2026-08-06 22:10:28] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.93:2000
+   速度: 871.03KB/s | 数据量: 5120.0KB | 总耗时: 6.32s
+[2026-08-06 22:10:28] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.232:12320
+   速度: 861.84KB/s | 数据量: 5120.0KB | 总耗时: 8.50s
+[2026-08-06 22:10:29] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.94:2000
+   速度: 519.64KB/s | 数据量: 3072.0KB | 总耗时: 6.35s
+[2026-08-06 22:10:30] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.1:10010
+   速度: 851.23KB/s | 数据量: 5120.0KB | 总耗时: 6.49s
+[2026-08-06 22:10:30] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.3:10030
+   速度: 790.76KB/s | 数据量: 4096.0KB | 总耗时: 5.65s
+[2026-08-06 22:10:31] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.2:10020
+   速度: 884.58KB/s | 数据量: 5120.0KB | 总耗时: 6.24s
+[2026-08-06 22:10:32] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.4:10040
+   速度: 874.48KB/s | 数据量: 5120.0KB | 总耗时: 6.32s
+[2026-08-06 22:10:32] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.5:10050
+   速度: 898.94KB/s | 数据量: 5120.0KB | 总耗时: 6.14s
+[2026-08-06 22:10:33] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.53:10530
+   速度: 860.56KB/s | 数据量: 5120.0KB | 总耗时: 7.15s
+[2026-08-06 22:10:33] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.6:10060
+   速度: 904.91KB/s | 数据量: 5120.0KB | 总耗时: 6.79s
+[2026-08-06 22:10:34] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.51:10510
+   速度: 809.99KB/s | 数据量: 4096.0KB | 总耗时: 6.63s
+[2026-08-06 22:10:35] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.8:10080
+   速度: 866.52KB/s | 数据量: 5120.0KB | 总耗时: 7.46s
+[2026-08-06 22:10:36] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.9:10090
+   速度: 889.83KB/s | 数据量: 5120.0KB | 总耗时: 7.24s
+[2026-08-06 22:10:36] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.11:10110
+   速度: 543.82KB/s | 数据量: 3072.0KB | 总耗时: 6.08s
+[2026-08-06 22:10:37] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.13:10130
+   速度: 800.08KB/s | 数据量: 4096.0KB | 总耗时: 5.60s
+[2026-08-06 22:10:37] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.12:10120
+   速度: 871.02KB/s | 数据量: 5120.0KB | 总耗时: 6.34s
+[2026-08-06 22:10:38] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.14:10140
+   速度: 911.02KB/s | 数据量: 5120.0KB | 总耗时: 6.05s
+[2026-08-06 22:10:38] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.10:10100
+   速度: 882.68KB/s | 数据量: 5120.0KB | 总耗时: 7.31s
+[2026-08-06 22:10:39] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.15:10150
+   速度: 896.76KB/s | 数据量: 5120.0KB | 总耗时: 6.16s
+[2026-08-06 22:10:40] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.71:10710
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:40] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.7:10070
+   速度: 164.05KB/s | 数据量: 1024.0KB | 总耗时: 6.67s
+[2026-08-06 22:10:41] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.72:10720
+   速度: 718.23KB/s | 数据量: 4096.0KB | 总耗时: 6.15s
+[2026-08-06 22:10:42] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.73:10730
+   速度: 744.98KB/s | 数据量: 4096.0KB | 总耗时: 5.99s
+[2026-08-06 22:10:43] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.74:10740
+   速度: 905.61KB/s | 数据量: 5120.0KB | 总耗时: 6.10s
+[2026-08-06 22:10:43] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.77:10770
+   速度: 805.44KB/s | 数据量: 4096.0KB | 总耗时: 5.56s
+[2026-08-06 22:10:43] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.76:10760
+   速度: 929.21KB/s | 数据量: 5120.0KB | 总耗时: 5.94s
+[2026-08-06 22:10:43] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.75:10750
+   速度: 892.61KB/s | 数据量: 5120.0KB | 总耗时: 6.18s
+[2026-08-06 22:10:44] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.79:10790
+   速度: 863.83KB/s | 数据量: 5120.0KB | 总耗时: 6.40s
+[2026-08-06 22:10:45] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.80:10800
+   速度: 895.44KB/s | 数据量: 5120.0KB | 总耗时: 6.17s
+[2026-08-06 22:10:46] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.82:10820
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. (read timeout=5) | 域名: 171.8.105.109
+[2026-08-06 22:10:46] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.81:10810
+   速度: 815.04KB/s | 数据量: 4096.0KB | 总耗时: 5.71s
+[2026-08-06 22:10:47] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.83:10830
+   速度: 898.58KB/s | 数据量: 5120.0KB | 总耗时: 6.14s
+[2026-08-06 22:10:48] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.84:10840
+   速度: 894.01KB/s | 数据量: 5120.0KB | 总耗时: 6.17s
+[2026-08-06 22:10:49] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.85:10850
+   速度: 872.54KB/s | 数据量: 5120.0KB | 总耗时: 6.32s
+[2026-08-06 22:10:49] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.87:10870
+   速度: 912.16KB/s | 数据量: 5120.0KB | 总耗时: 6.04s
+[2026-08-06 22:10:50] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.86:10860
+   速度: 853.27KB/s | 数据量: 5120.0KB | 总耗时: 6.48s
+[2026-08-06 22:10:50] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.89:10890
+   速度: 798.21KB/s | 数据量: 4096.0KB | 总耗时: 5.61s
+[2026-08-06 22:10:51] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.88:10880
+   速度: 879.43KB/s | 数据量: 5120.0KB | 总耗时: 7.33s
+[2026-08-06 22:10:51] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.95:10950
+   速度: 779.36KB/s | 数据量: 4096.0KB | 总耗时: 5.74s
+[2026-08-06 22:10:52] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.96:10960
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:52] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.94:10940
+   速度: 868.96KB/s | 数据量: 5120.0KB | 总耗时: 7.36s
+[2026-08-06 22:10:53] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.97:10970
+   速度: 921.01KB/s | 数据量: 5120.0KB | 总耗时: 5.99s
+[2026-08-06 22:10:56] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.102:11020
+   速度: 918.30KB/s | 数据量: 5120.0KB | 总耗时: 6.00s
+[2026-08-06 22:10:56] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.98:10980
+   速度: 908.66KB/s | 数据量: 5120.0KB | 总耗时: 7.78s
+[2026-08-06 22:10:57] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.124:11240
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:10:57] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.101:11010
+   速度: 850.78KB/s | 数据量: 5120.0KB | 总耗时: 7.54s
+[2026-08-06 22:10:57] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.78:10780
+   速度: 895.83KB/s | 数据量: 5120.0KB | 总耗时: 7.45s
+[2026-08-06 22:10:57] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.38:10380
+   速度: 893.67KB/s | 数据量: 5120.0KB | 总耗时: 6.54s
+[2026-08-06 22:10:57] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.99:10990
+   速度: 859.05KB/s | 数据量: 5120.0KB | 总耗时: 8.49s
+[2026-08-06 22:10:59] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.40:10400
+   速度: 877.63KB/s | 数据量: 5120.0KB | 总耗时: 6.28s
+[2026-08-06 22:10:59] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.39:10390
+   速度: 868.57KB/s | 数据量: 5120.0KB | 总耗时: 7.03s
+[2026-08-06 22:10:59] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.64:10640
+   速度: 895.13KB/s | 数据量: 5120.0KB | 总耗时: 6.17s
+[2026-08-06 22:11:02] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.156:11560
+   速度: 857.66KB/s | 数据量: 5120.0KB | 总耗时: 6.45s
+[2026-08-06 22:11:03] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.153:11530
+   速度: 792.11KB/s | 数据量: 4096.0KB | 总耗时: 5.66s
+[2026-08-06 22:11:03] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.112:11120
+   速度: 889.20KB/s | 数据量: 5120.0KB | 总耗时: 6.42s
+[2026-08-06 22:11:03] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.111:11110
+   速度: 854.18KB/s | 数据量: 5120.0KB | 总耗时: 7.37s
+[2026-08-06 22:11:04] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.115:11150
+   速度: 861.81KB/s | 数据量: 5120.0KB | 总耗时: 6.41s
+[2026-08-06 22:11:04] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.104:11040
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:04] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.113:11130
+   速度: 885.82KB/s | 数据量: 5120.0KB | 总耗时: 7.25s
+[2026-08-06 22:11:04] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.67:10670
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:04] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.114:11140
+   速度: 871.51KB/s | 数据量: 5120.0KB | 总耗时: 7.35s
+[2026-08-06 22:11:05] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.68:10680
+   速度: 791.42KB/s | 数据量: 4096.0KB | 总耗时: 5.66s
+[2026-08-06 22:11:08] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.10.218:2000
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:08] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.128:11280
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:09] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.10.60:2000
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. (read timeout=5) | 域名: 171.8.105.109
+[2026-08-06 22:11:09] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.132:11320
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:10] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.137:11370
+   速度: 814.69KB/s | 数据量: 4096.0KB | 总耗时: 5.50s
+[2026-08-06 22:11:10] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.168:2000
+   速度: 514.52KB/s | 数据量: 3072.0KB | 总耗时: 6.45s
+[2026-08-06 22:11:10] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.47:2000
+   速度: 907.21KB/s | 数据量: 5120.0KB | 总耗时: 6.07s
+[2026-08-06 22:11:10] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.153:2000
+   速度: 527.76KB/s | 数据量: 3072.0KB | 总耗时: 7.30s
+[2026-08-06 22:11:11] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.151:11510
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:11] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.169:2000
+   速度: 516.64KB/s | 数据量: 3072.0KB | 总耗时: 7.04s
+[2026-08-06 22:11:13] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.152:11520
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. (read timeout=5) | 域名: 171.8.105.109
+[2026-08-06 22:11:15] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.27:10270
+   速度: 889.15KB/s | 数据量: 5120.0KB | 总耗时: 6.20s
+[2026-08-06 22:11:16] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.31:10310
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:16] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.18:10180
+   速度: 889.38KB/s | 数据量: 5120.0KB | 总耗时: 6.21s
+[2026-08-06 22:11:16] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.44:10440
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:16] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.52:10520
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:16] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.20:10200
+   速度: 799.23KB/s | 数据量: 4096.0KB | 总耗时: 6.63s
+[2026-08-06 22:11:16] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.25:10250
+   速度: 887.67KB/s | 数据量: 5120.0KB | 总耗时: 6.21s
+[2026-08-06 22:11:17] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.135:11350
+   速度: 890.76KB/s | 数据量: 5120.0KB | 总耗时: 6.19s
+[2026-08-06 22:11:18] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.59:10590
+   速度: 518.75KB/s | 数据量: 3072.0KB | 总耗时: 7.41s
+[2026-08-06 22:11:19] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.174:11740
+   速度: 852.65KB/s | 数据量: 5120.0KB | 总耗时: 6.48s
+[2026-08-06 22:11:20] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.175:11750
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:21] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.183:11830
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:21] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.210:12100
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:21] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.216:12160
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:22] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.20.217:12170
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 5.48s
+[2026-08-06 22:11:22] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.184:11840
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:22] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.215:12150
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:23] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.227:12270
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:23] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=379f66acfb5b38ad2e22debe09682e18&wsTime=1785999704 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 22:11:23] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.20.234:12340
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:24] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-08-06 22:11:24] ✅ 测速成功: http://198.204.240.250:82/live/cctv1.m3u8
+   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 0.85s
+[2026-08-06 22:11:24] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-06 22:11:25] ✅ 测速成功: http://198.204.240.250:82/live/cctv6.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.21s
+[2026-08-06 22:11:25] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 22:11:25] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.10.72:2000
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:25] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 22:11:25] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-08-06 22:11:26] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 22:11:26] ❌ 测速失败: http://171.8.105.109:8800/rtp/239.16.10.73:2000
+   错误: HTTPConnectionPool(host='171.8.105.109', port=8800): Read timed out. | 域名: 171.8.105.109
+[2026-08-06 22:11:26] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 278.32KB/s | 数据量: 0.3KB | 总耗时: 0.35s
+[2026-08-06 22:11:26] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
+[2026-08-06 22:11:26] ✅ 测速成功: http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.33s
+[2026-08-06 22:11:26] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-08-06 22:11:26] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
+   速度: 1.09KB/s | 数据量: 0.2KB | 总耗时: 1.64s
+[2026-08-06 22:11:26] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-08-06 22:11:26] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
+[2026-08-06 22:11:27] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.43s
+[2026-08-06 22:11:27] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.43s
+[2026-08-06 22:11:27] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.43s
+[2026-08-06 22:11:27] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-08-06 22:11:27] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
+[2026-08-06 22:11:27] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 22:11:27] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 22:11:28] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-08-06 22:11:28] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.180:2000
+   速度: 789.88KB/s | 数据量: 4096.0KB | 总耗时: 5.69s
+[2026-08-06 22:11:28] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.40s
+[2026-08-06 22:11:28] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-08-06 22:11:28] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.97:2000
+   速度: 518.18KB/s | 数据量: 3072.0KB | 总耗时: 6.38s
+[2026-08-06 22:11:28] ✅ 测速成功: http://play.kankanlive.com/live/1698423397390920.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.29s
+[2026-08-06 22:11:28] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.84:2000
+   速度: 526.51KB/s | 数据量: 3072.0KB | 总耗时: 6.93s
+[2026-08-06 22:11:28] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-08-06 22:11:28] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-08-06 22:11:28] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.45s
+[2026-08-06 22:11:28] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.179:2000
+   速度: 514.39KB/s | 数据量: 3072.0KB | 总耗时: 6.45s
+[2026-08-06 22:11:28] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-08-06 22:11:28] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-08-06 22:11:28] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-08-06 22:11:28] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 284.18KB/s | 数据量: 0.3KB | 总耗时: 0.35s
+[2026-08-06 22:11:28] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.32s
+[2026-08-06 22:11:28] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.95:2000
+   速度: 517.18KB/s | 数据量: 3072.0KB | 总耗时: 7.10s
+[2026-08-06 22:11:29] ✅ 测速成功: http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.43s
+[2026-08-06 22:11:29] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.41s
+[2026-08-06 22:11:29] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.20s
+[2026-08-06 22:11:29] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 22:11:29] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 22:11:29] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-08-06 22:11:29] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.14s
+[2026-08-06 22:11:29] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
+   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.13s
+[2026-08-06 22:11:29] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.33s
+[2026-08-06 22:11:29] ✅ 测速成功: http://171.8.105.109:8800/rtp/239.16.10.214:2000
+   速度: 517.91KB/s | 数据量: 3072.0KB | 总耗时: 6.39s
+[2026-08-06 22:11:29] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 536.13KB/s | 数据量: 0.5KB | 总耗时: 0.22s
+[2026-08-06 22:11:29] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.17s
+[2026-08-06 22:11:29] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.35s
+[2026-08-06 22:11:29] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.72s
+[2026-08-06 22:11:29] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.73s
+[2026-08-06 22:11:29] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.23s
+[2026-08-06 22:11:29] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.45s
+[2026-08-06 22:11:29] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.29s
+[2026-08-06 22:11:30] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.11s
+[2026-08-06 22:11:30] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.77s
+[2026-08-06 22:11:33] ❌ 测速失败: http://gmxw.7766.org:808/hls/15/index.m3u8
+   错误: HTTPConnectionPool(host='gmxw.7766.org', port=808): Max retries exceeded with url: /hls/15/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='gmxw.7766.org', port=808) at 0x7f28f12febe0>, 'Connection to gmxw.7766.org timed out. (connect timeout=3.05)')) | 域名: gmxw.7766.org
