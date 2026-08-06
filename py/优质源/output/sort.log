@@ -1,412 +1,194 @@
-测速日志 2026-08-06 10:25:07
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.126:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.126:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.25:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.25:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.150:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.150:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.154:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.154:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.241:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.241:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.151:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.151:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.164:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.164:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.168:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.168:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.156:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.156:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.165:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.165:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.135:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.135:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.170:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.170:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.27:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.27:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.93:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.93:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.201:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.201:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.136:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.136:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.172:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.172:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:10] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.171:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.171:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.173:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.173:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.137:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.137:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.178:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.178:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.138:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.138:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.179:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.179:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.139:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.139:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.182:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.182:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.230:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.230:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.140:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.140:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.15:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.15:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.38:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.38:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.29:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.29:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.45:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.45:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.52:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.52:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.56:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.56:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.51:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.51:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.60:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.60:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.63:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.63:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.47:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.47:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.58:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.58:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.206:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.206:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.117:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.117:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.125:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.125:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.122:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.122:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.123:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.123:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.131:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.131:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.116:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.116:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.181:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.181:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.141:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.141:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.115:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.115:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.130:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.130:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.124:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.124:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.186:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.186:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.185:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.185:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.95:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.95:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.26:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.26:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.110:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.110:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.74:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.74:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.82:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.82:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:11] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.49:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.49:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.80:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.80:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.101:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.101:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.40:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.40:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.35:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.35:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.34:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.34:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.18:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.18:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.86:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.86:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.180:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.180:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.76:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.76:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.111:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.111:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.50:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.50:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.114:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.114:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.160:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.160:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.238:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.238:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.212:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.212:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.239:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.239:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.161:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.161:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.67:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.67:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.163:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.163:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.169:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.169:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.90:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.90:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.162:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.162:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.98:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.98:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.107:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.107:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.108:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.108:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.133:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.133:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.127:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.127:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.128:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.128:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.149:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.149:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.134:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.134:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.53:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.53:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.59:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.59:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.188:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.188:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.28:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.28:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.6:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.6:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.198:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.198:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.43:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.43:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.103:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.103:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.8:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.8:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:12] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.159:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.159:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.157:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.157:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.57:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.57:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.104:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.104:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.213:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.213:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.109:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.109:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.148:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.148:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.102:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.102:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.105:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.105:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=59c7f537aae742f9030cdce2d1a6f600&wsTime=1785996091 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.118:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.118:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.119:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.119:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ✅ 测速成功: http://198.204.240.250:82/live/cctv1.m3u8
+测速日志 2026-08-06 16:32:33
+[2026-08-06 16:32:35] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=379f66acfb5b38ad2e22debe09682e18&wsTime=1785999704 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 16:32:36] ✅ 测速成功: http://198.204.240.250:82/live/cctv1.m3u8
    速度: 40.04KB/s | 数据量: 0.0KB | 总耗时: 0.06s
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.203:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.203:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.187:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.187:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.197:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.197:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.214:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.214:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.155:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.155:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.48:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.48:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ❌ 测速失败: http://116.2.172.210:4010/rtp/232.0.0.215:1234
-   错误: HTTPConnectionPool(host='116.2.172.210', port=4010): Max retries exceeded with url: /rtp/232.0.0.215:1234 (Caused by NewConnectionError("HTTPConnection(host='116.2.172.210', port=4010): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 116.2.172.210
-[2026-08-06 10:25:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.53s
-[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 10:25:13] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.49s
+[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.49s
+[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.49s
+[2026-08-06 16:32:36] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-08-06 16:32:36] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+   速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-06 16:32:36] ✅ 测速成功: http://221.13.235.58:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-08-06 16:32:36] ✅ 测速成功: http://198.204.240.250:82/live/cctv6.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.09s
+[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-08-06 16:32:36] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
    速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.40s
-[2026-08-06 10:25:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
+[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 16:32:36] ✅ 测速成功: http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.40s
+[2026-08-06 16:32:36] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 10:25:13] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2026-08-06 10:25:14] ✅ 测速成功: http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.39s
-[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 10:25:14] ✅ 测速成功: http://198.204.240.250:82/live/cctv6.m3u8
-   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 0.83s
-[2026-08-06 10:25:14] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-08-06 10:25:14] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.46s
-[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 10:25:14] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.55s
-[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 10:25:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
-[2026-08-06 10:25:15] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+[2026-08-06 16:32:36] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/641886683
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.51s
-[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/624878396
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.43s
-[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/631780421
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.88s
-[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/608807419
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.83s
-[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/608807416
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.86s
-[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/673168121
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.34s
-[2026-08-06 10:25:15] ✅ 测速成功: http://27.12.12.100:1234/631780532
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 2.33s
-[2026-08-06 10:25:15] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-06 10:25:16] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-08-06 10:25:16] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
-[2026-08-06 10:25:16] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.47s
-[2026-08-06 10:25:16] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-08-06 10:25:16] ✅ 测速成功: http://play.kankanlive.com/live/1698423397390920.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.53s
-[2026-08-06 10:25:16] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.48s
-[2026-08-06 10:25:16] ✅ 测速成功: http://27.12.12.100:1234/673168140
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.43s
-[2026-08-06 10:25:16] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
-[2026-08-06 10:25:16] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 16:32:36] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-06 16:32:37] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2026-08-06 10:25:16] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-08-06 10:25:16] ✅ 测速成功: http://27.12.12.100:1234/624878405
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.28s
-[2026-08-06 10:25:16] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.39s
-[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/667987558
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-08-06 10:25:17] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.42s
-[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/624878440
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.36s
-[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/673168223
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.29s
-[2026-08-06 10:25:17] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.19s
-[2026-08-06 10:25:17] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
-   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 1.53s
-[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/673168185
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 2.13s
-[2026-08-06 10:25:17] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
+[2026-08-06 16:32:37] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+   速度: 189.45KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-06 16:32:37] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-06 16:32:37] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.57s
+[2026-08-06 16:32:37] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 16:32:37] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-06 16:32:38] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
+[2026-08-06 16:32:38] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.57s
+[2026-08-06 16:32:39] ✅ 测速成功: http://play.kankanlive.com/live/1698423397390920.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.99s
+[2026-08-06 16:32:40] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.54s
+[2026-08-06 16:32:40] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.48s
+[2026-08-06 16:32:41] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/631780532
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv2hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260806135848&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=27.12.12.100&SecurityKey=20260806135848&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ca91871711eb02689aa269701964b5e9&ddCalcu=9ceav59ab1z48a67911701719e6b20a2a698&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/631780421
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv4hd265/51/20191230/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260806135926&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=27.12.12.100&SecurityKey=20260806135926&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b6cb99ee7c17f99b17d20f59e69bd497&ddCalcu=7b96v4cadbyb9a996eee975cf1072fd9791b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/608807416
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260806140635&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=27.12.12.100&SecurityKey=20260806140635&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=db122d47443f5beeee9f190c60443b9d&ddCalcu=dd9bvb1a32y42a4d0467c404931ff59beeee&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/608807419
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20260806144741&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=27.12.12.100&SecurityKey=20260806144741&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f0a7661042fd51dba5d663a4d61042f8&ddCalcu=8ff0v2aa47y06a1661d044a23f6d65d15dab&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/624878396
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv6hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260806140002&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=27.12.12.100&SecurityKey=20260806140002&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e55c7747885706e7067d3515944a2dfc&ddCalcu=cef5vd5a2cba7a47449758185537d0766e07&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:46] ❌ 测速失败: http://27.12.12.100:1234/641886683
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv5hd265/51/20191230/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260806135738&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=27.12.12.100&SecurityKey=20260806135738&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bed66112b095be08826d7fccc1f2ddff&ddCalcu=fbfevddad6w26af111c2cbc0f975db6e2088&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2026-08-06 16:32:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-06 16:32:47] ❌ 测速失败: http://27.12.12.100:1234/673168121
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260806140024&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=27.12.12.100&SecurityKey=20260806140024&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=716dbab839dcb7ac556ec4d9b6ae3671&ddCalcu=1771v66a3ddebaaa6bb893d94dcceb675a5c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-08-06 16:32:47] ✅ 测速成功: http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
+   速度: 422.35KB/s | 数据量: 0.4KB | 总耗时: 0.59s
+[2026-08-06 16:32:47] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.90s
+[2026-08-06 16:32:47] ✅ 测速成功: http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 0.40s
+[2026-08-06 16:32:47] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-08-06 16:32:47] ❌ 测速失败: http://27.12.12.100:1234/673168140
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260806135033&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=27.12.12.100&SecurityKey=20260806135033&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cb31c85d981ccf605c214fb75a5b3eeb&ddCalcu=bcebve3a31dbca58a55d79b8f14c1c2fc650&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:47] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-08-06 16:32:48] ✅ 测速成功: http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.37s
+[2026-08-06 16:32:48] ✅ 测速成功: http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.66s
+[2026-08-06 16:32:48] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
    速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s
-[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/673168256
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.38s
-[2026-08-06 10:25:17] ✅ 测速成功: http://27.12.12.100:1234/608807420
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.39s
-[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/641886773
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.33s
-[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/849116810
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.48s
-[2026-08-06 10:25:18] ✅ 测速成功: http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.58s
-[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/956923145
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/738910914
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.42s
-[2026-08-06 10:25:18] ✅ 测速成功: http://27.12.12.100:1234/651632648
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/608917627
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.27s
-[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/849119120
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.31s
-[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/608831231
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.34s
-[2026-08-06 10:25:19] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/962042070
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.28s
-[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/947472496
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.44s
-[2026-08-06 10:25:19] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.99s
-[2026-08-06 10:25:19] ✅ 测速成功: http://27.12.12.100:1234/947472502
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.49s
-[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/790187291
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.28s
-[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/947472500
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.42s
-[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/623899368
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.41s
-[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/956904896
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.35s
-[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/630291707
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.45s
-[2026-08-06 10:25:20] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.03s
-[2026-08-06 10:25:20] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.05s
-[2026-08-06 10:25:20] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.11s
-[2026-08-06 10:25:20] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 10:25:20] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-08-06 10:25:20] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
+[2026-08-06 16:32:48] ❌ 测速失败: http://27.12.12.100:1234/624878405
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv10hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260806135025&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=27.12.12.100&SecurityKey=20260806135025&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=07fdda50c4141ae4c690152ce2a02b8f&ddCalcu=f087vbfa2dy0daaa25e0cc245114019a6ec4&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:50] ❌ 测速失败: http://27.12.12.100:1234/667987558
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv11hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260806140120&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=27.12.12.100&SecurityKey=20260806140120&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2a92e5ae742b06b075952a4548d23382&ddCalcu=228av39a32z2ead58a4e5744a22b50965b70&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:51] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 1.07s
+[2026-08-06 16:32:52] ✅ 测速成功: http://27.12.12.100:1234/849116810
+   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.52s
+[2026-08-06 16:32:56] ❌ 测速失败: http://27.12.12.100:1234/673168185
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260806135919&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=27.12.12.100&SecurityKey=20260806135919&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5d7c6014860831964b76ada7149db280&ddCalcu=058dv27abcdd6a90411478a6d0a86371b946&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:56] ❌ 测速失败: http://27.12.12.100:1234/624878440
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv14hd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260806140120&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=27.12.12.100&SecurityKey=20260806140120&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bc7faedc406e3b0f97a611bb50f9de46&ddCalcu=6b4cve7adfy9aafe0d5cb4b0161e63ab709f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:56] ❌ 测速失败: http://27.12.12.100:1234/673168223
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260806140120&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=27.12.12.100&SecurityKey=20260806140120&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1227e006b4177d3909ee36a78f541ace&ddCalcu=e1c2va2a17a4ea50f0867ba46137e7ed9309&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:57] ❌ 测速失败: http://27.12.12.100:1234/673168256
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260806135718&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=27.12.12.100&SecurityKey=20260806135718&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6625d4e6d282740f8b8e5fddc9447207&ddCalcu=7606v22a75a4da449ec6ddd2f852e784b08f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:57] ❌ 测速失败: http://27.12.12.100:1234/608807420
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/cctv1hd265/51/20191230/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260806135820&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=27.12.12.100&SecurityKey=20260806135820&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=41cf010d9e15a5bad270b75394489cd5&ddCalcu=54d1vcca9fy80a41409d395e71b50a752bda&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:57] ❌ 测速失败: http://27.12.12.100:1234/641886773
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260806135944&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=27.12.12.100&SecurityKey=20260806135944&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b2cb330091a91c6aa2778fdec65ce6e7&ddCalcu=7be2v6caebxc3a5360c0e9d1fa89717c26aa&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:57] ❌ 测速失败: http://27.12.12.100:1234/956923145
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/btws/51/20250804/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260806140122&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=27.12.12.100&SecurityKey=20260806140122&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c7be76c91074214f36db810e2a682b83&ddCalcu=3c87vbba2ed87a66ac29e1001784b2d1643f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:58] ❌ 测速失败: http://27.12.12.100:1234/738910914
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260806155903&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=27.12.12.100&SecurityKey=20260806155903&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cf9f9cead451196a3c9d75216d3722cf&ddCalcu=fccfv29a2fl79a3cde6a1d245571d199c63a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:32:58] ❌ 测速失败: http://27.12.12.100:1234/651632648
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/dongfanghd265/51/20191230/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260806151106&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=27.12.12.100&SecurityKey=20260806151106&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=54d533a8a53fe7011ccebd8f0ddae01f&ddCalcu=f514v0dae5wa3ad3da08fa85d3bfeec7c011&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:00] ✅ 测速成功: http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 2.54s
+[2026-08-06 16:33:02] ❌ 测速失败: http://27.12.12.100:1234/608917627
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260806140210&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=27.12.12.100&SecurityKey=20260806140210&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=48d9e6c2ffca5007ee13621227653d6d&ddCalcu=d468vdda39w5ea667c222f1f2c6a3510e0e7&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:05] ❌ 测速失败: http://27.12.12.100:1234/849119120
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260806155852&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=27.12.12.100&SecurityKey=20260806155852&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4dde1149dd71b67274afddd3b5f83de0&ddCalcu=04edvdda3ed81af154b93dddd7d1fba64772&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/608831231
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260806134855&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=27.12.12.100&SecurityKey=20260806134855&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=53dca48a0612c58b5e59dc5eca8bc82f&ddCalcu=f523v8daccabaa84a8cae056c1d29c55e85b&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/947472496
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/hbwshd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260806135940&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=27.12.12.100&SecurityKey=20260806135940&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=758116be0f44fe3ae30bb306400a054e&ddCalcu=e745v58a01ya1a060b4e600f34b4bf0e33ea&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/962042070
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/hbws/51/20251225/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20260806135409&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=27.12.12.100&SecurityKey=20260806135409&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=20961832accedcaf6693731eb9c54dca&ddCalcu=a2c0vd9a46c51ac893b2ea1c3c7e3d9c6a6f&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/947472502
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/SD/lvyou/711/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260806135904&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=27.12.12.100&SecurityKey=20260806135904&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9323cf196509e2ac2a5cd07a9eaa819c&ddCalcu=c993v12a83zacaafe199a67500d9ce52aa2c&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:06] ❌ 测速失败: http://27.12.12.100:1234/790187291
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /wd-henanwssd-600/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260806135123&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=27.12.12.100&SecurityKey=20260806135123&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=165f8cd844984ede076dece9e6539bf1&ddCalcu=11f6vb5a9fa38a5c6de894e4c9e8d46e7d0e&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:07] ❌ 测速失败: http://27.12.12.100:1234/947472500
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260806135055&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=27.12.12.100&SecurityKey=20260806135055&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5724e2bfb182bb72dc2af0c0461fc98b&ddCalcu=b587v92ac4zfea126b4f0bc108f2ab2bc7d2&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:08] ❌ 测速失败: http://27.12.12.100:1234/623899368
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/jswshd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260806135118&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=27.12.12.100&SecurityKey=20260806135118&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=00916ed12a30452924aca7f9c53c538b&ddCalcu=b080v39a51bc6a3e5dc192fa73a0c4a54229&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:08] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.79s
+[2026-08-06 16:33:08] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.05s
+[2026-08-06 16:33:08] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.07s
+[2026-08-06 16:33:08] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.03s
+[2026-08-06 16:33:08] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
    速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.03s
-[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/947472506
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.27s
-[2026-08-06 10:25:20] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.10s
-[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/609154353
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.28s
-[2026-08-06 10:25:20] ✅ 测速成功: http://27.12.12.100:1234/738910535
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.46s
-[2026-08-06 10:25:21] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 536.13KB/s | 数据量: 0.5KB | 总耗时: 0.11s
-[2026-08-06 10:25:21] ✅ 测速成功: http://27.12.12.100:1234/961023778
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.31s
-[2026-08-06 10:25:21] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.13s
-[2026-08-06 10:25:21] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.16s
-[2026-08-06 10:25:21] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 361.33KB/s | 数据量: 0.4KB | 总耗时: 0.78s
-[2026-08-06 10:25:21] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 1620.12KB/s | 数据量: 1.6KB | 总耗时: 0.23s
-[2026-08-06 10:25:21] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.66s
-[2026-08-06 10:25:21] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+[2026-08-06 16:33:08] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 16:33:08] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-08-06 16:33:08] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.69s
+[2026-08-06 16:33:08] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s | 数据量: 0.5KB | 总耗时: 0.34s
+[2026-08-06 16:33:09] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
    速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.46s
-[2026-08-06 10:25:21] ✅ 测速成功: http://27.12.12.100:1234/738910838
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.40s
-[2026-08-06 10:25:21] ✅ 测速成功: http://gmxw.7766.org:808/hls/15/index.m3u8
-   速度: 238.28KB/s | 数据量: 0.2KB | 总耗时: 1.48s
-[2026-08-06 10:25:21] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.10s
+[2026-08-06 16:33:09] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 1685.55KB/s | 数据量: 1.7KB | 总耗时: 0.10s
+[2026-08-06 16:33:09] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.15s
+[2026-08-06 16:33:09] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.00s
+[2026-08-06 16:33:09] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.21s
+[2026-08-06 16:33:09] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 0.23s
+[2026-08-06 16:33:10] ❌ 测速失败: http://27.12.12.100:1234/630291707
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/lnwshd265/54/20200407/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260806135853&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=27.12.12.100&SecurityKey=20260806135853&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a27394322bae6fdedac08dd704002500&ddCalcu=0a02v57a23x09a04430272dbda8e06cfadde&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:11] ❌ 测速失败: http://27.12.12.100:1234/956904896
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260806140212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=27.12.12.100&SecurityKey=20260806140212&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2a7447b826d767fa336dcf15b5326ed0&ddCalcu=02dave7a64k24a375bb85216fdc7d6673f3a&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:11] ✅ 测速成功: http://gmxw.7766.org:808/hls/15/index.m3u8
+   速度: 238.28KB/s | 数据量: 0.2KB | 总耗时: 4.99s
+[2026-08-06 16:33:15] ❌ 测速失败: http://27.12.12.100:1234/738910535
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260806135553&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=27.12.12.100&SecurityKey=20260806135553&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8f9479a6c0f27152ebfbcf7fa1b52622&ddCalcu=282fv69a24z57ab91aa6fc70ffc2b7f1b5e2&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:16] ❌ 测速失败: http://27.12.12.100:1234/947472506
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260806154837&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=27.12.12.100&SecurityKey=20260806154837&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b0614cef216f5e1ea163290c99436ebe&ddCalcu=ebb0ve6a61z34a4c9e9fc201962f356e11ae&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:16] ❌ 测速失败: http://27.12.12.100:1234/609154353
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260806142703&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=27.12.12.100&SecurityKey=20260806142703&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0889d60f07035b80a110f395af240f10&ddCalcu=0018vf8a09b4da26f0af509730f3051b18a0&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:16] ❌ 测速失败: http://27.12.12.100:1234/961023778
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/ssws/50/20251127/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260806140122&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=27.12.12.100&SecurityKey=20260806140122&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5f66e69efbc267e6c50cb9528b0dfe2e&ddCalcu=e52fve6af6xdea06b98e2f5b9cb2c6075ec6&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
+[2026-08-06 16:33:16] ❌ 测速失败: http://27.12.12.100:1234/738910838
+   错误: HTTPConnectionPool(host='gslbmgsplive.miguvideo.com', port=80): Max retries exceeded with url: /migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=5dfe0e644a0d98373650b5a81968c2ba&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260806152057&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=27.12.12.100&SecurityKey=20260806152057&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9fc06f21c02c85baab7ec3ac48065e7c&ddCalcu=c97fveca50k66a0f8241cca032cce875bbaa&sv=10004&ct=android (Caused by NewConnectionError("HTTPConnection(host='gslbmgsplive.miguvideo.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: 27.12.12.100
