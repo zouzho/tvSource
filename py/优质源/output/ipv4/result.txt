@@ -1,8 +1,8 @@
 央视频道,#genre#
 CCTV1,http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
 CCTV1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV2,http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
 CCTV2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+CCTV2,http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
 CCTV3,http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
 CCTV3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
@@ -13,20 +13,17 @@ CCTV5,http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
 CCTV5,http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
 CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 CCTV6,http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
-CCTV6,http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
 CCTV6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV7,http://221.13.235.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
 CCTV7,http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
 CCTV8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 CCTV9,https://xykt-fix.github.io/Y77.m3u8
-CCTV9,http://221.13.235.58:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV9,http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
 CCTV9,http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
 CCTV10,http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV10,http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
 CCTV10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
-CCTV11,http://221.13.235.58:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
 CCTV12,http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV12,http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
@@ -44,6 +41,7 @@ CCTV16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 安徽卫视,http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 河南卫视,http://221.13.235.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://115.48.161.87:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
 数字频道,#genre#
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
@@ -58,7 +56,7 @@ HBO SIGNATURE,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 Khushboo Bangla,https://cdn-4.pishow.tv/live/1473/master.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=8f1e52436ffcc2afd374b70b5734b85b&wsTime=1786082483
-未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=206d6a10594a81d26b4a4fd9a1884c23&wsTime=1786100345
+未知频道,https://wildearth-plex.amagi.tv/masterR1080p.m3u8#http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来音乐台,rtmp://f13h.mine.nu/sat/tv701
