@@ -1,18 +1,21 @@
 央视频道,#genre#
-CCTV1,http://1.28.123.148:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://112.30.73.119:229/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV1,http://113.9.214.47:9003/hls/1/index.m3u8
+CCTV1,http://113.9.214.47:9003/hls/1/index.m3u8
+CCTV1,http://1.28.123.148:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://1.28.123.148:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://112.30.73.119:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
 CCTV4,http://113.9.214.47:9003/hls/4/index.m3u8
 CCTV4,http://113.9.214.47:9003/hls/4/index.m3u8
+CCTV5,http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://112.30.73.119:229/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://112.30.73.119:229/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6,http://112.30.73.119:229/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6,http://112.30.73.119:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6,http://112.30.73.119:229/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV6,http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
 CCTV7,http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
+CCTV7,http://113.9.214.47:9003/hls/7/index.m3u8
 CCTV8,http://112.249.75.196:9989/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
 CCTV8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
@@ -30,6 +33,7 @@ CCTV14,http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
 CCTV15,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV15,http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
 CCTV15,http://113.9.214.47:9003/hls/15/index.m3u8
+CCTV15,http://113.9.214.47:9003/hls/15/index.m3u8
 CCTV17,http://113.9.214.47:9003/hls/17/index.m3u8
 卫视频道,#genre#
 湖南卫视,http://113.9.214.47:9003/hls/43/index.m3u8
@@ -42,6 +46,7 @@ CCTV17,http://113.9.214.47:9003/hls/17/index.m3u8
 重庆卫视,http://113.9.214.47:9003/hls/47/index.m3u8
 重庆卫视,http://61.161.61.119:9004/hls/41/index.m3u8
 四川卫视,http://112.249.75.196:9989/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://113.9.214.47:9003/hls/40/index.m3u8
 四川卫视,http://113.9.214.47:9003/hls/40/index.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 深圳卫视,http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
@@ -60,8 +65,9 @@ CCTV17,http://113.9.214.47:9003/hls/17/index.m3u8
 吉林卫视,http://112.249.75.196:9989/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://113.9.214.47:9003/hls/35/index.m3u8
 辽宁卫视,http://113.9.214.47:9003/hls/36/index.m3u8
-山东卫视,http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
 山东卫视,http://113.9.214.47:9003/hls/38/index.m3u8
+山东卫视,http://113.9.214.47:9003/hls/38/index.m3u8
+山东卫视,http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
 海南卫视,http://112.234.22.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://113.9.214.47:9003/hls/48/index.m3u8
 云南卫视,http://113.9.214.47:9003/hls/52/index.m3u8
@@ -70,12 +76,8 @@ CCTV17,http://113.9.214.47:9003/hls/17/index.m3u8
 卡酷少儿,http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://112.99.195.122:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://113.9.214.47:9003/hls/59/index.m3u8
-☘️上海市,#genre#
-上海动漫秀场,http://61.161.61.119:9004/hls/84/index.m3u8
 ☘️福建省,#genre#
 厦门卫视,http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
-☘️上海市,#genre#
-上海动漫秀场,http://61.161.61.119:9004/hls/84/index.m3u8
 ☘️天津市,#genre#
 天津卫视,http://113.9.214.47:9003/hls/39/index.m3u8
 ☘️港·澳·台,#genre#
@@ -87,6 +89,6 @@ HBO SIGNATURE,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 Khushboo Bangla,https://cdn-4.pishow.tv/live/1473/master.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+未知频道,https://wildearth-plex.amagi.tv/masterR1080p.m3u8#http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来音乐台,rtmp://f13h.mine.nu/sat/tv701
