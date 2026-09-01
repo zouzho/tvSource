@@ -5103,3 +5103,4 @@ d2e1asnsl7br7b.cloudfront.net
 1.192.242.239
 114.254.38.234
 111.196.130.52
+live.zohi.tv
