@@ -1,45 +1,101 @@
-测速日志 2026-09-07 10:57:41
-[2026-09-07 10:57:44] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.46s
-[2026-09-07 10:57:44] ✅ 测速成功: http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.47s
-[2026-09-07 10:57:44] ✅ 测速成功: http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.47s
-[2026-09-07 10:57:44] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-09-07 10:57:44] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.49s
-[2026-09-07 10:57:44] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.49s
-[2026-09-07 10:57:44] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-09-07 10:57:44] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-09-07 10:57:44] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2026-09-07 10:57:44] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.13s
-[2026-09-07 10:57:44] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.13s
-[2026-09-07 10:57:44] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
-   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.15s
-[2026-09-07 10:57:44] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.20s
-[2026-09-07 10:57:44] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 567.38KB/s | 数据量: 0.6KB | 总耗时: 0.22s
-[2026-09-07 10:57:44] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.22s
-[2026-09-07 10:57:44] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+测速日志 2026-09-07 19:37:19
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:27] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2865.23KB/s | 数据量: 2.9KB | 总耗时: 3.63s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2872.07KB/s | 数据量: 2.9KB | 总耗时: 3.62s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2858.40KB/s | 数据量: 2.9KB | 总耗时: 3.62s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2861.33KB/s | 数据量: 2.9KB | 总耗时: 3.63s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2867.19KB/s | 数据量: 2.9KB | 总耗时: 3.63s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2854.49KB/s | 数据量: 2.9KB | 总耗时: 3.65s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2858.40KB/s | 数据量: 2.9KB | 总耗时: 3.66s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2876.95KB/s | 数据量: 2.9KB | 总耗时: 3.66s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2868.16KB/s | 数据量: 2.9KB | 总耗时: 3.67s
+[2026-09-07 19:37:30] ✅ 测速成功: http://101.66.198.251:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2868.16KB/s | 数据量: 2.9KB | 总耗时: 3.69s
+[2026-09-07 19:37:31] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.43s
+[2026-09-07 19:37:31] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.48s
+[2026-09-07 19:37:32] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.38s
+[2026-09-07 19:37:33] ✅ 测速成功: https://hwapi.yntv.net/62hdvf/utrat7.m3u8
+   速度: 266.60KB/s | 数据量: 0.3KB | 总耗时: 1.18s
+[2026-09-07 19:37:33] ✅ 测速成功: http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-09-07 19:37:35] ✅ 测速成功: http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 4.89s
+[2026-09-07 19:37:36] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:36] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:36] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:36] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:36] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:36] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:36] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:36] ❌ 测速失败: http://101.66.198.251:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.251', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.198.251
+[2026-09-07 19:37:36] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-09-07 19:37:36] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-09-07 19:37:36] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
+   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.05s
+[2026-09-07 19:37:36] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.09s
+[2026-09-07 19:37:36] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.12s
+[2026-09-07 19:37:36] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.09s
+[2026-09-07 19:37:36] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.24s
+[2026-09-07 19:37:36] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-09-07 19:37:36] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
    速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.20s
-[2026-09-07 10:57:44] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.87s
-[2026-09-07 10:57:44] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.48s
-[2026-09-07 10:57:44] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.31s
-[2026-09-07 10:57:44] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.72s
-[2026-09-07 10:57:44] ✅ 测速成功: https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
-   速度: 299.80KB/s | 数据量: 0.3KB | 总耗时: 1.22s
-[2026-09-07 10:57:45] ✅ 测速成功: https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-   速度: 266.60KB/s | 数据量: 0.3KB | 总耗时: 1.51s
-[2026-09-07 10:57:45] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 275.39KB/s | 数据量: 0.3KB | 总耗时: 1.13s
+[2026-09-07 19:37:36] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.37s
+[2026-09-07 19:37:36] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-09-07 19:37:36] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 1062.50KB/s | 数据量: 1.1KB | 总耗时: 0.32s
+[2026-09-07 19:37:36] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 567.38KB/s | 数据量: 0.6KB | 总耗时: 0.48s
+[2026-09-07 19:37:36] ✅ 测速成功: http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 2.91s
+[2026-09-07 19:37:36] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.67s
+[2026-09-07 19:37:36] ✅ 测速成功: https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+   速度: 299.80KB/s | 数据量: 0.3KB | 总耗时: 1.13s
+[2026-09-07 19:37:36] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 275.39KB/s | 数据量: 0.3KB | 总耗时: 0.81s
