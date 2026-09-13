@@ -1,5 +1,6 @@
 央视频道,#genre#
 CCTV9,https://xykt-fix.github.io/Y77.m3u8
+CCTV9,https://xykt-fix.github.io/Y77.m3u8
 CCTV15,https://xykt-fix.github.io/play/a02e/index.m3u8
 卫视频道,#genre#
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
@@ -12,6 +13,6 @@ HBO SIGNATURE,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 Khushboo Bangla,https://cdn-4.pishow.tv/live/1473/master.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+未知频道,https://wildearth-plex.amagi.tv/masterR1080p.m3u8#http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来音乐台,rtmp://f13h.mine.nu/sat/tv701
