@@ -1,147 +1,31 @@
-测速日志 2026-09-26 00:34:08
-[2026-09-26 00:34:14] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d079e50>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:14] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d119010>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:14] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0b7950>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:14] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d69c0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:15] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2902.34KB/s | 数据量: 2.9KB | 总耗时: 4.25s
-[2026-09-26 00:34:15] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2863.28KB/s | 数据量: 2.9KB | 总耗时: 4.25s
-[2026-09-26 00:34:15] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2868.16KB/s | 数据量: 2.9KB | 总耗时: 4.26s
-[2026-09-26 00:34:15] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2863.28KB/s | 数据量: 2.9KB | 总耗时: 4.27s
-[2026-09-26 00:34:15] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2863.28KB/s | 数据量: 2.9KB | 总耗时: 4.27s
-[2026-09-26 00:34:15] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 181.16KB/s | 数据量: 2.9KB | 总耗时: 4.30s
-[2026-09-26 00:34:17] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d7020>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:17] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d7460>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:18] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d78a0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:18] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d6140>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:18] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d5ae0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:19] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:19] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:20] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d7460>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:20] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:20] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:21] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d69c0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:22] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:23] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:23] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d6be0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:23] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d6250>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:24] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:24] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:24] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:25] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d7ce0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:25] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:25] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:26] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2869.14KB/s | 数据量: 2.9KB | 总耗时: 4.76s
-[2026-09-26 00:34:26] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2866.21KB/s | 数据量: 2.9KB | 总耗时: 3.51s
-[2026-09-26 00:34:26] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f4088d44490>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:27] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d7020>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:28] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d6ad0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:28] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:29] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:29] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d5260>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:30] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:31] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:31] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:31] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d7350>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:31] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:31] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:32] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d7570>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:33] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:34] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d78a0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:34] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d68b0>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:35] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+测速日志 2026-09-26 05:06:16
+[2026-09-26 05:06:19] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-09-26 05:06:19] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-09-26 05:06:19] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.10s
+[2026-09-26 05:06:19] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.11s
+[2026-09-26 05:06:19] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
    速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.12s
-[2026-09-26 00:34:35] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:36] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:36] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.69s
-[2026-09-26 00:34:36] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.02s
-[2026-09-26 00:34:36] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.06s
-[2026-09-26 00:34:36] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.11s
-[2026-09-26 00:34:36] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:36] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-09-26 00:34:36] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-09-26 00:34:36] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
-   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.13s
-[2026-09-26 00:34:36] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:36] ❌ 测速失败: http://1.197.250.140:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-   错误: HTTPConnectionPool(host='1.197.250.140', port=9901): Max retries exceeded with url: /tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='1.197.250.140', port=9901) at 0x7f408d0d5260>, 'Connection to 1.197.250.140 timed out. (connect timeout=3.05)')) | 域名: 1.197.250.140
-[2026-09-26 00:34:36] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.04s
-[2026-09-26 00:34:36] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.49s
-[2026-09-26 00:34:36] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.35s
-[2026-09-26 00:34:36] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.29s
-[2026-09-26 00:34:36] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.36s
-[2026-09-26 00:34:36] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
-[2026-09-26 00:34:36] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 567.38KB/s | 数据量: 0.6KB | 总耗时: 0.47s
-[2026-09-26 00:34:36] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2882.81KB/s | 数据量: 2.9KB | 总耗时: 4.62s
-[2026-09-26 00:34:37] ✅ 测速成功: http://101.66.194.125:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 1793.57KB/s | 数据量: 2.9KB | 总耗时: 5.57s
-[2026-09-26 00:34:37] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 0.77s
-[2026-09-26 00:34:37] ✅ 测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 2.88s
-[2026-09-26 00:34:39] ❌ 测速失败: http://101.66.194.125:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='101.66.194.125', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.194.125
+[2026-09-26 05:06:19] ✅ 测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
+   速度: 1414.06KB/s | 数据量: 2.5KB | 总耗时: 0.12s
+[2026-09-26 05:06:19] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.13s
+[2026-09-26 05:06:19] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.09s
+[2026-09-26 05:06:19] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.14s
+[2026-09-26 05:06:19] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 567.38KB/s | 数据量: 0.6KB | 总耗时: 0.20s
+[2026-09-26 05:06:19] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.35s
+[2026-09-26 05:06:19] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.49s
+[2026-09-26 05:06:19] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.74s
+[2026-09-26 05:06:19] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.75s
+[2026-09-26 05:06:20] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.03s
+[2026-09-26 05:06:21] ✅ 测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 2.56s
