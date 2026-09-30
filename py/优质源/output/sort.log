@@ -1,33 +1,33 @@
-测速日志 2026-09-30 12:02:49
-[2026-09-30 12:02:51] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-09-30 12:02:51] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-09-30 12:02:52] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.02s
-[2026-09-30 12:02:52] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.05s
-[2026-09-30 12:02:52] ✅ 测速成功: https://xykt-fix.github.io/play/a02g/index.m3u8
-   速度: 220.70KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-09-30 12:02:52] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 300.78KB/s | 数据量: 0.3KB | 总耗时: 0.05s
-[2026-09-30 12:02:52] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.06s
-[2026-09-30 12:02:52] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.22s
-[2026-09-30 12:02:52] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.31s
-[2026-09-30 12:02:52] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.37s
-[2026-09-30 12:02:52] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 1740.23KB/s | 数据量: 1.7KB | 总耗时: 0.35s
-[2026-09-30 12:02:52] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.21s
-[2026-09-30 12:02:52] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.47s
-[2026-09-30 12:02:52] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.73s
-[2026-09-30 12:02:52] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 0.91s
-[2026-09-30 12:02:53] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.28s
-[2026-09-30 12:02:53] ✅ 测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 2.00s
+测速日志 2026-09-30 19:56:22
+[2026-09-30 19:56:25] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-09-30 19:56:25] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-09-30 19:56:25] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.06s
+[2026-09-30 19:56:25] ✅ 测速成功: https://xykt-fix.github.io/play/a02g/index.m3u8
+   速度: 220.70KB/s | 数据量: 0.2KB | 总耗时: 0.07s
+[2026-09-30 19:56:25] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.12s
+[2026-09-30 19:56:25] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.16s
+[2026-09-30 19:56:25] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.03s
+[2026-09-30 19:56:25] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.06s
+[2026-09-30 19:56:25] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.16s
+[2026-09-30 19:56:25] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.44s
+[2026-09-30 19:56:25] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.53s
+[2026-09-30 19:56:25] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 567.38KB/s | 数据量: 0.6KB | 总耗时: 0.48s
+[2026-09-30 19:56:25] ✅ 测速成功: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 0.68s
+[2026-09-30 19:56:25] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.72s
+[2026-09-30 19:56:26] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.14s
+[2026-09-30 19:56:26] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
+   速度: 0.95KB/s | 数据量: 0.2KB | 总耗时: 1.74s
+[2026-09-30 19:56:27] ✅ 测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 2.02s
