@@ -1,35 +1,33 @@
-测速日志 2026-10-04 12:22:35
-[2026-10-04 12:22:37] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-10-04 12:22:37] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-10-04 12:22:37] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+测速日志 2026-10-04 19:47:51
+[2026-10-04 19:47:53] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-10-04 19:47:53] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-10-04 19:47:53] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
    速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.06s
-[2026-10-04 12:22:37] ❌ 测速失败: https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-   错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) | 域名: d1k6kax80wecy5.cloudfront.net
-[2026-10-04 12:22:37] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+[2026-10-04 19:47:53] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.07s
+[2026-10-04 19:47:53] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
    速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.09s
-[2026-10-04 12:22:37] ✅ 测速成功: https://xykt-fix.github.io/play/a02g/index.m3u8
-   速度: 220.70KB/s | 数据量: 0.2KB | 总耗时: 0.15s
-[2026-10-04 12:22:37] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.20s
-[2026-10-04 12:22:38] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+[2026-10-04 19:47:53] ✅ 测速成功: https://xykt-fix.github.io/play/a02g/index.m3u8
+   速度: 220.70KB/s | 数据量: 0.2KB | 总耗时: 0.16s
+[2026-10-04 19:47:53] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.11s
+[2026-10-04 19:47:53] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.13s
+[2026-10-04 19:47:53] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
    速度: 567.38KB/s | 数据量: 0.6KB | 总耗时: 0.22s
-[2026-10-04 12:22:38] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.16s
-[2026-10-04 12:22:38] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.15s
-[2026-10-04 12:22:38] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+[2026-10-04 19:47:53] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 0.32s
+[2026-10-04 19:47:53] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-10-04 19:47:53] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.25s
+[2026-10-04 19:47:54] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
    速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.45s
-[2026-10-04 12:22:38] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.28s
-[2026-10-04 12:22:38] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.77s
-[2026-10-04 12:22:38] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 0.77s
-[2026-10-04 12:22:40] ✅ 测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-   速度: 266.60KB/s | 数据量: 0.3KB | 总耗时: 2.57s
-[2026-10-04 12:22:40] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
-   速度: 1.29KB/s | 数据量: 0.2KB | 总耗时: 2.61s
-[2026-10-04 12:22:40] ✅ 测速成功: http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=5fec3df34e3f435ce242458fb86a74
-   速度: 664.06KB/s | 数据量: 0.7KB | 总耗时: 3.17s
-[2026-10-04 12:22:41] ✅ 测速成功: http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=8a5d59f6aa673404ffa630e5132359
-   速度: 664.06KB/s | 数据量: 0.7KB | 总耗时: 3.25s
+[2026-10-04 19:47:54] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.75s
+[2026-10-04 19:47:56] ✅ 测速成功: http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=8a5d59f6aa673404ffa630e5132359
+   速度: 665.04KB/s | 数据量: 0.7KB | 总耗时: 3.01s
+[2026-10-04 19:47:56] ✅ 测速成功: http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=5fec3df34e3f435ce242458fb86a74
+   速度: 665.04KB/s | 数据量: 0.7KB | 总耗时: 3.02s
+[2026-10-04 19:47:57] ✅ 测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+   速度: 266.60KB/s | 数据量: 0.3KB | 总耗时: 3.73s
