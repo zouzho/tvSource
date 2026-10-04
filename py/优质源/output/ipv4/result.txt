@@ -3,7 +3,6 @@ CCTV9,https://xykt-fix.github.io/Y77.m3u8
 CCTV12,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=8a5d59f6aa673404ffa630e5132359
 CCTV15,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=5fec3df34e3f435ce242458fb86a74
 卫视频道,#genre#
-深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 广东卫视,http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 ☘️港·澳·台,#genre#
