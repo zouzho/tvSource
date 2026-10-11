@@ -1,9 +1,9 @@
 央视频道,#genre#
 CCTV9,https://xykt-fix.github.io/Y77.m3u8
-CCTV11,http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
 CCTV16,http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
 CETV2,http://121.19.134.202:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
+浙江卫视,http://113.57.140.161:10081/newlive/live/hls/32/live.m3u8
 东方卫视,http://113.57.140.161:10081/newlive/live/hls/29/live.m3u8
 深圳卫视,http://125.125.236.31:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
