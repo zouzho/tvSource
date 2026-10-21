@@ -1,39 +1,161 @@
-测速日志 2026-10-21 11:22:11
-[2026-10-21 11:22:13] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.03s
-[2026-10-21 11:22:13] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.09s
-[2026-10-21 11:22:13] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-10-21 11:22:13] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-10-21 11:22:13] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.10s
-[2026-10-21 11:22:13] ✅ 测速成功: https://xykt-fix.github.io/play/a02g/index.m3u8
-   速度: 9159.18KB/s | 数据量: 9.2KB | 总耗时: 0.08s
-[2026-10-21 11:22:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-10-21 11:22:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-10-21 11:22:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2026-10-21 11:22:13] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.43s
-[2026-10-21 11:22:13] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.09s
-[2026-10-21 11:22:13] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.19s
-[2026-10-21 11:22:13] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.44s
-[2026-10-21 11:22:13] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-   速度: 567.38KB/s | 数据量: 0.6KB | 总耗时: 0.21s
-[2026-10-21 11:22:13] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-   速度: 1630.86KB/s | 数据量: 1.6KB | 总耗时: 0.25s
-[2026-10-21 11:22:14] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 0.63s
-[2026-10-21 11:22:14] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
-   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.75s
-[2026-10-21 11:22:14] ✅ 测速成功: http://121.19.134.202:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.89s
-[2026-10-21 11:22:14] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.07s
-[2026-10-21 11:22:14] ✅ 测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-   速度: 266.60KB/s | 数据量: 0.3KB | 总耗时: 1.66s
+测速日志 2026-10-21 19:11:13
+[2026-10-21 19:11:21] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:21] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:21] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:21] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:21] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:21] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1014_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:21] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:21] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1019_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:22] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:23] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:26] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:26] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1004_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:26] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:26] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:26] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1005_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:26] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:26] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1006_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:26] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:27] ✅ 测速成功: http://219.159.147.195:9901/tsfile/live/1008_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 5.18s
+[2026-10-21 19:11:27] ✅ 测速成功: http://219.159.147.195:9901/tsfile/live/1008_1.m3u8?key=txiptv
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 4.17s
+[2026-10-21 19:11:27] ✅ 测速成功: http://219.159.147.195:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.00s
+[2026-10-21 19:11:27] ✅ 测速成功: http://219.159.147.195:9901/tsfile/live/1032_1.m3u8?key=txiptv
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.01s
+[2026-10-21 19:11:27] ✅ 测速成功: http://219.159.147.195:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.03s
+[2026-10-21 19:11:27] ✅ 测速成功: http://219.159.147.195:9901/tsfile/live/1010_1.m3u8?key=txiptv
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.02s
+[2026-10-21 19:11:27] ✅ 测速成功: http://219.159.147.195:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 1.03s
+[2026-10-21 19:11:31] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:31] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1011_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:32] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1023_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:32] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:32] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:32] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1024_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:32] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1033_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:32] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:32] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1037_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:32] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1009_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:36] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:37] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1027_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:37] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:37] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1029_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:38] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:38] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1002_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:38] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:38] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1018_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:38] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:38] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1016_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:42] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1028_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:42] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1035_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1030_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1034_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1031_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:43] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-10-21 19:11:43] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-10-21 19:11:43] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.53s
+[2026-10-21 19:11:44] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.58s
+[2026-10-21 19:11:44] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.13s
+[2026-10-21 19:11:44] ✅ 测速成功: https://cdn-4.pishow.tv/live/1473/master.m3u8
+   速度: 152.34KB/s | 数据量: 0.2KB | 总耗时: 0.78s
+[2026-10-21 19:11:44] ✅ 测速成功: http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.39s
+[2026-10-21 19:11:44] ✅ 测速成功: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.23s
+[2026-10-21 19:11:44] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv771 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-10-21 19:11:44] RTMP检测异常: rtmp://f13h.mine.nu/sat/tv701 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-10-21 19:11:44] ✅ 测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.23s
+[2026-10-21 19:11:44] ✅ 测速成功: https://xykt-fix.github.io/play/a02g/index.m3u8
+   速度: 9159.18KB/s | 数据量: 9.2KB | 总耗时: 0.14s
+[2026-10-21 19:11:45] ✅ 测速成功: http://121.19.134.202:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.50s
+[2026-10-21 19:11:45] ✅ 测速成功: https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+   速度: 495.12KB/s | 数据量: 0.5KB | 总耗时: 0.41s
+[2026-10-21 19:11:45] ✅ 测速成功: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+   速度: 304.69KB/s | 数据量: 0.3KB | 总耗时: 0.16s
+[2026-10-21 19:11:45] ✅ 测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+   速度: 266.60KB/s | 数据量: 0.3KB | 总耗时: 1.70s
+[2026-10-21 19:11:45] ✅ 测速成功: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 0.72s
+[2026-10-21 19:11:45] ✅ 测速成功: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s | 数据量: 0.8KB | 总耗时: 0.16s
+[2026-10-21 19:11:45] ✅ 测速成功: https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+   速度: 567.38KB/s | 数据量: 0.6KB | 总耗时: 0.49s
+[2026-10-21 19:11:45] ✅ 测速成功: https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.23s
+[2026-10-21 19:11:47] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:47] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1026_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:48] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1017_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:48] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:48] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1036_1.m3u8?key=txiptv
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
+[2026-10-21 19:11:48] ❌ 测速失败: http://219.159.147.195:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='219.159.147.195', port=9901): Read timed out. (read timeout=5) | 域名: 219.159.147.195
