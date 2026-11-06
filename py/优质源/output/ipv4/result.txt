@@ -39,6 +39,6 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Футбол,https://xykt-fix.github.io/play/a02g/index.m3u8
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-未知频道,https://wildearth-plex.amagi.tv/masterR1080p.m3u8#http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+未知频道,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来音乐台,rtmp://f13h.mine.nu/sat/tv701
