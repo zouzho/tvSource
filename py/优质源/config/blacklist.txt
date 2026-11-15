@@ -5379,3 +5379,7 @@ xiangxiws.vip
 58.46.70.91
 112.85.93.3
 1.192.240.71
+36.24.254.195
+36.24.254.207
+live-hls-web-aja.getaj.net
+live.gstv.com.cn
