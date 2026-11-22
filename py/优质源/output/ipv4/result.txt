@@ -5,8 +5,8 @@ CCTV1,http://222.240.44.42:12810/newlive/live/hls/1/live.m3u8
 CCTV2,http://182.115.48.225:20002/631780532
 CCTV3,http://182.115.48.225:20002/624878271
 CCTV3,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-CCTV4,http://182.115.48.225:20002/608807419
 CCTV4,http://182.115.48.225:20002/608807416
+CCTV4,http://182.115.48.225:20002/608807419
 CCTV4,http://182.115.48.225:20002/631780421
 CCTV5,http://182.115.48.225:20002/641886683
 CCTV5,http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
@@ -42,9 +42,9 @@ CCTV17,http://182.115.48.225:20002/673168256
 东南卫视,http://60.187.246.34:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://113.57.140.161:10081/newlive/live/hls/20/live.m3u8
 深圳卫视,http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
+广东卫视,http://182.115.48.225:20002/608831231
 广东卫视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
 广东卫视,http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
-广东卫视,http://182.115.48.225:20002/608831231
 河北卫视,http://182.115.48.225:20002/962042070
 河南卫视,http://182.115.48.225:20002/790187291
 湖北卫视,http://182.115.48.225:20002/947472496
@@ -69,8 +69,8 @@ CHC影迷电影,http://182.115.48.225:20002/952383261
 ☘️港·澳·台,#genre#
 凤凰中文,http://app.kds666.top:5566/api.php?id=1&s=2
 凤凰资讯,http://app.kds666.top:5566/api.php?id=2&s=2
-凤凰香港,http://app.kds666.top:5566/api.php?id=129&s=11
 凤凰香港,http://app.kds666.top:5566/api.php?id=3&s=2
+凤凰香港,http://app.kds666.top:5566/api.php?id=129&s=11
 其他,#genre#
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
